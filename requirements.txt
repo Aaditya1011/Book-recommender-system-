@@ -3,6 +3,7 @@ Bottleneck
 click
 colorama
 Flask 
+gunicorn==23.0.0
 importlib-metadata
 itsdangerous
 Jinja2
