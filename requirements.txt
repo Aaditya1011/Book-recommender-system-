@@ -1,22 +1,22 @@
-blinker @ file:///C:/b/abs_d9y2dm7cw2/croot/blinker_1696539752170/work
-Bottleneck @ file:///C:/b/abs_f05kqh7yvj/croot/bottleneck_1707864273291/work
-click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
-colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
-Flask @ file:///C:/b/abs_f9w7doyu0h/croot/flask_1716545924884/work
-importlib-metadata @ file:///C:/b/abs_c1egths604/croot/importlib_metadata-suite_1704813568388/work
-itsdangerous @ file:///C:/b/abs_c4vwgdr5yn/croot/itsdangerous_1716533399914/work
-Jinja2 @ file:///C:/b/abs_92fccttino/croot/jinja2_1716993447201/work
-MarkupSafe @ file:///C:/b/abs_ecfdqh67b_/croot/markupsafe_1704206030535/work
+blinker
+Bottleneck 
+click
+colorama
+Flask 
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe 
 mkl-fft==1.3.1
-mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-random
 mkl-service==2.4.0
-numexpr @ file:///C:/b/abs_a7kbak88hk/croot/numexpr_1668713882979/work
-numpy @ file:///C:/b/abs_54abayvc9j/croot/numpy_and_numpy_base_1682520598361/work
-packaging @ file:///C:/b/abs_c3vlh0z4jw/croot/packaging_1720101866539/work
-pandas @ file:///C:/miniconda3/conda-bld/pandas_1692299636855/work
-python-dateutil @ file:///C:/b/abs_3au_koqnbs/croot/python-dateutil_1716495777160/work
-pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-tzdata @ file:///croot/python-tzdata_1690578112552/work
-Werkzeug @ file:///C:/b/abs_8bittcw9jr/croot/werkzeug_1716533366070/work
-zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
+numexpr 
+numpy
+packaging 
+pandas 
+python-dateutil 
+pytz 
+six 
+tzdata 
+Werkzeug 
+zipp 
