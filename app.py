@@ -32,8 +32,8 @@ def recommend():
     user_input = request.form.get('user_input')
     
     # find index of the book name.
-    print(user_input.lower())
-    index = np.where(pt.index == user_input)[0][0]
+    #index = np.where(pt.index == user_input)[0][0]
+    index = np.where(pt.index.str.lower() == user_input.lower())[0][0]
 
     # get similar items.
     similar_items = sorted(list(enumerate(similarity_scores[index])),key=lambda x:x[1],reverse=True)[1:6]
