@@ -1,0 +1,1085 @@
+SongName,ArtistName,Popularity,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Duration_ms,URL,cluster
+Saiyaan Ji,Yo Yo Honey Singh,62,0.896,0.678,0,-2.546,0,0.0815,0.0137,4.1e-05,0.11,0.604,130.024,205450,https://i.scdn.co/image/ab67616d0000b2737a4ca76abadaf4b0733c6955,2
+Falling,Trevor Daniel,84,0.785,0.431,10,-8.756,0,0.0364,0.123,0.0,0.0887,0.236,127.085,159382,https://i.scdn.co/image/ab67616d0000b273f3508855e1fd44d447a3413b,2
+Shayad,Pritam,72,0.483,0.468,8,-7.642,1,0.0341,0.785,0.0,0.152,0.319,135.864,247941,https://i.scdn.co/image/ab67616d0000b273095191f6b96fd9eff585befc,0
+"Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,68,0.384,0.728,7,-6.503,0,0.0623,0.329,1.85e-05,0.329,0.311,156.396,287374,https://i.scdn.co/image/ab67616d0000b27399655481a2151203ed89351d,0
+Genda Phool (feat. Payal Dev),Badshah,67,0.955,0.538,1,-8.394,1,0.0734,0.132,0.00146,0.0704,0.837,116.977,170769,https://i.scdn.co/image/ab67616d0000b2731236f9aabbd45bf852bdbd9c,2
+"Humraah (From ""Malang - Unleash The Madness"")",Sachet Tandon,69,0.468,0.854,11,-3.932,0,0.059,0.176,0.0,0.126,0.277,155.867,299822,https://i.scdn.co/image/ab67616d0000b27340494b35d483ac255db4ce93,2
+Baila Conmigo (with Rauw Alejandro),Selena Gomez,82,0.823,0.544,5,-7.132,1,0.0715,0.0215,0.00315,0.0966,0.664,149.903,186088,https://i.scdn.co/image/ab67616d0000b2738b11b0be988e17da2799b94d,2
+You (with Marshmello & Vance Joy),benny blanco,73,0.668,0.563,11,-6.433,1,0.0522,0.0493,0.0,0.119,0.305,103.116,169632,https://i.scdn.co/image/ab67616d0000b27338e349efcd6a1c63e403b97f,2
+Higher (feat. iann dior),Clean Bandit,71,0.716,0.736,1,-5.18,0,0.0363,0.336,1.4e-05,0.137,0.542,104.018,203953,https://i.scdn.co/image/ab67616d0000b2734628636f03999328ba098839,2
+Element,Pop Smoke,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b2738e6709b8efdc31d41227e0e4,1
+HUMBLE.,Kendrick Lamar,84,0.908,0.621,1,-6.638,0,0.102,0.000282,5.39e-05,0.0958,0.421,150.011,177000,https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699,2
+"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",Lil Wayne,78,0.502,0.786,9,-4.378,0,0.317,0.255,0.0,0.65,0.739,169.021,243491,https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf,1
+Dip (feat. Nicki Minaj) (feat. Nicki Minaj),Tyga,65,0.885,0.543,2,-6.338,1,0.2,0.0311,0.0,0.154,0.43,99.026,195992,https://i.scdn.co/image/ab67616d0000b2732b52a027f022c637db02b317,2
+goosebumps,Travis Scott,87,0.841,0.728,7,-3.37,1,0.0484,0.0847,0.0,0.149,0.43,130.049,243837,https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce,2
+Walk It Talk It,Migos,78,0.907,0.633,2,-5.145,1,0.184,0.0876,2.6e-06,0.106,0.395,145.914,276147,https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890,2
+King Kunta,Kendrick Lamar,76,0.884,0.657,6,-4.569,0,0.0977,0.00589,0.0,0.154,0.489,107.059,234693,https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1,2
+Swang,Rae Sremmurd,0,0.681,0.314,8,-9.319,1,0.0583,0.2,9.82e-06,0.1,0.166,139.991,208120,https://i.scdn.co/image/ab67616d0000b273881fb62d913fe712fc2e1c95,0
+"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,74,0.609,0.668,7,-4.284,1,0.0367,0.0552,0.0,0.167,0.811,80.924,288600,https://i.scdn.co/image/ab67616d0000b273f2b55cfff049e03f92834b50,2
+Another Love,Tom Odell,88,0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769,244360,https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f,0
+People Help the People,Birdy,67,0.407,0.308,10,-9.001,0,0.0296,0.778,1.46e-05,0.092,0.153,73.254,256236,https://i.scdn.co/image/ab67616d0000b2733661c01b54e181d01bd439a1,0
+unravel (acoustic version) - Acoustic Version,TK from Ling tosite sigure,56,0.289,0.321,10,-8.569,0,0.0353,0.935,0.0,0.108,0.214,111.841,145714,https://i.scdn.co/image/ab67616d0000b2731084a0d39620b9564ee640a1,0
+"Isabella's Lullaby (from ""The Promised Neverland"")",AmaLee,66,0.181,0.913,5,-3.318,1,0.152,0.0501,0.0,0.282,0.392,82.176,174893,https://i.scdn.co/image/ab67616d0000b27309e847f05ff2e5873fc9f5fb,1
+asphyxia,Cö Shu Nie,66,0.528,0.593,1,-3.68,1,0.0545,0.289,0.00054,0.0724,0.351,167.238,273583,https://i.scdn.co/image/ab67616d0000b273b868bc52627b90ed648b2092,2
+Kokoronashi,majiko,66,0.528,0.593,1,-3.68,1,0.0545,0.289,0.00054,0.0724,0.351,167.238,273583,https://i.scdn.co/image/ab67616d0000b273f672cfe50a513713ea7cdc85,2
+Can't Hold Us - feat. Ray Dalton,Macklemore & Ryan Lewis,75,0.483,0.192,4,-15.378,0,0.0469,0.991,0.908,0.106,0.0542,100.848,140733,https://i.scdn.co/image/ab67616d0000b2732a6b364528b128a4a17d100d,3
+Somebody That I Used To Know,Gotye,63,0.25,0.136,10,-12.162,1,0.037,0.673,0.000157,0.107,0.0981,118.086,292333,https://i.scdn.co/image/ab67616d0000b2738ac5768205ad97df3f4f4c0e,0
+River Flows In You,Yiruma,87,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,https://i.scdn.co/image/ab67616d0000b2734bdb66d1335f8571240e755f,0
+"Comptine d'un autre été, l'après-midi",Yann Tiersen,62,0.572,0.75,1,-5.042,0,0.0604,0.0946,0.0,0.378,0.475,144.081,182627,https://i.scdn.co/image/ab67616d0000b2731b7844a8c73c4d48f0bca1de,2
+You Raise Me Up,Josh Groban,69,0.773,0.699,1,-5.982,0,0.0958,0.488,3.6e-06,0.0814,0.513,104.941,180120,https://i.scdn.co/image/ab67616d0000b2731d78472931a3c47d66444ee4,2
+Hope,XXXTENTACION,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c,0
+Close To Me,Ellie Goulding,49,0.598,0.43,11,-11.236,1,0.0544,0.186,0.0,0.0924,0.0843,91.923,98508,https://i.scdn.co/image/ab67616d0000b2735f76dbd311a0782823550b30,0
+Hope,The Chainsmokers,69,0.658,0.539,3,-7.043,1,0.0433,0.857,1.45e-06,0.0999,0.461,80.088,235297,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c,0
+Baarishein,Anuv Jain,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b273d8ca783fa570b57e082f4374,1
+Why Did I Answer?,Porsche Love,0,0.879,0.574,10,-5.602,0,0.391,0.519,8.76e-06,0.144,0.346,144.911,243463,https://i.scdn.co/image/ab67616d0000b273bd789be8a2db43dd477b2db6,1
+Baari,Bilal Saeed,62,0.432,0.612,11,-8.846,0,0.211,0.00185,0.0,0.308,0.253,88.716,205333,https://i.scdn.co/image/ab67616d0000b273aca529b2fdfaabf2f50fc9e3,1
+Big Gangsta,Kevin Gates,81,0.817,0.775,10,-4.767,0,0.108,0.277,0.0,0.108,0.806,126.984,234334,https://i.scdn.co/image/ab67616d0000b273f8a9c2fe71ac2eb53524392b,2
+Famous (I'm The One) (feat. Yo Gotti & DeJ Loaf),Mozzy,0,0.548,0.805,7,-5.732,1,0.351,0.212,0.000405,0.408,0.649,142.096,216387,https://i.scdn.co/image/ab67616d0000b273486d0191ad02532ffd12d87c,1
+Beware,Big Sean,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b27373077b16706dbd3dca4b6948,0
+The Thrill,Wiz Khalifa,95,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,https://i.scdn.co/image/ab67616d0000b2738f0412555b7e080fac2b825f,2
+Dior,Pop Smoke,90,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,208867,https://i.scdn.co/image/ab67616d0000b2731a8c4618eda885a406958dd0,2
+good 4 u,Olivia Rodrigo,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a,1
+Kiss Me More (feat. SZA),Doja Cat,84,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,183624,https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a,0
+Butter,BTS,86,0.662,0.413,0,-7.357,1,0.0299,0.213,0.0,0.134,0.467,93.005,161385,https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596,2
+MONTERO (Call Me By Your Name),Lil Nas X,87,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,242096,https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d,2
+Arcade,Duncan Laurence,89,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064,https://i.scdn.co/image/ab67616d0000b273a954408e456d4d9d410f448b,2
+WITHOUT YOU,The Kid LAROI,91,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,198082,https://i.scdn.co/image/ab67616d0000b273a26cc58b4d64c2ece3376389,1
+Leave The Door Open,Bruno Mars,92,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,191014,https://i.scdn.co/image/ab67616d0000b273fcf75ead8a32ac0020d2ce86,2
+Levitating (feat. DaBaby),Dua Lipa,90,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,215507,https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4,1
+Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,85,0.713,0.676,10,-5.483,1,0.027,0.0377,0.0,0.154,0.721,99.048,227395,https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431,2
+Save Your Tears (with Ariana Grande) (Remix),The Weeknd,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273c6af5ffa661a365b77df6ef6,3
+deja vu,Olivia Rodrigo,95,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a,2
+Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631,3
+Sygrayem (Let's Play),Carlos Rafael Rivera,74,0.572,0.759,2,-4.312,1,0.0506,0.127,0.0,0.224,0.519,80.95,163733,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,2
+Our Song,Anne-Marie,82,0.855,0.463,3,-7.454,1,0.0367,0.217,1.77e-05,0.347,0.866,102.931,122773,https://i.scdn.co/image/ab67616d0000b2736c46dd6e21c778948898c2c5,2
+Leave Before You Love Me (with Jonas Brothers),Marshmello,85,0.595,0.784,1,-4.878,1,0.102,0.216,0.0,0.0608,0.479,124.111,183726,https://i.scdn.co/image/ab67616d0000b273ae40468931087f78919b86ce,2
+Build a Bitch,Bella Poarch,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b273aeeb722667c831a4f5429ff0,0
+Heartbreak Anthem (with David Guetta & Little Mix),Galantis,75,0.508,0.889,7,-2.755,0,0.0862,0.0495,0.0,0.0984,0.332,135.014,238360,https://i.scdn.co/image/ab67616d0000b2731fcd19d56ad06561b76c1665,2
+unravel,TK from Ling tosite sigure,73,0.536,0.966,6,-2.93,0,0.0557,0.12,0.0,0.0477,0.85,152.078,215707,https://i.scdn.co/image/ab67616d0000b273b11c3ab5cb818192b7a61fdd,2
+ブルーバード,Ikimonogakari,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e,1
+Lucid Dreams,Juice WRLD,82,0.905,0.647,10,-5.065,0,0.107,0.0187,0.0,0.282,0.367,130.97,190534,https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4,2
+Experience,Ludovico Einaudi,72,0.868,0.479,4,-6.687,0,0.445,0.703,0.0,0.102,0.776,133.928,115200,https://i.scdn.co/image/ab67616d0000b2736c8ef0538e04f2e28380dcc5,1
+Hello (feat. A Boogie Wit da Hoodie),Pop Smoke,78,0.828,0.434,5,-10.609,1,0.301,0.0394,0.0,0.0806,0.38,115.071,131600,https://i.scdn.co/image/ab67616d0000b27346e1307c35579c3483ea7b03,1
+Deep End Freestyle,Sleepy Hallow,74,0.572,0.759,2,-4.312,1,0.0506,0.127,0.0,0.224,0.519,80.95,163733,https://i.scdn.co/image/ab67616d0000b273a5002e8af5089baebb3b7d5a,2
+Gang Shit No Lame Shit,Key Glock,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b2731ab3ee1984445d5b9d5158ea,0
+Sideways,ILLENIUM,66,0.524,0.882,5,-3.038,1,0.0367,0.108,1.1e-06,0.071,0.399,119.94,204547,https://i.scdn.co/image/ab67616d0000b2733541c6577c1e4b7d58e8b588,2
+Nightlight,ILLENIUM,82,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,285120,https://i.scdn.co/image/ab67616d0000b273223f97eeb08ae88cf6bf8dfc,0
+Night Changes,One Direction,36,0.292,0.945,4,-6.772,1,0.193,0.178,0.0767,0.348,0.0615,162.172,300173,https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4,1
+Alive,Empire of the Sun,66,0.272,0.281,10,-8.131,1,0.0307,0.618,0.0,0.111,0.152,138.856,305893,https://i.scdn.co/image/ab67616d0000b273bd75527abad4529d0cc49afc,0
+A Thousand Years,Christina Perri,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b2733dea4a2ccd58ad1f8e4dbb03,3
+I Know It's You,Guards,81,0.447,0.449,2,-10.634,1,0.0376,0.934,0.961,0.0697,0.036,92.468,315427,https://i.scdn.co/image/ab67616d0000b273e83f4209f2d7c46f1df69b59,3
+A Thousand Years (feat. Steve Kazee) - Pt. 2; The Twilight Saga: Breaking Dawn Soundtrack,Christina Perri,81,0.447,0.449,2,-10.634,1,0.0376,0.934,0.961,0.0697,0.036,92.468,315427,https://i.scdn.co/image/ab67616d0000b27333d6ad1275ae8ebe156686f5,3
+Main Title,Carlos Rafael Rivera,41,0.322,0.257,5,-19.638,1,0.0359,0.387,0.906,0.0889,0.0378,60.344,78496,https://i.scdn.co/image/ab67616d0000b273239a1395e4d595efc28af924,3
+Beth's Story,Carlos Rafael Rivera,42,0.276,0.0985,5,-28.017,0,0.0342,0.989,0.907,0.0795,0.125,134.587,66448,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Methuen Home For Children 1957,Carlos Rafael Rivera,45,0.352,0.0774,9,-24.864,0,0.0345,0.946,0.877,0.118,0.138,108.077,184294,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+The Scholar's Mate,Carlos Rafael Rivera,95,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,2
+You're Gloating,Carlos Rafael Rivera,90,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,208867,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,2
+Training With Mr. Schaibel,Carlos Rafael Rivera,89,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,2
+Mishri,Anuv Jain,79,0.748,0.734,0,-6.499,1,0.124,0.524,1.15e-05,0.0975,0.368,97.753,80081,https://i.scdn.co/image/ab67616d0000b273aac0305160f2e950afa2ff5f,2
+SugarCrash!,ElyOtto,59,0.751,0.857,1,-4.385,0,0.0752,0.31,0.0,0.0801,0.501,104.984,151999,https://i.scdn.co/image/ab67616d0000b27366f688086d483cf5781942e0,2
+Higher Power,Coldplay,79,0.748,0.734,0,-6.499,1,0.124,0.524,1.15e-05,0.0975,0.368,97.753,80081,https://i.scdn.co/image/ab67616d0000b273b1092c02972b0bfd91703f75,2
+Break My Heart Myself (feat. Travis Barker),Bebe Rexha,0,0.507,0.828,10,-6.023,1,0.0449,0.00711,2.44e-05,0.261,0.489,178.032,211295,https://i.scdn.co/image/ab67616d0000b27359684831e2b29bf06842f204,2
+Echo (with KSHMR),Armaan Malik,65,0.699,0.299,6,-12.599,1,0.0403,0.869,0.0,0.0724,0.459,118.969,212773,https://i.scdn.co/image/ab67616d0000b2731b91d6e06291ba7b2a448b25,0
+Astronomy,Conan Gray,66,0.63,0.729,6,-4.93,1,0.0287,0.123,8e-06,0.0786,0.44,127.919,234737,https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396,2
+Alag Aasmaan,Anuv Jain,77,0.735,0.584,1,-5.047,1,0.14,0.189,0.0,0.125,0.395,93.016,219187,https://i.scdn.co/image/ab67616d0000b2735d7a296e99b415bc012c03e3,2
+Sau Aasmaan,Armaan Malik,59,0.657,0.582,1,-6.735,1,0.0646,0.113,0.0,0.182,0.574,82.023,200861,https://i.scdn.co/image/ab67616d0000b273edfe45782ad611717d77b2ee,2
+Besabriyaan,Armaan Malik,67,0.614,0.605,0,-5.63,1,0.0319,0.21,0.0,0.162,0.333,127.099,217867,https://i.scdn.co/image/ab67616d0000b27302dde7bfff94df00c8b76eb4,2
+What If (I Told You I Like You),Johnny Orlando,0,0.333,0.637,1,-4.904,0,0.0581,0.131,1.8e-05,0.149,0.132,139.898,172693,https://i.scdn.co/image/ab67616d0000b27375e1e43df4509a116d29e7ab,0
+Everybody Wants You,Johnny Orlando,86,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,215107,https://i.scdn.co/image/ab67616d0000b273fb0ea2ab8c0a71549518e6fd,0
+Two of Us,Louis Tomlinson,68,0.302,0.414,2,-8.16,1,0.0319,0.0575,0.0,0.0861,0.105,110.508,242956,https://i.scdn.co/image/ab67616d0000b2737523b7e42168f3122351721b,0
+Wonder,Shawn Mendes,61,0.703,0.628,0,-5.914,1,0.203,0.364,0.0,0.384,0.471,138.032,205217,https://i.scdn.co/image/ab67616d0000b2736f093a6ae88a5ca8ed53b9f7,1
+Before You Go,Lewis Capaldi,85,0.516,0.467,0,-6.184,1,0.0302,0.662,0.0,0.0853,0.386,132.861,173307,https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4,0
+"A Whole New World (End Title) - From ""Aladdin""",ZAYN,81,0.447,0.449,2,-10.634,1,0.0376,0.934,0.961,0.0697,0.036,92.468,315427,https://i.scdn.co/image/ab67616d0000b2736c076fc850f473e8eb9a898c,3
+Just Like You,Louis Tomlinson,81,0.447,0.449,2,-10.634,1,0.0376,0.934,0.961,0.0697,0.036,92.468,315427,https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d,3
+What A Time (feat. Niall Horan),Julia Michaels,81,0.447,0.449,2,-10.634,1,0.0376,0.934,0.961,0.0697,0.036,92.468,315427,https://i.scdn.co/image/ab67616d0000b2737e706949994bcef39b09da4e,3
+Interstellar Main Theme - Piano Version,Patrik Pietschmann,63,0.331,0.0451,9,-24.527,0,0.0337,0.908,0.931,0.0893,0.0381,95.954,243209,https://i.scdn.co/image/ab67616d0000b273123a885436711727d613db69,3
+Interstellar- Main Theme,Geek Music,63,0.331,0.0451,9,-24.527,0,0.0337,0.908,0.931,0.0893,0.0381,95.954,243209,https://i.scdn.co/image/ab67616d0000b27326e2199cc7f1893afcf44f6a,3
+Without Me (with Juice WRLD),Halsey,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273309b0cb81728d42a6dfb2b81,3
+Without Me,Halsey,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4,3
+you broke me first,Tate McRae,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b2736c2b76e0d78170d577add561,3
+Jalebi Baby,Tesher,67,0.614,0.605,0,-5.63,1,0.0319,0.21,0.0,0.162,0.333,127.099,217867,https://i.scdn.co/image/ab67616d0000b27358ad3c6d598cb14b31c334dc,2
+Switch It Up (feat. sokodomo) - Prod. Cha Cha Malone,JAY B,65,0.639,0.411,2,-5.979,1,0.042,0.55,0.0,0.141,0.158,96.965,180120,https://i.scdn.co/image/ab67616d0000b273e11089c7ff5bee1cef0ff2a8,0
+Mera Mann Kehne Laga,Falak Shabir,81,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,222091,https://i.scdn.co/image/ab67616d0000b273785c415336347fca03a1d638,2
+Good Years,ZAYN,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8,0
+Grenade,Bruno Mars,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0,0
+Talking to the Moon,Bruno Mars,77,0.428,0.276,4,-11.729,1,0.0312,0.732,5.33e-06,0.117,0.0382,99.195,280000,https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b,0
+"My Heart Will Go On - Love Theme from ""Titanic""",Céline Dion,46,0.763,0.84,9,-3.907,1,0.0354,0.0451,0.00435,0.104,0.349,127.046,249244,https://i.scdn.co/image/ab67616d0000b273ccdf9a5a2e2054b0e9d65c04,2
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b27318b8088fe0c3dbf78398b55a,0
+Stereo Love,Edward Maya,80,0.706,0.625,0,-7.426,1,0.0314,0.0417,0.0,0.129,0.225,142.948,242181,https://i.scdn.co/image/ab67616d0000b27363930afae902cae1ca1c65b9,2
+Righteous,Juice WRLD,73,0.53,0.37,6,-9.989,1,0.0279,0.806,0.0,0.112,0.701,140.061,206734,https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb,0
+734,Juice WRLD,84,0.625,0.814,0,-5.181,1,0.0657,0.0172,0.0,0.158,0.535,144.991,205485,https://i.scdn.co/image/ab67616d0000b273bf640cd39d097f99c6f6e48f,2
+Life's A Mess II (with Clever & Post Malone),Juice WRLD,72,0.761,0.517,5,-6.916,1,0.0927,0.114,0.0,0.157,0.46,147.912,174730,https://i.scdn.co/image/ab67616d0000b273b56014f5fa93df5ade506b5b,2
+Lucid Dreams (feat. Lil Uzi Vert) - Remix,Juice WRLD,77,0.745,0.5,8,-6.184,1,0.135,0.439,0.0,0.0943,0.433,76.968,168685,https://i.scdn.co/image/ab67616d0000b273bf640cd39d097f99c6f6e48f,2
+Come & Go (with Marshmello),Juice WRLD,82,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,189323,https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb,1
+Blastoff (feat. Juice Wrld & Trippie Redd),Internet Money,66,0.68,0.766,11,-4.799,0,0.0923,0.0411,0.0,0.116,0.28,160.095,180000,https://i.scdn.co/image/ab67616d0000b273a64752f7639c1220d56ea129,2
+Stay High,Juice WRLD,67,0.788,0.605,1,-5.586,1,0.0578,0.00899,0.00275,0.318,0.427,103.94,173973,https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb,2
+Bandit (with YoungBoy Never Broke Again),Juice WRLD,74,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,176561,https://i.scdn.co/image/ab67616d0000b2738b27d35aa2c6dcf99895d664,1
+No Me Ame,Rvssian,87,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040,https://i.scdn.co/image/ab67616d0000b273155eef1dc49d17e457d64c05,2
+One Dance,Drake,81,0.865,0.521,0,-6.932,1,0.0371,0.548,0.000115,0.0989,0.748,129.059,244885,https://i.scdn.co/image/ab67616d0000b27372d0af2341359a90710c1fdc,2
+Lean On,Major Lazer,84,0.73,0.769,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,228093,https://i.scdn.co/image/ab67616d0000b273d6d24aee7b49a2db98a76856,2
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,86,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,178627,https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f,1
+Rolling in the Deep,Adele,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273164feb363334f93b6458d2a9,3
+7 rings,Ariana Grande,50,0.472,0.612,0,-10.982,1,0.0424,0.448,0.823,0.41,0.499,92.998,109896,https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8,0
+Wake Me Up,Avicii,52,0.0916,0.0271,0,-27.397,0,0.0404,0.945,0.847,0.0892,0.0594,55.269,127615,https://i.scdn.co/image/ab67616d0000b273d7bf0bf26378891c79862cc1,3
+Love The Way You Lie,Eminem,46,0.763,0.84,9,-3.907,1,0.0354,0.0451,0.00435,0.104,0.349,127.046,249244,https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100,2
+Morning,Zara Larsson,52,0.0916,0.0271,0,-27.397,0,0.0404,0.945,0.847,0.0892,0.0594,55.269,127615,https://i.scdn.co/image/ab67616d0000b273c6ae19f52e591cb23bc5f2a8,3
+I Should Quit,JESSIA,41,0.437,0.022,11,-29.447,0,0.04,0.976,0.916,0.11,0.0791,99.971,74046,https://i.scdn.co/image/ab67616d0000b27354e79acad5cb792e2894e547,3
+Am I Good Enough Now?,Carlos Rafael Rivera,79,0.733,0.96,7,-3.597,1,0.0295,0.0514,0.00199,0.287,0.811,124.01,189672,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,2
+u love u (with Tate McRae),blackbear,0,0.671,0.336,10,-8.494,0,0.241,0.705,0.00751,0.0577,0.518,75.051,212496,https://i.scdn.co/image/ab67616d0000b2734002bbdd8f0cfa21ae9dc859,0
+By Your Side (feat. Tom Grennan),Calvin Harris,76,0.706,0.824,0,-7.959,1,0.0694,0.355,0.000133,0.111,0.86,94.98,132000,https://i.scdn.co/image/ab67616d0000b27326ab76de7cfa7b953e58caee,2
+Lost Cause,Billie Eilish,74,0.572,0.759,2,-4.312,1,0.0506,0.127,0.0,0.224,0.519,80.95,163733,https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e,2
+seaside_demo,SEB,73,0.591,0.831,4,-6.612,1,0.0355,0.235,0.00142,0.0571,0.678,93.007,187307,https://i.scdn.co/image/ab67616d0000b273a174eea9577d7e0974cc00d8,2
+Last Train Home,John Mayer,86,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,178627,https://i.scdn.co/image/ab67616d0000b273779063301154e835a91a35e0,1
+t r a n s p a r e n t s o u l feat. Travis Barker,WILLOW,87,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,233713,https://i.scdn.co/image/ab67616d0000b27302b0ac4db2fd46d936e748cd,2
+Shape of You,Ed Sheeran,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96,3
+bad guy,Billie Eilish,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce,3
+Rather Be (feat. Jess Glynne),Clean Bandit,57,0.614,0.228,5,-12.336,1,0.0316,0.835,0.0,0.106,0.146,109.569,131500,https://i.scdn.co/image/ab67616d0000b2737e519297d9876b6afff2ab7b,0
+Cocaine,Pink Sweat$,90,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,208867,https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469,2
+Honesty,Pink Sweat$,89,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064,https://i.scdn.co/image/ab67616d0000b273e94370c83320486d73aa7cc8,2
+Mask Off,Future,0,0.671,0.336,10,-8.494,0,0.241,0.705,0.00751,0.0577,0.518,75.051,212496,https://i.scdn.co/image/ab67616d0000b273e0b64c8be3c4e804abcb2696,0
+Mask Off - Marshmello Remix,Future,77,0.818,0.913,4,-3.06,0,0.0426,0.093,3.69e-05,0.161,0.536,119.986,219160,https://i.scdn.co/image/ab67616d0000b273d338f56a62eabfe658ff5e9d,2
+Hymn for the Weekend - Seeb Remix,Coldplay,81,0.731,0.445,0,-8.418,1,0.0533,0.0586,1.96e-05,0.14,0.106,117.97,247160,https://i.scdn.co/image/ab67616d0000b273ac08ece7ad90165ac7d532c4,2
+The Scientist,Coldplay,84,0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,205947,https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82,2
+My Way,Calvin Harris,0,0.638,0.924,7,-3.887,1,0.036,0.00205,0.000175,0.149,0.53,111.995,263787,https://i.scdn.co/image/ab67616d0000b273b81d66d1416afa139d12767b,2
+All Night,The Vamps,81,0.631,0.927,9,-2.787,0,0.0332,0.199,0.119,0.148,0.465,123.962,222160,https://i.scdn.co/image/ab67616d0000b2738471bff5344bd04f60ac834a,2
+I Don’t Wanna Live Forever (Fifty Shades Darker),ZAYN,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b27363d77f99117b28af9f656918,0
+Let Me Love You,DJ Snake,82,0.823,0.544,5,-7.132,1,0.0715,0.0215,0.00315,0.0966,0.664,149.903,186088,https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc,2
+Adventure of a Lifetime,Coldplay,78,0.73,0.861,1,-4.1,1,0.0451,0.39,0.0,0.213,0.704,117.965,196613,https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6,2
+This Is What You Came For (feat. Rihanna),Calvin Harris,79,0.647,0.823,2,-5.231,1,0.0762,0.0598,0.0,0.119,0.396,99.933,230333,https://i.scdn.co/image/ab67616d0000b273ef6ffbb26dc95b0ac7193a22,2
+Perfect Strangers,Jonas Blue,59,0.751,0.857,1,-4.385,0,0.0752,0.31,0.0,0.0801,0.501,104.984,151999,https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6,2
+Perfect,One Direction,79,0.748,0.734,0,-6.499,1,0.124,0.524,1.15e-05,0.0975,0.368,97.753,80081,https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96,2
+Jalebi Baby (Tesher x Jason Derulo),Tesher,0,0.507,0.828,10,-6.023,1,0.0449,0.00711,2.44e-05,0.261,0.489,178.032,211295,https://i.scdn.co/image/ab67616d0000b273a56f3d8136a0690b75b419d8,2
+Love Again,Dua Lipa,0,0.471,0.335,4,-8.767,0,0.0273,0.593,2.11e-05,0.297,0.111,145.252,243907,https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f,0
+Hide (feat. Seezyn),Juice WRLD,82,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,189323,https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f,1
+Disrespectful,Blueface,72,0.606,0.784,7,-6.293,1,0.268,0.435,0.0,0.689,0.48,80.985,278573,https://i.scdn.co/image/ab67616d0000b2730db43130a9aaa7bae56967ed,1
+Crooked Smile (feat. TLC),J. Cole,81,0.504,0.788,3,-4.113,0,0.215,0.0134,0.0,0.363,0.228,170.039,186022,https://i.scdn.co/image/ab67616d0000b273c1bb124f993488cf21b269fc,1
+Into Your Arms (feat. Ava Max),Witt Lowry,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b27378023ccce25da7ca56a479e9,0
+Into Your Arms (feat. Ava Max) - BEAUZ Remix,Witt Lowry,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b27378023ccce25da7ca56a479e9,0
+anxiety (with FRND),blackbear,59,0.563,0.555,2,-5.429,1,0.0288,0.11,1.02e-06,0.108,0.267,144.336,366253,https://i.scdn.co/image/ab67616d0000b273432d3776e465c18512b49ef8,2
+Good Things Fall Apart vs. Sad Songs (With Said The Sky feat. Annika Wells),ILLENIUM,78,0.528,0.511,3,-8.144,1,0.0324,0.126,0.0,0.101,0.351,100.1,209880,https://i.scdn.co/image/ab67616d0000b273f6eb07b8e8fd583096a9892b,0
+If You Love Her,Forest Blakk,0,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,190800,https://i.scdn.co/image/ab67616d0000b2739cd7412bd995a12a2cee1566,2
+Take Me To Church,Hozier,76,0.423,0.634,6,-5.877,0,0.0578,0.196,0.0,0.189,0.467,150.978,195840,https://i.scdn.co/image/ab67616d0000b2737a9bf5f82e32d33d4503fe7b,2
+Takeaway,The Chainsmokers,80,0.749,0.461,10,-2.961,0,0.0416,0.0516,6.24e-06,0.0738,0.42,139.02,204887,https://i.scdn.co/image/ab67616d0000b2735e90ff76fd49a23f7333de76,2
+Call You Mine,The Chainsmokers,0,0.658,0.791,8,-4.66,1,0.0512,0.102,0.0,0.139,0.744,75.017,186227,https://i.scdn.co/image/ab67616d0000b2735e90ff76fd49a23f7333de76,2
+If I Can't Have You,Shawn Mendes,3,0.618,0.725,5,-4.952,1,0.0479,0.255,0.0,0.424,0.242,88.982,144546,https://i.scdn.co/image/ab67616d0000b273c820f033bd82bef4355d1563,2
+Lily,Alan Walker,60,0.356,0.661,11,-9.818,1,0.0633,0.129,0.0,0.114,0.551,99.951,193187,https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a,2
+Teeth,5 Seconds of Summer,0,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,217867,https://i.scdn.co/image/ab67616d0000b273726005f0f81903e157d9dbc7,0
+Hate Me,Ellie Goulding,85,0.595,0.784,1,-4.878,1,0.102,0.216,0.0,0.0608,0.479,124.111,183726,https://i.scdn.co/image/ab67616d0000b273dc854e032e8588d5e75eebc6,2
+Better Days,OneRepublic,87,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,154983,https://i.scdn.co/image/ab67616d0000b27359a3d5c459ba5c91486f6157,2
+Do You Mean,The Chainsmokers,0,0.471,0.335,4,-8.767,0,0.0273,0.593,2.11e-05,0.297,0.111,145.252,243907,https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de,0
+Want You Back,5 Seconds of Summer,67,0.614,0.605,0,-5.63,1,0.0319,0.21,0.0,0.162,0.333,127.099,217867,https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557,2
+One More Day (with Chandler Leighton),Jason Ross,89,0.776,0.78,10,-4.374,0,0.128,0.0622,0.0,0.081,0.666,124.949,204347,https://i.scdn.co/image/ab67616d0000b2734b9f3b34399b7ae4cc7a45be,2
+In the End,Linkin Park,81,0.421,0.873,10,-4.343,1,0.0564,0.0654,0.0,0.123,0.629,84.786,202533,https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a,2
+Believer,Imagine Dragons,69,0.279,0.742,4,-6.46,0,0.0898,0.000185,0.0,0.593,0.328,189.868,231013,https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a,1
+Radioactive,Imagine Dragons,0,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,217867,https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737,0
+Centuries,Fall Out Boy,0,0.471,0.335,4,-8.767,0,0.0273,0.593,2.11e-05,0.297,0.111,145.252,243907,https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b,0
+Hall of Fame (feat. will.i.am),The Script,85,0.595,0.784,1,-4.878,1,0.102,0.216,0.0,0.0608,0.479,124.111,183726,https://i.scdn.co/image/ab67616d0000b2732e3049fef96abebf336b7366,2
+Animals,Maroon 5,87,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,233713,https://i.scdn.co/image/ab67616d0000b27337677af5b4f23fe9dc8a3c04,2
+"Tchaikovsky: Swan Lake, Op. 20, Act 2: Scene (Moderato)",Pyotr Ilyich Tchaikovsky,87,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040,https://i.scdn.co/image/ab67616d0000b2731d9c6602aa95abd8c5b146da,2
+Hero (feat. Christina Perri),Cash Cash,70,0.621,0.907,2,-3.923,1,0.0474,0.091,0.0,0.067,0.884,128.056,233693,https://i.scdn.co/image/ab67616d0000b2738058c873c88c1740994a9182,2
+Goodbye To A World,Porter Robinson,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2731f675e7b8bae408653346dd9,1
+Magic in the Air (feat. Ahmed Chawki),Magic System,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b273e2c130193d338ac38c24322d,2
+telepatía,Kali Uchis,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99,1
+E-ER (feat. Lil Yachty),DJ Scheme,80,0.706,0.625,0,-7.426,1,0.0314,0.0417,0.0,0.129,0.225,142.948,242181,https://i.scdn.co/image/ab67616d0000b27362700bbd5fe234b42d40b63c,2
+Ex Bitch,XXXTENTACION,90,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,215507,https://i.scdn.co/image/ab67616d0000b273e97516a0d9b58cff7df931a9,1
+Ga$ Money,Xavy Rusan,85,0.713,0.676,10,-5.483,1,0.027,0.0377,0.0,0.154,0.721,99.048,227395,https://i.scdn.co/image/ab67616d0000b27382e0f1a09504231fa90bceb1,2
+Yonaguni,Bad Bunny,84,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,210960,https://i.scdn.co/image/ab67616d0000b27364afd6879102d03460bd3ad9,2
+Need To Know,Doja Cat,80,0.706,0.625,0,-7.426,1,0.0314,0.0417,0.0,0.129,0.225,142.948,242181,https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a,2
+The Business,Tiësto,81,0.504,0.788,3,-4.113,0,0.215,0.0134,0.0,0.363,0.228,170.039,186022,https://i.scdn.co/image/ab67616d0000b273f461bbc21a9bcec43a926973,1
+MONTERO (Call Me By Your Name),ASKØ,84,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,210960,https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d,2
+Tokyo Drift,Jenil,80,0.706,0.625,0,-7.426,1,0.0314,0.0417,0.0,0.129,0.225,142.948,242181,https://i.scdn.co/image/ab67616d0000b273aac3b3863e8f7a43a9b65a19,2
+Wants and Needs (feat. Lil Baby),Drake,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2738b20e4631fa15d3953528bbc,1
+RAPSTAR,Polo G,67,0.788,0.605,1,-5.586,1,0.0578,0.00899,0.00275,0.318,0.427,103.94,173973,https://i.scdn.co/image/ab67616d0000b273a493e05c99d8ec5e8020ff2b,2
+Look Back at It,A Boogie Wit da Hoodie,86,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960,https://i.scdn.co/image/ab67616d0000b273a5c7151899ae5da4f4382d54,2
+Can We Kiss Forever?,Kina,77,0.585,0.696,4,-5.6,0,0.0307,0.204,0.0,0.344,0.522,104.01,217640,https://i.scdn.co/image/ab67616d0000b27313584782bb6d165483d296ed,2
+Kiss Me Thru The Phone,Soulja Boy,75,0.51,0.846,3,-4.595,1,0.0461,0.0101,0.0,0.208,0.475,139.927,226733,https://i.scdn.co/image/ab67616d0000b2736aef62bd0a60aac7df9a9e37,2
+Closer,The Chainsmokers,74,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,221507,https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453,2
+Something Just Like This,The Chainsmokers,72,0.663,0.577,11,-7.518,0,0.0531,0.109,0.0,0.12,0.454,89.996,193200,https://i.scdn.co/image/ab67616d0000b2730c13d3d5a503c84fcc60ae94,2
+Don't Let Me Down,The Chainsmokers,61,0.633,0.564,8,-7.789,0,0.0701,0.135,0.0,0.201,0.648,164.008,182933,https://i.scdn.co/image/ab67616d0000b27302df2d642b572cf4f284a5c3,2
+This Feeling,The Chainsmokers,74,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,221507,https://i.scdn.co/image/ab67616d0000b2738e26bf4293c9da7a6439607b,2
+Who Do You Love,The Chainsmokers,48,0.886,0.818,11,-3.649,0,0.0843,0.218,3.46e-06,0.0687,0.469,95.05,192387,https://i.scdn.co/image/ab67616d0000b2735e90ff76fd49a23f7333de76,2
+Roses,The Chainsmokers,65,0.269,0.58,0,-5.958,1,0.0352,0.474,0.0,0.116,0.281,155.625,283520,https://i.scdn.co/image/ab67616d0000b273b340b496cb7c38d727ff40be,0
+Paris,The Chainsmokers,76,0.706,0.824,0,-7.959,1,0.0694,0.355,0.000133,0.111,0.86,94.98,132000,https://i.scdn.co/image/ab67616d0000b273a104877b14818eaef7c93277,2
+Sick Boy,The Chainsmokers,79,0.766,0.706,7,-6.553,0,0.16,0.223,0.00028,0.064,0.766,142.989,172598,https://i.scdn.co/image/ab67616d0000b2738e26bf4293c9da7a6439607b,2
+The Reaper,The Chainsmokers,77,0.727,0.832,9,-4.327,0,0.0366,0.181,0.0,0.0615,0.213,127.035,177856,https://i.scdn.co/image/ab67616d0000b2735e90ff76fd49a23f7333de76,2
+Family,The Chainsmokers,95,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,https://i.scdn.co/image/ab67616d0000b2730905bd9fe834571a49363a6e,2
+Share,Ruth B.,77,0.39,0.83,11,-5.201,0,0.0563,0.0021,0.0,0.156,0.191,90.021,168030,https://i.scdn.co/image/ab67616d0000b273e4b98aca904673c9c484462b,2
+Tell Me U Luv Me (with Trippie Redd),Juice WRLD,0,0.705,0.776,4,-6.096,1,0.0445,0.0643,2.81e-06,0.0246,0.366,116.011,185304,https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb,2
+Hide Away,Daya,74,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,221507,https://i.scdn.co/image/ab67616d0000b273d5a0eaff23dc8cde8f9dec48,2
+One Moment in Time - Remastered,Whitney Houston,56,0.701,0.789,6,-5.399,1,0.0395,0.0661,1.89e-05,0.222,0.375,109.99,136364,https://i.scdn.co/image/ab67616d0000b2732b8ae85b74e8a7e8d198fc4f,2
+Lost,Maroon 5,86,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960,https://i.scdn.co/image/ab67616d0000b273fd4ccaa0be6ceddd41f57eb3,2
+EveryTime I Cry,Ava Max,76,0.58,0.586,1,-6.883,1,0.0357,0.344,0.0,0.0755,0.507,147.988,199549,https://i.scdn.co/image/ab67616d0000b27393fc5ac4fab909bf00efb02e,2
+Fingers Crossed,Trevor Daniel,77,0.63,0.694,11,-6.257,0,0.0253,0.00281,0.0,0.0719,0.216,97.005,195519,https://i.scdn.co/image/ab67616d0000b273fa8347d023a30f66544e93f0,2
+Cloudy Day,Tones And I,78,0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,179053,https://i.scdn.co/image/ab67616d0000b273d2cf6639f08099bdb14e388d,2
+Imagine - Tiësto Remix,Ben Platt,77,0.707,0.629,0,-4.581,0,0.0563,0.259,1.6e-05,0.138,0.457,122.863,212459,https://i.scdn.co/image/ab67616d0000b273426438bcc41019829741c262,2
+Lose Somebody,Kygo,71,0.528,0.453,4,-9.398,1,0.0396,0.355,1.06e-06,0.104,0.281,119.761,196678,https://i.scdn.co/image/ab67616d0000b27380368f0aa8f90c51674f9dd2,0
+Going Dumb,Alesso,73,0.587,0.648,11,-6.927,0,0.0439,0.0561,0.0,0.115,0.281,144.028,220141,https://i.scdn.co/image/ab67616d0000b273b90ea2c8f89de2b22afb0bed,2
+Silence,Marshmello,82,0.646,0.741,5,-4.973,0,0.034,0.0275,0.0,0.312,0.571,123.077,203000,https://i.scdn.co/image/ab67616d0000b273f33ba583059dc2f7d08bf2b8,2
+I'm a Mess,Bebe Rexha,81,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,208373,https://i.scdn.co/image/ab67616d0000b27361fe6d3a50c0beaa3cfe33e9,2
+"Alone, Pt. II",Alan Walker,70,0.723,0.646,5,-7.973,0,0.102,0.0206,0.352,0.0994,0.443,110.971,168649,https://i.scdn.co/image/ab67616d0000b273df9a35baaa98675256b35177,2
+Selfish Love (with Selena Gomez),DJ Snake,80,0.631,0.239,11,-7.071,0,0.0398,0.864,0.0,0.116,0.0927,79.859,149297,https://i.scdn.co/image/ab67616d0000b2730a4a6bb7959ab3a38ff60324,0
+Symphony (feat. Zara Larsson),Clean Bandit,82,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,192120,https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d,2
+Gone Are The Days (feat. James Gillespie),Kygo,55,0.619,0.631,11,-6.018,1,0.104,0.131,1.18e-06,0.246,0.772,106.309,175305,https://i.scdn.co/image/ab67616d0000b273c5ebb5d70f71435fa7298607,2
+Midnight (feat. Liam Payne),Alesso,64,0.474,0.792,5,-3.302,1,0.051,0.0662,1.09e-06,0.277,0.31,141.926,251831,https://i.scdn.co/image/ab67616d0000b273107d930ebe7cba0ff31c605c,2
+More Than You Know,Axwell /\ Ingrosso,86,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427,https://i.scdn.co/image/ab67616d0000b273fba6de0b38b0168d480b1a27,2
+The Best Days (feat. Tabitha),Sam Feldt,78,0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,179053,https://i.scdn.co/image/ab67616d0000b27311d1524a32dcdc5eea3011fb,2
+Lonely (with benny blanco),Justin Bieber,72,0.674,0.915,6,-3.999,0,0.0411,0.0282,0.00337,0.273,0.78,126.038,191293,https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431,2
+Drag Me Down,One Direction,58,0.444,0.719,1,-3.513,0,0.0666,0.122,5.3e-06,0.115,0.159,149.941,272000,https://i.scdn.co/image/ab67616d0000b273241e4fe75732c9c4b49b94c3,2
+Lose My Mind,DVBBS,41,0.322,0.257,5,-19.638,1,0.0359,0.387,0.906,0.0889,0.0378,60.344,78496,https://i.scdn.co/image/ab67616d0000b273bed9c7b9e33025a81d4d02e4,3
+Body Back (feat. Maia Wright) - Deniz Koyu Remix,Gryffin,42,0.276,0.0985,5,-28.017,0,0.0342,0.989,0.907,0.0795,0.125,134.587,66448,https://i.scdn.co/image/ab67616d0000b273813c8eb7e9ae3e0b877eca97,3
+Think About You - Galantis Remix,Kygo,39,0.149,0.0328,7,-31.586,0,0.0497,0.878,0.957,0.11,0.0356,104.583,96924,https://i.scdn.co/image/ab67616d0000b2737cefc6901f6df66deeaac9d0,3
+No Money,Galantis,39,0.398,0.0127,0,-31.618,0,0.0417,0.967,0.879,0.084,0.0492,119.963,90363,https://i.scdn.co/image/ab67616d0000b27371340c55289f59acb3ecd40f,3
+Playing Mr. Ganz,Carlos Rafael Rivera,37,0.317,0.119,5,-22.949,0,0.0351,0.952,0.898,0.118,0.179,129.47,121103,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Ceiling Games,Carlos Rafael Rivera,36,0.353,0.0306,11,-28.668,1,0.042,0.965,0.925,0.115,0.156,124.204,143806,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+First Day At School,Carlos Rafael Rivera,37,0.451,0.0192,1,-30.034,1,0.042,0.986,0.916,0.104,0.039,120.026,217598,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+The Green Pills,Carlos Rafael Rivera,39,0.39,0.0296,9,-26.772,0,0.0365,0.976,0.947,0.0727,0.0606,100.012,122927,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Kentucky State Championship 1963,Carlos Rafael Rivera,36,0.355,0.113,11,-23.628,0,0.0327,0.96,0.834,0.0903,0.105,82.993,100805,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Top Boards,Carlos Rafael Rivera,37,0.449,0.136,4,-24.787,0,0.0309,0.904,0.851,0.098,0.44,107.618,135528,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Playing Townes,Carlos Rafael Rivera,37,0.442,0.0787,7,-26.826,0,0.041,0.98,0.85,0.108,0.192,119.911,146395,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Playing Beltik,Carlos Rafael Rivera,35,0.291,0.143,9,-26.497,0,0.0517,0.6,0.808,0.112,0.0379,115.001,147228,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+The Lake - Cincinnati,Carlos Rafael Rivera,39,0.207,0.145,9,-18.662,0,0.0338,0.975,0.799,0.0632,0.064,148.414,115729,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Playing Benny - Las Vegas 1966,Carlos Rafael Rivera,35,0.286,0.0124,7,-34.991,1,0.0597,0.993,0.963,0.0787,0.175,71.831,70769,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Two Sides Of The Same Coin,Carlos Rafael Rivera,36,0.0911,0.0231,10,-30.689,1,0.0436,0.961,0.936,0.12,0.0377,77.681,125923,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Mexico City Invitational 1966,Carlos Rafael Rivera,36,0.288,0.115,0,-18.231,1,0.0358,0.905,0.888,0.109,0.0503,132.564,447288,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Playing Girev I,Carlos Rafael Rivera,36,0.427,0.172,3,-21.15,0,0.037,0.983,0.929,0.111,0.164,119.897,189019,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Playing Girev II,Carlos Rafael Rivera,41,0.375,0.16,5,-18.781,1,0.0445,0.921,0.895,0.116,0.0381,119.925,443631,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Borgov I,Carlos Rafael Rivera,39,0.0858,0.169,11,-13.742,0,0.0389,0.97,0.895,0.137,0.0373,177.204,127663,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Beth Alone,Carlos Rafael Rivera,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Ohio US Championship 1967,Carlos Rafael Rivera,50,0.472,0.612,0,-10.982,1,0.0424,0.448,0.823,0.41,0.499,92.998,109896,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,0
+New York,Carlos Rafael Rivera,52,0.0916,0.0271,0,-27.397,0,0.0404,0.945,0.847,0.0892,0.0594,55.269,127615,https://i.scdn.co/image/ab67616d0000b273ff3e3dcc8b72e3315b7a04d9,3
+Training With Benny,Carlos Rafael Rivera,41,0.437,0.022,11,-29.447,0,0.04,0.976,0.916,0.11,0.0791,99.971,74046,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Paris Tournament 1967,Carlos Rafael Rivera,41,0.322,0.257,5,-19.638,1,0.0359,0.387,0.906,0.0889,0.0378,60.344,78496,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Borgov II,Carlos Rafael Rivera,42,0.276,0.0985,5,-28.017,0,0.0342,0.989,0.907,0.0795,0.125,134.587,66448,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Jolene!,Carlos Rafael Rivera,45,0.352,0.0774,9,-24.864,0,0.0345,0.946,0.877,0.118,0.138,108.077,184294,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Returning To Methuen,Carlos Rafael Rivera,40,0.149,0.00502,2,-29.404,0,0.0434,0.901,0.894,0.0903,0.0364,77.257,78943,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,3
+Turning Point,Carlos Rafael Rivera,68,0.695,0.743,6,-3.85,1,0.0329,0.0786,0.0,0.0587,0.634,123.007,201254,https://i.scdn.co/image/ab67616d0000b2732dd26b559e67903ae54235ef,2
+USSR,Carlos Rafael Rivera,68,0.695,0.743,6,-3.85,1,0.0329,0.0786,0.0,0.0587,0.634,123.007,201254,https://i.scdn.co/image/ab67616d0000b27333f6ecba8b25a4cd94ec7451,2
+Moscow Invitational 1968,Carlos Rafael Rivera,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,1
+Close Your Eyes,Carlos Rafael Rivera,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2733ca2eeb7baa9b25a1ce36b26,1
+Borgov III,Carlos Rafael Rivera,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,1
+The Final Game,Carlos Rafael Rivera,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,1
+"Take It, It's Yours",Carlos Rafael Rivera,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2735c31c2a42a670aef0c883c43,1
+By Your Side,Jonas Blue,40,0.149,0.00502,2,-29.404,0,0.0434,0.901,0.894,0.0903,0.0364,77.257,78943,https://i.scdn.co/image/ab67616d0000b27320fc6951e4d293707de2434c,3
+Throwback,Delaney Jane,66,0.544,0.704,4,-5.678,0,0.0435,0.0156,0.0,0.164,0.265,80.029,189062,https://i.scdn.co/image/ab67616d0000b2737f034792f2dcb18d3c2b855c,2
+2 Hearts (feat. Gia Koka),Sam Feldt,80,0.631,0.239,11,-7.071,0,0.0398,0.864,0.0,0.116,0.0927,79.859,149297,https://i.scdn.co/image/ab67616d0000b273103301a7b8a2ad637c0d73d7,0
+Hear Me Say,Jonas Blue,0,0.507,0.828,10,-6.023,1,0.0449,0.00711,2.44e-05,0.261,0.489,178.032,211295,https://i.scdn.co/image/ab67616d0000b2731a45582b69e744e45e46a7ca,2
+Speechless (feat. Erika Sirola) - MOTi Remix,Robin Schulz,37,0.526,0.78,2,-4.85,1,0.371,0.164,0.0,0.72,0.457,120.012,168655,https://i.scdn.co/image/ab67616d0000b273e2e0416c2e0a83b1cf47b040,1
+Higher (feat. iann dior) - Dimitri Vegas & Like Mike Remix,Clean Bandit,87,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,240133,https://i.scdn.co/image/ab67616d0000b273a06e5625f800c0af4ed1bc6f,0
+Dandelions,Ruth B.,76,0.538,0.804,8,-5.194,1,0.0358,0.0041,0.0,0.33,0.507,144.992,197640,https://i.scdn.co/image/ab67616d0000b27397e971f3e53475091dc8d707,2
+Too Late (feat. Wiz Khalifa & Lukas Graham) - Riggi & Piros Remix,Cash Cash,68,0.302,0.414,2,-8.16,1,0.0319,0.0575,0.0,0.0861,0.105,110.508,242956,https://i.scdn.co/image/ab67616d0000b273e62e1ccd378b4a90931eb82a,0
+Falling,Harry Styles,77,0.63,0.694,11,-6.257,0,0.0253,0.00281,0.0,0.0719,0.216,97.005,195519,https://i.scdn.co/image/ab67616d0000b273f3508855e1fd44d447a3413b,2
+Space Melody (Edward Artemyev) (feat. Leony),VIZE,81,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,222091,https://i.scdn.co/image/ab67616d0000b273a406e667a19401dc05bcf304,2
+Another Life (feat. Alida),Lucas & Steve,78,0.782,0.685,4,-6.237,1,0.0309,0.166,1.18e-05,0.16,0.603,118.016,180566,https://i.scdn.co/image/ab67616d0000b2735b6ad55d3ebb8358fff7b3e0,2
+Way Back Home (feat. Conor Maynard) - Sam Feldt Edit,SHAUN,76,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,226739,https://i.scdn.co/image/ab67616d0000b27391994452af66b672954b6eb4,2
+Faded - Luke Christopher Remix,Alan Walker,47,0.581,0.954,9,-3.336,1,0.081,0.0244,0.00413,0.223,0.616,127.959,191250,https://i.scdn.co/image/ab67616d0000b2730aacfea72fdb370310613aec,2
+Without You,Mike Williams,68,0.667,0.827,11,-5.631,1,0.0368,0.0863,0.0,0.0565,0.573,107.95,161944,https://i.scdn.co/image/ab67616d0000b2734687bc7a0bda65c282c13afa,2
+Be Kind (with Halsey),Marshmello,73,0.407,0.725,5,-5.346,0,0.188,0.0141,2.46e-06,0.306,0.247,196.093,247267,https://i.scdn.co/image/ab67616d0000b273fdf2e993e10e67396b3bf759,1
+Cheerleader - Felix Jaehn Remix Radio Edit,OMI,86,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427,https://i.scdn.co/image/ab67616d0000b27385ca00029c70d6b5b8372e96,2
+Daylight,Klaas,80,0.766,0.817,7,-4.253,1,0.035,0.0239,2.49e-06,0.159,0.43,125.033,138819,https://i.scdn.co/image/ab67616d0000b273e40c514edddb844439af6201,2
+All We Need (feat. Shy Girls) - Dzeko & Torres Remix Radio Edit,ODESZA,61,0.768,0.649,0,-8.508,0,0.0304,0.107,0.0202,0.133,0.36,122.009,149487,https://i.scdn.co/image/ab67616d0000b2731cb7abd73512578381b6a7f7,2
+SOS (feat. Aloe Blacc),Avicii,72,0.799,0.586,11,-6.735,1,0.0377,0.162,2.03e-06,0.193,0.549,120.97,227833,https://i.scdn.co/image/ab67616d0000b273660ee24281a547103f466ff5,2
+Hearts on Fire - CORSAK & Willim Remix,ILLENIUM,76,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,226739,https://i.scdn.co/image/ab67616d0000b2735235356530037f36494840a1,2
+You Know You Like It,DJ Snake,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b273567a71695181017949f14f99,1
+Fast Car,Jonas Blue,78,0.883,0.674,11,-8.043,0,0.357,0.21,0.0,0.0678,0.73,141.02,278085,https://i.scdn.co/image/ab67616d0000b273ca650d3a95022e0490434ba1,1
+Sixteen,Ellie Goulding,86,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,202333,https://i.scdn.co/image/ab67616d0000b2738bbea9fbdb68b329c1228e25,2
+In the Name of Love,Martin Garrix,81,0.865,0.521,0,-6.932,1,0.0371,0.548,0.000115,0.0989,0.748,129.059,244885,https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370,2
+Sweet Dreams,Alan Walker,88,0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769,244360,https://i.scdn.co/image/ab67616d0000b273318241eacbdaee4d0f9c4316,0
+Summer Thing,Dragonette,88,0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769,244360,https://i.scdn.co/image/ab67616d0000b27366fe9949f7a1c0731125a5e3,0
+Whole Life,Kaivon,79,0.733,0.96,7,-3.597,1,0.0295,0.0514,0.00199,0.287,0.811,124.01,189672,https://i.scdn.co/image/ab67616d0000b273fac46de3e7266f3d1717f664,2
+Don't Wanna Fall,Seven Lions,47,0.581,0.954,9,-3.336,1,0.081,0.0244,0.00413,0.223,0.616,127.959,191250,https://i.scdn.co/image/ab67616d0000b273229674bb044ec4ae60bf2a50,2
+Excitement (feat. PARTYNEXTDOOR),Trippie Redd,78,0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,179053,https://i.scdn.co/image/ab67616d0000b27343110d0447851b7d5737a7e9,2
+"Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",Tion Wayne,41,0.234,0.752,1,-5.951,1,0.0748,0.0102,0.0,0.118,0.315,62.114,213879,https://i.scdn.co/image/ab67616d0000b273b8ea4b876287cbbb519ac0fc,0
+Stressed Out,Twenty One Pilots,81,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,208373,https://i.scdn.co/image/ab67616d0000b2732df0d98a423025032d0db1f7,2
+"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",Céline Dion,79,0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,195707,https://i.scdn.co/image/ab67616d0000b273c2e1dc3683211f1240ea8dd2,1
+Another Love - Radio Edit,Tom Odell,76,0.706,0.824,0,-7.959,1,0.0694,0.355,0.000133,0.111,0.86,94.98,132000,https://i.scdn.co/image/ab67616d0000b2730c6c995755a55cc312bbf81f,2
+working,Tate McRae,40,0.459,0.0182,0,-26.606,1,0.0449,0.967,0.977,0.123,0.0384,120.02,190803,https://i.scdn.co/image/ab67616d0000b2738a01c7b77a34378a62f46402,3
+Reckless,Madison Beer,68,0.778,0.227,1,-16.191,1,0.0379,0.983,0.14,0.113,0.38,116.033,213056,https://i.scdn.co/image/ab67616d0000b273fe32f37b07c7894097aafd52,0
+Solar Power,Lorde,81,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,222091,https://i.scdn.co/image/ab67616d0000b27336615a0a60523dd62135ab3a,2
+cold/mess,Prateek Kuhad,62,0.52,0.901,0,-5.448,1,0.407,0.331,0.0,0.175,0.509,199.84,163866,https://i.scdn.co/image/ab67616d0000b2738155c99a241d4c57b2c3f88d,1
+Kho Gaye Hum Kahan,Jasleen Royal,85,0.516,0.467,0,-6.184,1,0.0302,0.662,0.0,0.0853,0.386,132.861,173307,https://i.scdn.co/image/ab67616d0000b273edfe45782ad611717d77b2ee,0
+i don't want to watch the world end with someone else,Clinton Kane,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b27392ce45bc46589e10ec452085,3
+Knock Knock,SoFaygo,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273836dfeeabc0e33ace0227d47,3
+Hula Hoop,OMI,42,0.276,0.0985,5,-28.017,0,0.0342,0.989,0.907,0.0795,0.125,134.587,66448,https://i.scdn.co/image/ab67616d0000b27385ca00029c70d6b5b8372e96,3
+Pasadena,Tinashe,39,0.149,0.0328,7,-31.586,0,0.0497,0.878,0.957,0.11,0.0356,104.583,96924,https://i.scdn.co/image/ab67616d0000b273560a43392fff47dfdd7519f1,3
+Feel Something,Joshua Bassett,39,0.398,0.0127,0,-31.618,0,0.0417,0.967,0.879,0.084,0.0492,119.963,90363,https://i.scdn.co/image/ab67616d0000b273a9897f65d1ead1be10a51e3f,3
+Nothing's the Same,Alexander 23,79,0.758,0.712,7,-3.781,1,0.112,0.0185,0.0,0.0677,0.795,149.998,193387,https://i.scdn.co/image/ab67616d0000b273b5b0a50f80e21a5593c5aa4d,2
+You Should Run,Moore Kismet,87,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040,https://i.scdn.co/image/ab67616d0000b27356b8013cd1ff06cb3dce4390,2
+Poison,DJ Gollum,76,0.706,0.824,0,-7.959,1,0.0694,0.355,0.000133,0.111,0.86,94.98,132000,https://i.scdn.co/image/ab67616d0000b2730ce91190aaea70dd4fe020c4,2
+DRXGS - Rawtek Remix,Yellow Claw,62,0.799,0.791,2,-5.173,1,0.109,0.3,0.00089,0.104,0.651,119.993,177476,https://i.scdn.co/image/ab67616d0000b2737e11203c0b52fb72c3da0ff7,2
+Shade of Yellow,Griff,51,0.623,0.886,5,-2.409,1,0.0512,0.0526,0.0,0.409,0.235,122.095,209016,https://i.scdn.co/image/ab67616d0000b273a86addb6aaa841a3011ca585,2
+Black Hole,Griff,67,0.404,0.806,2,-4.75,1,0.0496,0.198,0.0,0.114,0.112,148.036,220730,https://i.scdn.co/image/ab67616d0000b2732aaa9372a6922e6e3575d828,0
+FEFE,6ix9ine,0,0.878,0.64,0,-5.641,1,0.0591,0.142,0.0,0.0981,0.658,124.069,200524,https://i.scdn.co/image/ab67616d0000b2730a4da3f1a72e4ecaabb76370,2
+Magic,Lil Skies,0,0.878,0.64,0,-5.641,1,0.0591,0.142,0.0,0.0981,0.658,124.069,200524,https://i.scdn.co/image/ab67616d0000b27335007bd796b1020b6f1fd816,2
+Look at the Sky,Porter Robinson,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273cc488ae780ca22c0ba8b9f28,3
+So What (feat. A R I Z O N A),Louis The Child,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273976e5d846eafd977a8fa6dbb,3
+Taste of You (feat. Dove Cameron),Rezz,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b27352ef90ae4b6373ff9aa821bb,3
+Deep Blue,William Black,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b27380ebce41193dc3cdde3f0881,3
+Gasoline (feat. Laura White),Cash Cash,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b2736dadaf428d27bfc813646f86,3
+In Your Arms (with X Ambassadors),ILLENIUM,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273529c6fa82d23f65076c1579b,3
+WOW (with Emma Steinbakken),Matoma,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b2730a1d98c5d3a651027597048c,3
+Shut The World Out,Kasbo,69,0.898,0.759,7,-4.942,1,0.114,0.227,0.00102,0.104,0.24,127.966,180152,https://i.scdn.co/image/ab67616d0000b2736d2ea01f1b5163f4a0df48a2,2
+Moon Rider (feat. Wrabel),Jai Wolf,62,0.541,0.653,5,-5.954,1,0.04,0.00531,0.0,0.126,0.264,123.854,212468,https://i.scdn.co/image/ab67616d0000b2731ab5b89f4f46446974caf32d,2
+I Love You.,Kaivon,87,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,154983,https://i.scdn.co/image/ab67616d0000b2736a2e7f7613210a6397e854f5,2
+Good Things Fall Apart (with Jon Bellion),ILLENIUM,78,0.73,0.861,1,-4.1,1,0.0451,0.39,0.0,0.213,0.704,117.965,196613,https://i.scdn.co/image/ab67616d0000b273529c6fa82d23f65076c1579b,2
+UCLA,RL Grime,77,0.727,0.832,9,-4.327,0,0.0366,0.181,0.0,0.0615,0.213,127.035,177856,https://i.scdn.co/image/ab67616d0000b273ca68767b46b7b794e8633450,2
+The Bender (with Brando),Matoma,76,0.423,0.634,6,-5.877,0,0.0578,0.196,0.0,0.189,0.467,150.978,195840,https://i.scdn.co/image/ab67616d0000b27393a94aa67f5021ad56ed8fa1,2
+Sweet Time,Porter Robinson,66,0.702,0.709,0,-6.138,0,0.0836,0.189,0.000432,0.225,0.635,118.189,154576,https://i.scdn.co/image/ab67616d0000b2733583ee367f5456ac587654f9,2
+Big Love (with EARTHGANG & MNDR),Louis The Child,85,0.595,0.784,1,-4.878,1,0.102,0.216,0.0,0.0608,0.479,124.111,183726,https://i.scdn.co/image/ab67616d0000b273e3f5de1e0dc2f8574eba1448,2
+Lost,ILLENIUM,66,0.584,0.607,11,-6.605,1,0.0356,0.426,0.0,0.101,0.374,117.817,194827,https://i.scdn.co/image/ab67616d0000b273fd4ccaa0be6ceddd41f57eb3,0
+Someone To You,BANNERS,52,0.9,0.649,2,-6.365,1,0.197,0.00378,2.06e-06,0.0873,0.658,93.99,173640,https://i.scdn.co/image/ab67616d0000b273f1bff89049561177b7cccebb,2
+Dernière Danse,Yves V,82,0.905,0.647,10,-5.065,0,0.107,0.0187,0.0,0.282,0.367,130.97,190534,https://i.scdn.co/image/ab67616d0000b2734ae8ff731c49965bf2083405,2
+Summer Air,Hardwell,76,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,226739,https://i.scdn.co/image/ab67616d0000b273f36bfc7610838555198073f3,2
+Impossible,Shontelle,62,0.541,0.653,5,-5.954,1,0.04,0.00531,0.0,0.126,0.264,123.854,212468,https://i.scdn.co/image/ab67616d0000b273192221f838b7b6b9cb4629bf,2
+Get Together,David Guetta,74,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,221507,https://i.scdn.co/image/ab67616d0000b27302e56b9b5767b13dc2c51c70,2
+Enjoy Enjaami - Spotify Singles (with Dhee feat. Arivu & Santhosh Narayanan),DJ Snake,74,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,221507,https://i.scdn.co/image/ab67616d0000b273bc404153ef5f169a39b1deaf,2
+Weekend Vibe (feat. Desi Crew),Jubël,0,0.878,0.64,0,-5.641,1,0.0591,0.142,0.0,0.0981,0.658,124.069,200524,https://i.scdn.co/image/ab67616d0000b27344dbbe93532454f539187cb0,2
+YUSO (feat. Lil Wayne & Saweetie),Kid Ink,80,0.631,0.239,11,-7.071,0,0.0398,0.864,0.0,0.116,0.0927,79.859,149297,https://i.scdn.co/image/ab67616d0000b2734a5a0a944cb5bf49508e6528,0
+Wolves (feat. Post Malone),Big Sean,66,0.544,0.704,4,-5.678,0,0.0435,0.0156,0.0,0.164,0.265,80.029,189062,https://i.scdn.co/image/ab67616d0000b273b1b3fdd23be4c158d4d2c32f,2
+New Love (feat. Ellie Goulding),Silk City,86,0.866,0.813,11,-4.063,0,0.0554,0.38,0.0,0.0779,0.969,121.998,199440,https://i.scdn.co/image/ab67616d0000b273658743f7cfc745e08cc6c993,2
+My House - Chill Mix,Elderbrook,84,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,187973,https://i.scdn.co/image/ab67616d0000b273dcc4c108266da9897c176262,1
+Lost,Gareth Emery,14,0.834,0.548,5,-11.487,0,0.121,0.144,0.00629,0.101,0.188,99.154,144170,https://i.scdn.co/image/ab67616d0000b273fd4ccaa0be6ceddd41f57eb3,2
+Slow Clap (with Saweetie),Gwen Stefani,59,0.751,0.857,1,-4.385,0,0.0752,0.31,0.0,0.0801,0.501,104.984,151999,https://i.scdn.co/image/ab67616d0000b27361b818cd9a6de67dafd178db,2
+Glad You Came,The Wanted,0,0.878,0.64,0,-5.641,1,0.0591,0.142,0.0,0.0981,0.658,124.069,200524,https://i.scdn.co/image/ab67616d0000b27317a142a78128fb7c54ab9aa4,2
+Smile (with The Weeknd),Juice WRLD,59,0.751,0.857,1,-4.385,0,0.0752,0.31,0.0,0.0801,0.501,104.984,151999,https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb,2
+Wishing Well,Juice WRLD,0,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb,1
+Real Shit (with benny blanco),Juice WRLD,82,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,192120,https://i.scdn.co/image/ab67616d0000b273147c68fd1aca248ed8847dcb,2
+Shots,Imagine Dragons,0,0.659,0.667,11,-4.668,0,0.0339,0.00173,2.85e-05,0.1,0.468,115.982,258004,https://i.scdn.co/image/ab67616d0000b2739963af59402765ccc5d34757,2
+Stitches,Shawn Mendes,86,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960,https://i.scdn.co/image/ab67616d0000b273d26246b23c8bfa8ce543b3bb,2
+There's Nothing Holdin' Me Back,Shawn Mendes,49,0.612,0.668,2,-7.524,1,0.0483,0.00437,0.0,0.164,0.485,103.037,229627,https://i.scdn.co/image/ab67616d0000b273ea3ef7697cfd5705b8f47521,2
+Lost In Japan,Shawn Mendes,48,0.604,0.743,0,-7.3,0,0.0407,0.0062,1.53e-06,0.223,0.335,105.972,186418,https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24,2
+Treat You Better,Shawn Mendes,72,0.47,0.85,1,-2.825,0,0.0363,0.0627,0.0,0.118,0.148,149.876,197840,https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b,2
+Señorita - Slowed + Reverb,Dayscar,74,0.575,0.844,6,-4.89,0,0.072,0.00172,0.0,0.114,0.277,104.914,177801,https://i.scdn.co/image/ab67616d0000b27377d45f4f56a3455ea2a6e850,2
+Señorita,Shawn Mendes,76,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,226739,https://i.scdn.co/image/ab67616d0000b2730acb5a72549287bf33b51b71,2
+Real Love,Clean Bandit,83,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,190960,https://i.scdn.co/image/ab67616d0000b273817c4738f30e101af5b4d1a1,2
+Beside You (feat. Georgia Ku),Matoma,78,0.622,0.712,5,-7.321,1,0.066,0.0573,0.0,0.13,0.487,140.025,211360,https://i.scdn.co/image/ab67616d0000b273b653d47e0595da51f4c7f371,2
+Don't Wanna Know - Ryan Riback Remix,Maroon 5,0,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,190800,https://i.scdn.co/image/ab67616d0000b27393349393c61058de7e7d139d,2
+We're Coming Up,Julie Bergan,69,0.54,0.793,5,-4.379,1,0.0493,0.0744,0.0,0.354,0.399,112.219,201199,https://i.scdn.co/image/ab67616d0000b273893553397f8eca475b821728,2
+Floating Through Space,Sia,77,0.585,0.696,4,-5.6,0,0.0307,0.204,0.0,0.344,0.522,104.01,217640,https://i.scdn.co/image/ab67616d0000b2739ad7b6d6069896719edfbf58,2
+In My Blood,Shawn Mendes,61,0.655,0.473,8,-9.806,1,0.0267,0.842,0.0323,0.167,0.572,92.962,211290,https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24,0
+Memories,Maroon 5,56,0.534,0.863,0,-4.616,1,0.0357,0.0152,0.0167,0.144,0.374,98.006,313163,https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631,2
+Imagination,Shawn Mendes,53,0.626,0.79,3,-6.502,1,0.0397,0.0196,8.86e-05,0.106,0.539,127.039,297643,https://i.scdn.co/image/ab67616d0000b2732d6a4125a1d62dc6185f74ea,2
+Rescue Me,OneRepublic,49,0.496,0.568,4,-7.968,0,0.0333,0.217,1.69e-05,0.094,0.236,88.918,207531,https://i.scdn.co/image/ab67616d0000b2732e2889865b7b05955c1d3bcf,0
+How Do You Sleep?,Sam Smith,48,0.386,0.824,11,-5.225,0,0.0317,0.000305,6.5e-06,0.269,0.362,163.989,239085,https://i.scdn.co/image/ab67616d0000b27376bc1c851462191faec76bf8,2
+Rewrite The Stars,Zac Efron,45,0.535,0.701,1,-5.905,0,0.0297,0.00649,6.37e-06,0.403,0.334,138.05,263509,https://i.scdn.co/image/ab67616d0000b273c4e9d12d9ccdd7e48d2a0329,2
+Dusk Till Dawn (feat. Sia) - Radio Edit,ZAYN,45,0.343,0.508,2,-9.742,1,0.0341,0.191,0.000377,0.278,0.304,78.126,286720,https://i.scdn.co/image/ab67616d0000b2732bdcb339402ebd78651f09c8,0
+ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,79,0.669,0.629,1,-6.032,0,0.0657,0.0485,0.0,0.346,0.683,125.935,139729,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647,2
+Love Me Like You Do,Ellie Goulding,72,0.47,0.85,1,-2.825,0,0.0363,0.0627,0.0,0.118,0.148,149.876,197840,https://i.scdn.co/image/ab67616d0000b2736bdee14242f244d9d6ddf2fd,2
+It's You,Ali Gatie,76,0.423,0.634,6,-5.877,0,0.0578,0.196,0.0,0.189,0.467,150.978,195840,https://i.scdn.co/image/ab67616d0000b27302cb4044812ffa1f3c2369dc,2
+Break My Heart,Dua Lipa,74,0.737,0.636,11,-4.546,0,0.0437,0.0441,6.66e-05,0.35,0.565,105.005,222653,https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f,2
+Beautiful People (feat. Khalid),Ed Sheeran,75,0.703,0.66,10,-5.119,0,0.123,0.137,0.0,0.192,0.79,95.031,198947,https://i.scdn.co/image/ab67616d0000b273358f874d5d31e76a8fe3f6d0,2
+Liar,Camila Cabello,60,0.682,0.841,10,-3.465,0,0.139,0.0308,0.0,0.0534,0.717,90.15,207667,https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3,2
+Sucker,Jonas Brothers,79,0.662,0.858,2,-4.844,1,0.0428,0.00163,0.0,0.0456,0.295,133.993,181673,https://i.scdn.co/image/ab67616d0000b273de1a3a5eaa0c75bb18e7b597,2
+Cheating on You,Charlie Puth,73,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,212500,https://i.scdn.co/image/ab67616d0000b2738de02872d0f01145d616ca6f,2
+Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,83,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,186987,https://i.scdn.co/image/ab67616d0000b27330885dcb2b5f38512fbcbc59,2
+Happier,Ed Sheeran,76,0.67,0.743,10,-4.993,1,0.0393,0.237,0.0,0.465,0.571,125.944,218293,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a,2
+So Am I (feat. NCT 127),Ava Max,76,0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,235545,https://i.scdn.co/image/ab67616d0000b273e5a30974273430ec82920360,2
+Personal,HRVY,73,0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,207030,https://i.scdn.co/image/ab67616d0000b273f74a26b9b62a6a98e56a84e3,0
+That Girl,Olly Murs,87,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,221176,https://i.scdn.co/image/ab67616d0000b2731bf8096876ca5223e4e96eac,2
+Woman Like Me (feat. Nicki Minaj),Little Mix,66,0.61,0.87,2,-4.012,0,0.0693,0.00299,0.0,0.064,0.523,125.014,211360,https://i.scdn.co/image/ab67616d0000b27315174e2b2347b5ffbea6dbf0,2
+Best Part of Me (feat. YEBBA),Ed Sheeran,56,0.655,0.666,5,-5.309,1,0.0612,0.134,2.12e-05,0.0683,0.272,102.977,181812,https://i.scdn.co/image/ab67616d0000b27373304ce0653c7758dd94b259,2
+Watermelon Sugar,Harry Styles,62,0.572,0.75,1,-5.042,0,0.0604,0.0946,0.0,0.378,0.475,144.081,182627,https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a,2
+Sing It With Me,JP Cooper,75,0.51,0.846,3,-4.595,1,0.0461,0.0101,0.0,0.208,0.475,139.927,226733,https://i.scdn.co/image/ab67616d0000b273b83f07334d43dff80438ec2e,2
+If I Can't Have You - Gryffin Remix,Shawn Mendes,76,0.423,0.634,6,-5.877,0,0.0578,0.196,0.0,0.189,0.467,150.978,195840,https://i.scdn.co/image/ab67616d0000b273d58106bbe19331fb4306a248,2
+Looking at Me,Sabrina Carpenter,90,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,215507,https://i.scdn.co/image/ab67616d0000b273f22e1263704f24cb504700ea,1
+I Got You - Cheat Codes Remix,Bebe Rexha,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b273ef12737a8c4721e460ba9152,3
+Choo Lo,The Local Train,40,0.523,0.108,0,-21.457,1,0.0411,0.947,0.826,0.0987,0.139,112.001,131637,https://i.scdn.co/image/ab67616d0000b2738e001d2d4b55039b545d047e,3
+Dil Mere,The Local Train,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b2738e001d2d4b55039b545d047e,1
+Aaftaab,The Local Train,82,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,189323,https://i.scdn.co/image/ab67616d0000b27373c6514b296e0b53dc7b75b3,1
+Aaoge Tum Kabhi,The Local Train,82,0.581,0.963,11,-4.087,1,0.0981,0.0295,0.0,0.139,0.788,129.992,204160,https://i.scdn.co/image/ab67616d0000b2738e001d2d4b55039b545d047e,2
+Khudi,The Local Train,82,0.833,0.434,2,-8.795,1,0.431,0.0102,0.0219,0.165,0.281,150.062,204600,https://i.scdn.co/image/ab67616d0000b27373c6514b296e0b53dc7b75b3,1
+Dilnawaz,The Local Train,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b27373c6514b296e0b53dc7b75b3,1
+Kaisey Jiyun,The Local Train,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2738e001d2d4b55039b545d047e,1
+Mizaaj,The Local Train,75,0.931,0.387,1,-9.127,1,0.412,0.088,0.0,0.136,0.376,125.978,179405,https://i.scdn.co/image/ab67616d0000b27373c6514b296e0b53dc7b75b3,1
+Mere Yaar,The Local Train,72,0.701,0.554,1,-5.909,1,0.187,0.217,1.45e-06,0.419,0.0634,97.129,235187,https://i.scdn.co/image/ab67616d0000b27301da1830a32f9bae37838351,1
+Solo (feat. Demi Lovato),Clean Bandit,0,0.879,0.574,10,-5.602,0,0.391,0.519,8.76e-06,0.144,0.346,144.911,243463,https://i.scdn.co/image/ab67616d0000b27367eda217860e86c43481a5cb,1
+Say My Name,David Guetta,0,0.65,0.613,9,-6.13,0,0.128,0.00336,0.0,0.267,0.0804,149.972,194621,https://i.scdn.co/image/ab67616d0000b27367e400c9be79e6b0b0086880,1
+We Don't Care,Sigala,56,0.824,0.666,1,-7.079,1,0.228,0.0361,0.0,0.388,0.263,144.02,149947,https://i.scdn.co/image/ab67616d0000b273e77aece1352dcc4f4cfd097f,1
+Without You (feat. Sandro Cavazza),Avicii,0,0.548,0.805,7,-5.732,1,0.351,0.212,0.000405,0.408,0.649,142.096,216387,https://i.scdn.co/image/ab67616d0000b273a26cc58b4d64c2ece3376389,1
+"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",DJ Snake,84,0.625,0.814,0,-5.181,1,0.0657,0.0172,0.0,0.158,0.535,144.991,205485,https://i.scdn.co/image/ab67616d0000b273caf82abb2338880577e472be,2
+2002,Anne-Marie,84,0.625,0.814,0,-5.181,1,0.0657,0.0172,0.0,0.158,0.535,144.991,205485,https://i.scdn.co/image/ab67616d0000b27338aae75dc37fb42457866ffd,2
+Rewrite The Stars (with James Arthur & Anne-Marie),James Arthur,85,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,241688,https://i.scdn.co/image/ab67616d0000b273fdcd66dc526a25e1555ae81d,0
+Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,0,0.343,0.621,9,-6.319,1,0.0981,0.391,0.0,0.315,0.522,82.834,212387,https://i.scdn.co/image/ab67616d0000b273deae7d931928fc1543e70203,0
+Happy Now,Zedd,75,0.575,0.571,1,-7.906,1,0.0439,0.0558,0.0,0.0912,0.449,105.049,197947,https://i.scdn.co/image/ab67616d0000b27341e9614560815b11c1ca543d,2
+No Lie,Sean Paul,69,0.773,0.699,1,-5.982,0,0.0958,0.488,3.6e-06,0.0814,0.513,104.941,180120,https://i.scdn.co/image/ab67616d0000b2732d564195ed3dd7b70d64862c,2
+Just My Type,The Vamps,69,0.773,0.699,1,-5.982,0,0.0958,0.488,3.6e-06,0.0814,0.513,104.941,180120,https://i.scdn.co/image/ab67616d0000b2730c232fde2858d83554d58841,2
+Lonely Together (feat. Rita Ora),Avicii,87,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,https://i.scdn.co/image/ab67616d0000b2731c3735d4f11c1ab33189f019,0
+I Like Me Better,Lauv,87,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,https://i.scdn.co/image/ab67616d0000b273c2f8018c984a8acb592bc7d8,0
+Timber (feat. Ke$ha),Pitbull,74,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,221507,https://i.scdn.co/image/ab67616d0000b27311ea1ade3a8e55c99a3c3c32,2
+Black Mask (feat. Pop Smoke),Jay Gwuapo,82,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,180823,https://i.scdn.co/image/ab67616d0000b273423b50ba75dec5d27568fbb8,2
+Lost,bülow,64,0.652,0.715,0,-5.919,1,0.0388,0.0291,0.0,0.156,0.617,97.981,191036,https://i.scdn.co/image/ab67616d0000b273fd4ccaa0be6ceddd41f57eb3,2
+Chain My Heart,Topic,77,0.683,0.615,5,-5.737,1,0.0966,0.222,8.25e-06,0.154,0.45,77.014,188893,https://i.scdn.co/image/ab67616d0000b2738a5169176053574bb1d0a65b,2
+Eastside (with Halsey & Khalid),benny blanco,66,0.544,0.704,4,-5.678,0,0.0435,0.0156,0.0,0.164,0.265,80.029,189062,https://i.scdn.co/image/ab67616d0000b273693dbf001d5b2d06ad9e5f4d,2
+Sky,Mike Candys,66,0.544,0.704,4,-5.678,0,0.0435,0.0156,0.0,0.164,0.265,80.029,189062,https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90,2
+Bad Habits,Ed Sheeran,73,0.365,0.443,7,-10.11,1,0.0235,0.0472,1.44e-06,0.344,0.149,93.953,271533,https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2,0
+I Don't Do Drugs (feat. Ariana Grande),Doja Cat,73,0.365,0.443,7,-10.11,1,0.0235,0.0472,1.44e-06,0.344,0.149,93.953,271533,https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a,0
+18,Jeremy Zucker,77,0.439,0.434,7,-14.918,1,0.0265,0.0783,4.87e-05,0.14,0.204,94.845,274707,https://i.scdn.co/image/ab67616d0000b27399ed960a0c8767198eb44743,0
+You Right,Doja Cat,81,0.447,0.449,2,-10.634,1,0.0376,0.934,0.961,0.0697,0.036,92.468,315427,https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a,3
+dancing in the kitchen,LANY,32,0.405,0.551,7,-16.123,0,0.0473,0.819,0.957,0.0786,0.0381,161.965,190755,https://i.scdn.co/image/ab67616d0000b2732d9e8e3e016cf68d53536c64,3
+Let Me Know,Surfaces,40,0.336,0.173,9,-24.09,0,0.0395,0.92,0.859,0.0769,0.0389,192.954,425440,https://i.scdn.co/image/ab67616d0000b27365cdde209182a354c3766031,3
+Funny,Zedd,52,0.0916,0.0271,0,-27.397,0,0.0404,0.945,0.847,0.0892,0.0594,55.269,127615,https://i.scdn.co/image/ab67616d0000b27387bb3e23ce2c48c8fdd44ec8,3
+BED,Joel Corry,42,0.276,0.0985,5,-28.017,0,0.0342,0.989,0.907,0.0795,0.125,134.587,66448,https://i.scdn.co/image/ab67616d0000b273276ce856b01e1590c0991850,3
+No Chill (feat. Lil Xxel),Cheat Codes,45,0.352,0.0774,9,-24.864,0,0.0345,0.946,0.877,0.118,0.138,108.077,184294,https://i.scdn.co/image/ab67616d0000b273d0a42d369e76cfb73d5007ee,3
+Unfamiliar,Seeb,40,0.149,0.00502,2,-29.404,0,0.0434,0.901,0.894,0.0903,0.0364,77.257,78943,https://i.scdn.co/image/ab67616d0000b2733d0bc82dc4c22b53d4199cd8,3
+Feels,Jax Jones,39,0.149,0.0328,7,-31.586,0,0.0497,0.878,0.957,0.11,0.0356,104.583,96924,https://i.scdn.co/image/ab67616d0000b2731fb6420387b8d2a39ee5cf93,3
+Demons,Imagine Dragons,39,0.398,0.0127,0,-31.618,0,0.0417,0.967,0.879,0.084,0.0492,119.963,90363,https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737,3
+"Pavane, Op. 50",Gabriel Fauré,41,0.333,0.0686,9,-28.798,0,0.0417,0.979,0.924,0.11,0.0652,114.127,225345,https://i.scdn.co/image/ab67616d0000b273d2f034d0538c6fd971f07e3a,3
+Merry-Go-Round(人生のメリーゴーランド),Joe Hisaishi,40,0.459,0.0182,0,-26.606,1,0.0449,0.967,0.977,0.123,0.0384,120.02,190803,https://i.scdn.co/image/ab67616d0000b273060033347b2f252119f700bc,3
+Scheherazade: The Tale of the Kalendar Prince,Nikolai Rimsky-Korsakov,38,0.229,0.0114,5,-25.721,0,0.0406,0.984,0.906,0.0884,0.0397,135.966,108345,https://i.scdn.co/image/ab67616d0000b273734ead825eec82e0d13a7378,3
+Masquerade (Suite): 1. Waltz - Excerpt,Aram Khachaturian,38,0.241,0.0289,8,-28.084,1,0.0456,0.923,0.691,0.106,0.0376,120.113,268119,https://i.scdn.co/image/ab67616d0000b273ac94eec5d5469a0e533c8af0,3
+"Violin Concerto in D Major, Op. posth., No. 2: Adagio",Joseph Boulogne Chevalier de Saint-Georges,37,0.158,0.0313,4,-27.164,0,0.0402,0.923,0.965,0.0879,0.0394,179.803,167012,https://i.scdn.co/image/ab67616d0000b273dbb64629c30ec79b136b284f,3
+I Want It That Way,Backstreet Boys,50,0.718,0.83,4,-5.488,0,0.0505,0.404,2.5e-05,0.124,0.771,105.012,220382,https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b,2
+Aicha,Outlandish,73,0.499,0.898,8,-4.181,0,0.124,0.124,7.2e-06,0.0832,0.618,120.04,207668,https://i.scdn.co/image/ab67616d0000b273f5f1e5ffa33c441de641760d,2
+"Flightless Bird, American Mouth",Iron & Wine,86,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,244960,https://i.scdn.co/image/ab67616d0000b273816243514f01ac30d0932622,2
+A Sky Full of Stars,Coldplay,72,0.47,0.85,1,-2.825,0,0.0363,0.0627,0.0,0.118,0.148,149.876,197840,https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf,2
+Renegades,X Ambassadors,78,0.782,0.685,4,-6.237,1,0.0309,0.166,1.18e-05,0.16,0.603,118.016,180566,https://i.scdn.co/image/ab67616d0000b27345b5aedf82fd7fa05ef5ad11,2
+Maps,Maroon 5,81,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,208373,https://i.scdn.co/image/ab67616d0000b27337677af5b4f23fe9dc8a3c04,2
+Shots - Broiler Remix,Imagine Dragons,77,0.727,0.832,9,-4.327,0,0.0366,0.181,0.0,0.0615,0.213,127.035,177856,https://i.scdn.co/image/ab67616d0000b273fc4fd5caca9f1dc4a3b0460a,2
+Ode To My Family,The Cranberries,85,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,241688,https://i.scdn.co/image/ab67616d0000b27372d481a5999197ef5f42f796,0
+Zombie,The Cranberries,87,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,221176,https://i.scdn.co/image/ab67616d0000b27372d481a5999197ef5f42f796,2
+Linger,The Cranberries,77,0.707,0.629,0,-4.581,0,0.0563,0.259,1.6e-05,0.138,0.457,122.863,212459,https://i.scdn.co/image/ab67616d0000b273f6325f361d7803ad0d908451,2
+In Cold Light (Alexandra Hamilton-Ayres Rework),Vanbur,75,0.802,0.645,5,-6.181,0,0.0715,0.272,0.0,0.119,0.376,100.001,157202,https://i.scdn.co/image/ab67616d0000b273ee942b9044a125f57462f3ef,2
+Back To The Sky,Ólafur Arnalds,80,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,172762,https://i.scdn.co/image/ab67616d0000b273e2884db98b0ef093e43f4442,2
+Wandering II - Ed Carlsen Rework,Eydís Evensen,73,0.407,0.725,5,-5.346,0,0.188,0.0141,2.46e-06,0.306,0.247,196.093,247267,https://i.scdn.co/image/ab67616d0000b2736ed951df77aed4f3e9563a41,1
+Retour,Tony Anderson,72,0.47,0.85,1,-2.825,0,0.0363,0.0627,0.0,0.118,0.148,149.876,197840,https://i.scdn.co/image/ab67616d0000b27387fa255e69ee8d19f85f1b51,2
+"Mere Rashke Qamar (From ""Baadshaho"")",Nusrat Fateh Ali Khan,0,0.461,0.803,9,-3.518,1,0.0564,0.114,7.47e-05,0.225,0.237,136.18,188000,https://i.scdn.co/image/ab67616d0000b2733b9abd319170669650cd2fb4,2
+I Don't Know Why,NOTD,56,0.675,0.562,9,-5.99,1,0.0968,0.245,0.00109,0.103,0.655,79.916,156963,https://i.scdn.co/image/ab67616d0000b273d766fd9e96ce4be7776759a4,2
+Break Me Down,Autograf,67,0.758,0.588,11,-7.777,0,0.091,0.608,9.3e-05,0.189,0.796,134.014,286008,https://i.scdn.co/image/ab67616d0000b2735359c2e3b818c85e7437fe41,2
+On My Life,Cheat Codes,66,0.718,0.573,1,-7.309,0,0.0451,0.458,0.00533,0.0953,0.686,180.043,254174,https://i.scdn.co/image/ab67616d0000b273f0501dd6866fcf2777475691,2
+Round and Round,Empyre One,82,0.905,0.647,10,-5.065,0,0.107,0.0187,0.0,0.282,0.367,130.97,190534,https://i.scdn.co/image/ab67616d0000b2736b9f1c7c3c36c5c83cfb9f3b,2
+Let You Know,Flume,49,0.496,0.568,4,-7.968,0,0.0333,0.217,1.69e-05,0.094,0.236,88.918,207531,https://i.scdn.co/image/ab67616d0000b273039377adf8cf589d72d9ad28,0
+Strong,London Grammar,61,0.655,0.473,8,-9.806,1,0.0267,0.842,0.0323,0.167,0.572,92.962,211290,https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a,0
+"Ghalat Fehmi - From ""Superstar""",Asim Azhar,0,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,https://i.scdn.co/image/ab67616d0000b2733e47c50990387d718ff4d845,1
+Tera Ghata,Gajendra Verma,0,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,https://i.scdn.co/image/ab67616d0000b2736e7aabc7eaf60f2c1eee2b16,1
+Titans (feat. Sia & Labrinth) - Imanbek Remix,Major Lazer,15,0.68,0.895,2,-7.144,1,0.0378,0.0156,0.000374,0.145,0.824,93.037,189375,https://i.scdn.co/image/ab67616d0000b2732624d3fba3c4abfef284e689,2
+Hero,Faouzia,80,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,172762,https://i.scdn.co/image/ab67616d0000b273b7e0173842c5e101719d698a,2
+Aakhri Salaam,The Local Train,79,0.652,0.383,2,-7.076,0,0.0516,0.0676,0.0,0.0828,0.549,145.765,178994,https://i.scdn.co/image/ab67616d0000b27373c6514b296e0b53dc7b75b3,2
+Yeh Zindagi Hai,The Local Train,76,0.58,0.586,1,-6.883,1,0.0357,0.344,0.0,0.0755,0.507,147.988,199549,https://i.scdn.co/image/ab67616d0000b2738e001d2d4b55039b545d047e,2
+Bandey,The Local Train,82,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,180823,https://i.scdn.co/image/ab67616d0000b2735cd31847e786b7e1e185e062,2
+All I Wanna Do,Martin Jensen,83,0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602,285634,https://i.scdn.co/image/ab67616d0000b27382ecc5ea89bf34479a71a297,0
+"Even When/The Best Part - From ""High School Musical: The Musical: The Series (Season 2)""",Olivia Rodrigo,69,0.898,0.759,7,-4.942,1,0.114,0.227,0.00102,0.104,0.24,127.966,180152,https://i.scdn.co/image/ab67616d0000b273dbdb05bb6acfa1f389d888f7,2
+Run,OneRepublic,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b27386eb61be5784dcfbff4ed1ad,0
+Your Power,Billie Eilish,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e,0
+Electric - Pokemon 25 Version,Katy Perry,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b27390acd1669192dc34cae79608,0
+FUCKBOY,Dixie,95,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,https://i.scdn.co/image/ab67616d0000b2732b7229d3fc3b5d66f8c61972,2
+drivers license,Olivia Rodrigo,79,0.647,0.823,2,-5.231,1,0.0762,0.0598,0.0,0.119,0.396,99.933,230333,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a,2
+Don't Start Now,Dua Lipa,90,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,208867,https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f,2
+Anyone,Justin Bieber,65,0.269,0.58,0,-5.958,1,0.0352,0.474,0.0,0.116,0.281,155.625,283520,https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431,0
+Monster (Shawn Mendes & Justin Bieber),Shawn Mendes,56,0.406,0.711,4,-3.064,1,0.0436,0.373,0.00195,0.139,0.268,159.862,245250,https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107,0
+Goodbye,Imanbek,82,0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042,228360,https://i.scdn.co/image/ab67616d0000b273f2a9cbf09bcd5d047218c6d2,2
+"The Rose Song - From ""High School Musical: The Musical: The Series (Season 2)""",Olivia Rodrigo,71,0.625,0.707,2,-4.761,1,0.0337,0.22,0.0,0.213,0.479,138.064,248156,https://i.scdn.co/image/ab67616d0000b2737af5db634c578059a292cec0,2
+exile (feat. Bon Iver),Taylor Swift,78,0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,179053,https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc,2
+Death By A Thousand Cuts - Live From Paris,Taylor Swift,86,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427,https://i.scdn.co/image/ab67616d0000b2737864c044d3fa4ac3814ca667,2
+Look What You Made Me Do,Taylor Swift,76,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,226739,https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b,2
+long story short,Taylor Swift,76,0.58,0.586,1,-6.883,1,0.0357,0.344,0.0,0.0755,0.507,147.988,199549,https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be,2
+closure,Taylor Swift,80,0.766,0.817,7,-4.253,1,0.035,0.0239,2.49e-06,0.159,0.43,125.033,138819,https://i.scdn.co/image/ab67616d0000b273db94c82db2d786cd9e03a538,2
+Fifteen,Taylor Swift,53,0.621,0.898,10,-4.569,1,0.0401,0.0976,1.08e-05,0.404,0.332,124.018,181040,https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de,2
+Sexy Bitch (feat. Akon),David Guetta,80,0.624,0.876,9,-3.374,1,0.1,0.0735,0.0,0.327,0.781,99.943,170827,https://i.scdn.co/image/ab67616d0000b273444d1ba6cd088e28bccee374,2
+Party Rock Anthem,LMFAO,78,0.509,0.671,1,-5.709,1,0.0678,0.304,0.0,0.0452,0.55,118.413,227480,https://i.scdn.co/image/ab67616d0000b2731db908d5f66645cb158837ca,2
+New Thang,Redfoo,55,0.728,0.794,1,-3.992,1,0.0635,0.148,0.0,0.0688,0.523,112.071,194360,https://i.scdn.co/image/ab67616d0000b273b4993adcf493566cfa67fac0,2
+Counting Stars,OneRepublic,75,0.703,0.66,10,-5.119,0,0.123,0.137,0.0,0.192,0.79,95.031,198947,https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb,2
+Feel Good (feat. Daya),Gryffin,49,0.772,0.887,0,-4.461,0,0.347,0.00644,0.0,0.339,0.705,126.026,136190,https://i.scdn.co/image/ab67616d0000b2730a19c753760d231f6b223fa7,1
+2U (feat. Justin Bieber),David Guetta,53,0.6,0.788,1,-4.482,0,0.111,0.247,0.0,0.105,0.301,94.038,186702,https://i.scdn.co/image/ab67616d0000b27345c5570d4a66346d8f683913,2
+Pretty Please,Dua Lipa,78,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,https://i.scdn.co/image/ab67616d0000b273048d847f67902917cee10e19,2
+Fractures,ILLENIUM,52,0.667,0.316,7,-8.952,1,0.0318,0.814,0.0,0.113,0.361,95.85,315476,https://i.scdn.co/image/ab67616d0000b273132018693b0dc6095d18cf96,0
+Galway Girl,Ed Sheeran,55,0.567,0.793,11,-5.715,0,0.052,0.254,4.24e-05,0.0378,0.395,158.083,360438,https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96,2
+Locked Away (feat. Adam Levine),R. City,80,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,172762,https://i.scdn.co/image/ab67616d0000b2739519b1a9e2b552407e65b01a,2
+Show Me Love,MR.BLACK,62,0.78,0.684,0,-5.758,1,0.0636,0.17,0.0,0.105,0.732,149.916,173467,https://i.scdn.co/image/ab67616d0000b2739263dc4504ccf1b02899d9ae,2
+Let You Down,NF,31,0.55,0.488,6,-8.059,1,0.0284,0.718,0.000118,0.126,0.301,136.025,309458,https://i.scdn.co/image/ab67616d0000b273cd733919ee57d0cc466e152f,0
+Kiss and Make Up,Dua Lipa,31,0.55,0.488,6,-8.059,1,0.0284,0.718,0.000118,0.126,0.301,136.025,309458,https://i.scdn.co/image/ab67616d0000b2737833c9a792ad032d788d4011,0
+Sweet Harmony,LUNAX,81,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,230227,https://i.scdn.co/image/ab67616d0000b2732e206f9c4fd97b7687a67326,1
+Talk To Me (feat. Conor Maynard & RANI) - Sam Feldt Edit,Möwe,81,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,222091,https://i.scdn.co/image/ab67616d0000b273203311d7aa3bb77b2ab05a23,2
+Arcade (feat. FLETCHER),Duncan Laurence,68,0.546,0.73,0,-7.704,1,0.0417,0.66,0.179,0.0972,0.573,157.895,215920,https://i.scdn.co/image/ab67616d0000b2731b55c3257d316d184d641800,2
+Revolver,bülow,80,0.624,0.876,9,-3.374,1,0.1,0.0735,0.0,0.327,0.781,99.943,170827,https://i.scdn.co/image/ab67616d0000b273ed63f58fbdcec542dd3ca298,2
+All Too Well,Jake Scott,0,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,217867,https://i.scdn.co/image/ab67616d0000b273563151cc3a0528d8228998c8,0
+Die For a Man (feat. Lil Uzi Vert),Bebe Rexha,82,0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042,228360,https://i.scdn.co/image/ab67616d0000b273ffc59c9106b0fef7f9ddbb8f,2
+Telling Myself,Joshua Bassett,69,0.735,0.784,11,-7.128,0,0.0332,0.449,0.154,0.105,0.582,120.012,191000,https://i.scdn.co/image/ab67616d0000b27385eb4ebc8c651f1f85857b73,2
+I Would Like - R3hab Remix,Zara Larsson,56,0.675,0.562,9,-5.99,1,0.0968,0.245,0.00109,0.103,0.655,79.916,156963,https://i.scdn.co/image/ab67616d0000b2735dd8571b487e941f23ba0970,2
+Diamonds,Rihanna,67,0.736,0.622,6,-4.653,0,0.133,0.0235,0.0,0.151,0.506,191.971,192779,https://i.scdn.co/image/ab67616d0000b2736dee21d6cd1823e4d6231d37,2
+Agar Tum Saath Ho,Alka Yagnik,0,0.548,0.805,7,-5.732,1,0.351,0.212,0.000405,0.408,0.649,142.096,216387,https://i.scdn.co/image/ab67616d0000b273da50894e074ecd5ce61de0a1,1
+Agar Tum Mil Jao,Shreya Ghoshal,84,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,210960,https://i.scdn.co/image/ab67616d0000b27325055b41603705c1172409da,2
+I'm Not Mad,Halsey,79,0.669,0.629,1,-6.032,0,0.0657,0.0485,0.0,0.346,0.683,125.935,139729,https://i.scdn.co/image/ab67616d0000b273309b0cb81728d42a6dfb2b81,2
+Main Rahoon Ya Na Rahoon,Armaan Malik,78,0.715,0.639,5,-5.017,0,0.0752,0.0622,0.0,0.157,0.151,149.996,205800,https://i.scdn.co/image/ab67616d0000b273899494fd2fbd757674459af3,2
+Scars To Your Beautiful,Alessia Cara,55,0.489,0.725,0,-5.883,0,0.0825,0.0126,0.0,0.505,0.275,125.818,165000,https://i.scdn.co/image/ab67616d0000b2730a48794d471447a030998815,1
+IDK You Yet,Alexander 23,56,0.552,0.76,11,-6.861,0,0.0367,0.00713,0.0113,0.313,0.338,104.957,232333,https://i.scdn.co/image/ab67616d0000b273fe03064db12346c962cd0c56,2
+A Little Bit Yours,JP Saxe,83,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,190960,https://i.scdn.co/image/ab67616d0000b273e19d9c548f323ab0f0299d36,2
+Everyone Changes,Kodaline,73,0.365,0.443,7,-10.11,1,0.0235,0.0472,1.44e-06,0.344,0.149,93.953,271533,https://i.scdn.co/image/ab67616d0000b27370265e464ae9e06870ebf415,0
+Bad boy,Marwa Loud,82,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,285120,https://i.scdn.co/image/ab67616d0000b2739b93b7071e8f0d9e14aa5d1c,0
+Ransom (with Juice WRLD) - Remix,Lil Tecca,78,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,https://i.scdn.co/image/ab67616d0000b273bd69bbde4aeee723d6d08058,2
+Startender (feat. Offset and Tyga),A Boogie Wit da Hoodie,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b273a5c7151899ae5da4f4382d54,1
+Fire On Fire,Sam Smith,73,0.365,0.443,7,-10.11,1,0.0235,0.0472,1.44e-06,0.344,0.149,93.953,271533,https://i.scdn.co/image/ab67616d0000b2730d1f3930676c34a23dbf5c46,0
+Neighbor (feat. Travis Scott),Juicy J,83,0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602,285634,https://i.scdn.co/image/ab67616d0000b273be9e4aa392e12ffe1cfbccd7,0
+One More Time (feat. Alida) - Klingande Remix,Robin Schulz,69,0.279,0.742,4,-6.46,0,0.0898,0.000185,0.0,0.593,0.328,189.868,231013,https://i.scdn.co/image/ab67616d0000b273d7ab65a8f8e002229fcf08d4,1
+Talk,Why Don't We,79,0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,195707,https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b,1
+Can't Go Home (feat. Adam Lambert) - Radio Edit,Steve Aoki,81,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,208373,https://i.scdn.co/image/ab67616d0000b273f19d3411260d92d9464b982a,2
+(They Long To Be) Close To You,The Cranberries,80,0.62,0.574,5,-7.788,0,0.0479,0.569,0.0,0.19,0.357,100.023,250173,https://i.scdn.co/image/ab67616d0000b273f33f1738a2764489750e3535,0
+We Don't Talk Anymore (feat. Selena Gomez) - Attom Remix,Charlie Puth,59,0.751,0.857,1,-4.385,0,0.0752,0.31,0.0,0.0801,0.501,104.984,151999,https://i.scdn.co/image/ab67616d0000b273361cda878af9f705bf7c55d1,2
+Worship,MAX,78,0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,179053,https://i.scdn.co/image/ab67616d0000b273a43273c6be8d0667d3732391,2
+Jar of Hearts,Christina Perri,63,0.305,0.393,0,-8.926,1,0.0458,0.777,0.000101,0.106,0.396,180.195,200972,https://i.scdn.co/image/ab67616d0000b27326a2f5224465a369f8abbf88,0
+Echo (feat. blackbear),Maroon 5,84,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,183624,https://i.scdn.co/image/ab67616d0000b27386a8ab515de4b7aef28cd631,0
+Sometimes,Kodaline,54,0.649,0.758,10,-5.647,0,0.0581,0.0364,4.12e-05,0.36,0.737,120.001,167811,https://i.scdn.co/image/ab67616d0000b273d888f2eef159a1ed846c2870,2
+Spirits,The Strumbellas,66,0.272,0.281,10,-8.131,1,0.0307,0.618,0.0,0.111,0.152,138.856,305893,https://i.scdn.co/image/ab67616d0000b273bfa12b3e57b6f5a21f2959fd,0
+This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),David Guetta,42,0.546,0.848,11,-2.577,1,0.052,0.0315,2.82e-06,0.252,0.873,165.964,169814,https://i.scdn.co/image/ab67616d0000b273c052c52bc0218b778ca136f5,2
+Love Yourself,Justin Bieber,81,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,209320,https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de,2
+Play Hard (feat. Ne-Yo & Akon) - New Edit,David Guetta,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b2737f9e5fda879c2f5c95a4f771,2
+Shallow,Lady Gaga,0,0.879,0.574,10,-5.602,0,0.391,0.519,8.76e-06,0.144,0.346,144.911,243463,https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342,1
+Heathens,Twenty One Pilots,84,0.789,0.536,6,-6.862,1,0.242,0.41,0.0,0.129,0.437,81.039,165926,https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb,1
+You And Me,The Cranberries,65,0.885,0.543,2,-6.338,1,0.2,0.0311,0.0,0.154,0.43,99.026,195992,https://i.scdn.co/image/ab67616d0000b2733bf0683f6ac36cc954339d03,2
+Mine,Bazzi,80,0.724,0.675,2,-5.267,1,0.0867,0.0978,9.41e-06,0.351,0.325,160.048,199758,https://i.scdn.co/image/ab67616d0000b273ad1595c0dbbac094f2d80bf5,1
+In The Name Of Love - The Him Remix,Martin Garrix,72,0.868,0.479,4,-6.687,0,0.445,0.703,0.0,0.102,0.776,133.928,115200,https://i.scdn.co/image/ab67616d0000b273ef0e75a3b57e0f8b74da4a11,1
+Nobody,Greyson Chance,73,0.733,0.664,8,-6.163,1,0.295,0.102,0.0,0.191,0.557,148.005,288133,https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1,1
+Big Plans,Why Don't We,49,0.598,0.43,11,-11.236,1,0.0544,0.186,0.0,0.0924,0.0843,91.923,98508,https://i.scdn.co/image/ab67616d0000b27362fd63904246c5f1bf511baf,0
+Train Wreck,James Arthur,77,0.693,0.549,1,-8.141,1,0.119,0.0109,0.0,0.0677,0.605,80.028,227960,https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab,2
+My House,Flo Rida,59,0.62,0.611,9,-4.997,1,0.0359,0.204,0.0,0.34,0.44,172.142,155147,https://i.scdn.co/image/ab67616d0000b2737947bf3e8af32378de181b41,2
+Secrets,OneRepublic,83,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,263373,https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452,1
+1-800-273-8255,Logic,72,0.834,0.678,6,-6.242,0,0.0515,0.0546,0.263,0.103,0.551,121.995,168601,https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805,2
+DRXGS,Yellow Claw,95,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,https://i.scdn.co/image/ab67616d0000b273b2c3e6a6672d7d30801fa951,2
+All Time Low,Kurt Hugo Schneider,56,0.406,0.711,4,-3.064,1,0.0436,0.373,0.00195,0.139,0.268,159.862,245250,https://i.scdn.co/image/ab67616d0000b2738519af1fdbf5ea0e702a8bd2,0
+Real Friends,Camila Cabello,0,0.461,0.803,9,-3.518,1,0.0564,0.114,7.47e-05,0.225,0.237,136.18,188000,https://i.scdn.co/image/ab67616d0000b2736eb0b9e73adcf04e4ed3eca4,2
+She Said,FLETCHER,75,0.738,0.794,11,-4.118,0,0.0416,0.101,0.0,0.0533,0.566,104.014,184134,https://i.scdn.co/image/ab67616d0000b2730b59ef1bd83ef9d7080012ca,2
+die without u,LØLØ,88,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,198040,https://i.scdn.co/image/ab67616d0000b27377e3448162a99c226dbde292,0
+New Rules,Dua Lipa,84,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,183624,https://i.scdn.co/image/ab67616d0000b273838698485511bd9108fadadc,0
+Stranger,Blanks,89,0.701,0.716,7,-3.671,0,0.0361,0.174,0.0,0.324,0.732,91.007,140533,https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3,2
+im all alone,lael,84,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,183624,https://i.scdn.co/image/ab67616d0000b2733ff73fe12e766d14fad2012b,0
+Spin The Block (feat. Future),Lil Durk,90,0.548,0.816,0,-4.209,1,0.0465,0.122,0.0,0.335,0.557,95.39,174000,https://i.scdn.co/image/ab67616d0000b273cc252a21d0f26d9378f03ed6,2
+detest me,glaive,80,0.631,0.239,11,-7.071,0,0.0398,0.864,0.0,0.116,0.0927,79.859,149297,https://i.scdn.co/image/ab67616d0000b273643fa774c7c88b9130639b38,0
+Runaway,6VIB3Z,71,0.703,0.703,1,-4.672,1,0.133,0.605,0.0,0.12,0.697,76.017,183783,https://i.scdn.co/image/ab67616d0000b273c379325088c2845fe85cd70a,2
+BedRock,Young Money,66,0.181,0.913,5,-3.318,1,0.152,0.0501,0.0,0.282,0.392,82.176,174893,https://i.scdn.co/image/ab67616d0000b273cad1e37b4b31b5484325acd3,1
+Buy U a Drank (Shawty Snappin') (feat. Yung Joc),T-Pain,82,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,192120,https://i.scdn.co/image/ab67616d0000b273baf2f329d4feeb19761eddf4,2
+Heat Waves,Glass Animals,55,0.48,0.795,0,-3.145,1,0.0337,0.0698,0.0,0.15,0.138,149.991,224000,https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464,2
+Let Them Know,Mabel,66,0.544,0.704,4,-5.678,0,0.0435,0.0156,0.0,0.164,0.265,80.029,189062,https://i.scdn.co/image/ab67616d0000b273b1855c4e60583b738fb054e8,2
+Our World (feat. Daniele Sorrentino),Blasterjaxx,56,0.749,0.878,1,-4.685,0,0.0407,0.0144,0.0,0.64,0.148,127.985,160378,https://i.scdn.co/image/ab67616d0000b27383c40ed4c00d9fc52cb133b3,1
+Scared to Be Lonely,Martin Garrix,74,0.713,0.738,10,-6.784,1,0.374,0.255,0.0,0.106,0.425,105.027,201200,https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374,1
+It Ain't Me (with Selena Gomez),Kygo,45,0.343,0.508,2,-9.742,1,0.0341,0.191,0.000377,0.278,0.304,78.126,286720,https://i.scdn.co/image/ab67616d0000b27341f289940f2e6a0d51988d77,0
+Mama,Jonas Blue,78,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,https://i.scdn.co/image/ab67616d0000b273403627b529867858a6b7b830,2
+Faded,Alan Walker,0,0.658,0.634,1,-5.797,0,0.0413,0.0106,0.0,0.132,0.29,139.98,170813,https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a,2
+Heather,Conan Gray,80,0.706,0.625,0,-7.426,1,0.0314,0.0417,0.0,0.129,0.225,142.948,242181,https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43,2
+At My Worst,Pink Sweat$,54,0.57,0.786,3,-3.85,1,0.0379,0.251,0.000415,0.279,0.179,111.028,237838,https://i.scdn.co/image/ab67616d0000b27387bb1da05f3491eea3401de5,2
+Mood (feat. iann dior),24kGoldn,46,0.19,0.494,8,-6.839,1,0.0368,0.554,0.0194,0.106,0.126,76.909,263493,https://i.scdn.co/image/ab67616d0000b27384c53fa832dfa265192419c5,0
+Hold On,Justin Bieber,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273c60473419a4ce96822541181,2
+Hate Me (with Juice WRLD),Ellie Goulding,65,0.572,0.778,1,-5.208,1,0.233,0.00638,0.0,0.0563,0.54,168.073,225520,https://i.scdn.co/image/ab67616d0000b273dc854e032e8588d5e75eebc6,1
+Circles,Post Malone,83,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,263373,https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02,1
+Signal,TK from Ling tosite sigure,79,0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,229507,https://i.scdn.co/image/ab67616d0000b273f4b4b03d0902c58335f78458,1
+The Blower's Daughter,Damien Rice,0,0.688,0.702,7,-4.792,0,0.0501,0.0219,0.0,0.128,0.74,94.007,192191,https://i.scdn.co/image/ab67616d0000b273fbf054cdb847f4e042d88642,2
+i'm so tired...,Lauv,75,0.703,0.66,10,-5.119,0,0.123,0.137,0.0,0.192,0.79,95.031,198947,https://i.scdn.co/image/ab67616d0000b2732c0e1e9e1fd1e7b132da1606,2
+Met Him Last Night - Dave Audé Remix,Demi Lovato,62,0.62,0.64,4,-5.285,1,0.0334,0.0488,0.0,0.0647,0.445,90.032,172787,https://i.scdn.co/image/ab67616d0000b273292b5a44cf639d8d86888588,2
+Freaks,Surf Curse,79,0.722,0.851,7,-3.873,0,0.0639,0.0319,0.0,0.108,0.452,126.885,197936,https://i.scdn.co/image/ab67616d0000b2739efda673310de265a2c1cf1f,2
+Cold Light,KC Lights,83,0.67,0.905,1,-6.855,1,0.129,0.669,0.000227,0.349,0.563,104.965,167864,https://i.scdn.co/image/ab67616d0000b2731ab362964a8865eace979a39,1
+Just Dance,EQRIC,57,0.528,0.367,2,-9.227,1,0.055,0.878,0.000146,0.0795,0.293,128.715,190427,https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2,0
+Lift Your Energy,Eden Prince,61,0.703,0.628,0,-5.914,1,0.203,0.364,0.0,0.384,0.471,138.032,205217,https://i.scdn.co/image/ab67616d0000b273c25655226c0faf159143915b,1
+Payphone,Maroon 5,56,0.552,0.76,11,-6.861,0,0.0367,0.00713,0.0113,0.313,0.338,104.957,232333,https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff,2
+Seasons - NIVIRO Remix,Rival,69,0.279,0.742,4,-6.46,0,0.0898,0.000185,0.0,0.593,0.328,189.868,231013,https://i.scdn.co/image/ab67616d0000b27315c1ed89791fdbe3bea3a2b7,1
+S&M Remix,Rihanna,78,0.7,0.613,11,-4.041,1,0.0408,0.385,0.0,0.0887,0.42,88.084,191250,https://i.scdn.co/image/ab67616d0000b273c28680c727d093ec3db48340,2
+Blinding Lights,The Weeknd,91,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,198082,https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36,1
+Umbrella,Ember Island,80,0.631,0.239,11,-7.071,0,0.0398,0.864,0.0,0.116,0.0927,79.859,149297,https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98,0
+Cold Skin,Seven Lions,60,0.687,0.463,1,-6.635,1,0.0368,0.039,0.0,0.131,0.289,91.031,198187,https://i.scdn.co/image/ab67616d0000b27307c399135b66ed7c66ec4027,2
+Better Not (with Wafia),Louis The Child,95,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,https://i.scdn.co/image/ab67616d0000b27353c069027efd7447798e844d,2
+I Get You,Kasbo,81,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,222091,https://i.scdn.co/image/ab67616d0000b2731842f53a1cef27ed76bee40a,2
+Line Of Sight (Reprise) (feat. WYNNE & Mansionair),ODESZA,85,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,226600,https://i.scdn.co/image/ab67616d0000b27300c8600dbba79dac1f2b1d32,0
+Only One I Need,William Black,76,0.706,0.824,0,-7.959,1,0.0694,0.355,0.000133,0.111,0.86,94.98,132000,https://i.scdn.co/image/ab67616d0000b2734cae64780023f5d32c303c0b,2
+All Eyes On Me,Bo Burnham,84,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,210960,https://i.scdn.co/image/ab67616d0000b273b0bc4161fffa156cacafc128,2
+STAY (with Justin Bieber),The Kid LAROI,74,0.535,0.359,2,-9.343,1,0.0607,0.771,0.0,0.111,0.488,154.163,184505,https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5,0
+Just A Mess,Tones And I,83,0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602,285634,https://i.scdn.co/image/ab67616d0000b2738e8197111f9d57793a5e7eff,0
+Renegade (feat. Taylor Swift),Big Red Machine,54,0.251,0.536,8,-11.449,1,0.0438,0.217,0.88,0.111,0.428,84.457,99380,https://i.scdn.co/image/ab67616d0000b273e77973772db06a6327d58946,3
+Demeanor (feat. Dua Lipa),Pop Smoke,72,0.47,0.85,1,-2.825,0,0.0363,0.0627,0.0,0.118,0.148,149.876,197840,https://i.scdn.co/image/ab67616d0000b27379476cf856443329e6c52c04,2
+Good Life (with G-Eazy & Kehlani),G-Eazy,82,0.581,0.963,11,-4.087,1,0.0981,0.0295,0.0,0.139,0.788,129.992,204160,https://i.scdn.co/image/ab67616d0000b273857ce1238c0bf9cbca89bf55,2
+Bamboléo,Gipsy Kings,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b2736e7cb1429534f0d21133b714,0
+Feel This Moment (feat. Christina Aguilera),Pitbull,69,0.735,0.784,11,-7.128,0,0.0332,0.449,0.154,0.105,0.582,120.012,191000,https://i.scdn.co/image/ab67616d0000b273f2486b438645e97b523e4f90,2
+Don't Leave Me Now,Lost Frequencies,90,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,215507,https://i.scdn.co/image/ab67616d0000b273ee8d918583183919d31f1e6c,1
+Sleepover,Litany,0,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,217867,https://i.scdn.co/image/ab67616d0000b2735b41313f5e512786926f3da9,0
+All My Friends,AJ Mitchell,85,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,241688,https://i.scdn.co/image/ab67616d0000b27356195a1de62577988becf8f5,0
+Not Allowed,TV Girl,78,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd,2
+Brush Fire,Gracie Abrams,48,0.489,0.739,8,-5.049,1,0.0397,0.0573,9.76e-06,0.105,0.472,125.003,257400,https://i.scdn.co/image/ab67616d0000b2730fbf715d41f46ae042bcc23f,2
+Butterflies,MAX,80,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,172762,https://i.scdn.co/image/ab67616d0000b2737d754c028dfe344882a2f3e8,2
+Shower,Becky G,77,0.818,0.913,4,-3.06,0,0.0426,0.093,3.69e-05,0.161,0.536,119.986,219160,https://i.scdn.co/image/ab67616d0000b273f7f5503cfc6a54d31e65b112,2
+I Like Me Better,Anthony de la Torre,82,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,180823,https://i.scdn.co/image/ab67616d0000b273c2f8018c984a8acb592bc7d8,2
+Emptiness,Zodiac Wave,87,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,154983,https://i.scdn.co/image/ab67616d0000b2739ab7a540b94ce87de4392a82,2
+If I Could,Brynn Cartelli,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273900f246f03884d3c19847808,2
+Bright Eyes,Art Garfunkel,64,0.736,0.308,11,-11.543,1,0.0421,0.492,0.00248,0.179,0.439,132.767,175135,https://i.scdn.co/image/ab67616d0000b27303a06e5fe0e916e4e4173705,0
+Game of Thrones - Theme,London Music Works,66,0.524,0.882,5,-3.038,1,0.0367,0.108,1.1e-06,0.071,0.399,119.94,204547,https://i.scdn.co/image/ab67616d0000b273c0427505829f1b63f1c18f6f,2
+People Watching,Conan Gray,73,0.365,0.443,7,-10.11,1,0.0235,0.0472,1.44e-06,0.344,0.149,93.953,271533,https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396,0
+The Rains of Castamere,Ramin Djawadi,87,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,221176,https://i.scdn.co/image/ab67616d0000b27313625287ac224436f6070f94,2
+The Rains of Castamere (From the HBO® Series Game Of Thrones - Season 4),Ramin Djawadi,90,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,208867,https://i.scdn.co/image/ab67616d0000b273bd17fd3d160a1440408dbf9e,2
+The Rains Of Castomere,The National,51,0.622,0.618,9,-4.954,1,0.0375,0.203,0.0,0.34,0.477,172.129,155147,https://i.scdn.co/image/ab67616d0000b2732c6cf887c57990d092c85465,2
+Forever,Lewis Capaldi,70,0.755,0.689,5,-4.463,1,0.0305,0.0693,0.0,0.394,0.638,140.013,198874,https://i.scdn.co/image/ab67616d0000b273b9c4979446c4d39bc08e9503,2
+Power is Power (feat. The Weeknd & Travis Scott),SZA,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b273d4024fdf2c5056be8a08d09c,1
+All I Want (Floorplan Remix) [Extended Mix] (feat. Andrea Martin),Secondcity,64,0.639,0.404,4,-7.68,0,0.037,0.0166,0.0,0.343,0.045,138.054,177440,https://i.scdn.co/image/ab67616d0000b27374a2c95587f874aa835a952a,0
+Closer,Jaden Thompson,0,0.665,0.707,11,-5.144,1,0.03,0.193,0.0,0.219,0.391,144.952,156331,https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453,2
+What's Up,Gaullin,72,0.153,0.417,1,-11.587,1,0.0318,0.434,0.000622,0.211,0.166,80.87,273333,https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4,0
+When I Need You,Céline Dion,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273fc260b9f45d36ce9ebde7bc5,2
+Beautiful Now,Zedd,67,0.614,0.605,0,-5.63,1,0.0319,0.21,0.0,0.162,0.333,127.099,217867,https://i.scdn.co/image/ab67616d0000b273d040bc5b46915b49a64d7b1d,2
+Won't Bite (feat. Smino),Doja Cat,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b,2
+She's My Collar (feat. Kali Uchis),Gorillaz,77,0.69,0.622,5,-5.025,0,0.0622,0.253,0.0,0.116,0.544,102.04,210091,https://i.scdn.co/image/ab67616d0000b273a5952c0e2e649f588603b743,2
+Hold It Against Me,Britney Spears,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b273fda0f2adec40250bea55101b,2
+"I miss you, I’m sorry",Gracie Abrams,85,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,226600,https://i.scdn.co/image/ab67616d0000b27355c38bc34d1fe852f2657c2e,0
+Fingers Crossed (with Julia Michaels),Trevor Daniel,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273b0f4acdef98296e13d263c8d,2
+"Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",24kGoldn,76,0.8,0.526,8,-5.153,1,0.0716,0.334,0.00174,0.0571,0.746,129.874,150475,https://i.scdn.co/image/ab67616d0000b27360036f58bbb4b25a7a6f2712,2
+NUMB,Chri$tian Gate$,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c,2
+Hate You + Love You (feat. AJ Mitchell),Cheat Codes,70,0.724,0.5,5,-7.112,0,0.259,0.41,0.0,0.115,0.317,97.694,171429,https://i.scdn.co/image/ab67616d0000b273c2bd783533a07368136793a8,1
+Party Girl,StaySolidRocky,88,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,198040,https://i.scdn.co/image/ab67616d0000b273f1255abfe0381a9e6fedb301,0
+Heart Attack,Demi Lovato,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273251fade24606082e8cf97972,2
+Love Is Gone - Acoustic,Dylan Matthew,10,0.768,0.652,1,-2.708,0,0.307,0.113,0.0,0.107,0.777,154.187,144935,https://i.scdn.co/image/ab67616d0000b2733892a2a2c261629f34bb5536,1
+"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",Machine Gun Kelly,84,0.625,0.814,0,-5.181,1,0.0657,0.0172,0.0,0.158,0.535,144.991,205485,https://i.scdn.co/image/ab67616d0000b2737a3fbbab0e9fb050a08fa065,2
+Changes,Hayd,54,0.649,0.758,10,-5.647,0,0.0581,0.0364,4.12e-05,0.36,0.737,120.001,167811,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c,2
+Back To U,SLANDER,0,0.722,0.588,6,-5.932,1,0.0544,0.0319,0.0,0.183,0.59,134.01,165507,https://i.scdn.co/image/ab67616d0000b273df34234cbad3fca10cda133e,2
+Time,NF,79,0.758,0.712,7,-3.781,1,0.112,0.0185,0.0,0.0677,0.795,149.998,193387,https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61,2
+7UP,Boy In Space,83,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,263373,https://i.scdn.co/image/ab67616d0000b2735290d1b9b7e45618a27c065c,1
+Hate The Way (feat. blackbear),G-Eazy,57,0.443,0.579,6,-6.517,0,0.187,0.125,0.0,0.284,0.256,83.827,240437,https://i.scdn.co/image/ab67616d0000b273cad9ceeebb8d1dd84e5ce8d9,1
+lie to me,Ali Gatie,76,0.728,0.431,6,-9.966,0,0.0622,0.749,0.0,0.0996,0.629,130.022,147800,https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557,0
+Do You Believe,Ali Gatie,10,0.768,0.652,1,-2.708,0,0.307,0.113,0.0,0.107,0.777,154.187,144935,https://i.scdn.co/image/ab67616d0000b2732a0e84f7f86349253277349b,1
+"i hate u, i love u (feat. olivia o'brien)",gnash,67,0.788,0.605,1,-5.586,1,0.0578,0.00899,0.00275,0.318,0.427,103.94,173973,https://i.scdn.co/image/ab67616d0000b27308862f843ea27f44f8e8cbd8,2
+ANGELS & DEMONS,jxdn,54,0.649,0.758,10,-5.647,0,0.0581,0.0364,4.12e-05,0.36,0.737,120.001,167811,https://i.scdn.co/image/ab67616d0000b273cda826d365bd5cf8e0a4d815,2
+I Don't Want You Back,AJ Mitchell,0,0.722,0.588,6,-5.932,1,0.0544,0.0319,0.0,0.183,0.59,134.01,165507,https://i.scdn.co/image/ab67616d0000b273a887d66b888802f16cbfd59c,2
+Chasing_(Demo),NF,79,0.758,0.712,7,-3.781,1,0.112,0.0185,0.0,0.0677,0.795,149.998,193387,https://i.scdn.co/image/ab67616d0000b2739ad2960fafd7b9656c895578,2
+hot girl bummer,blackbear,83,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,263373,https://i.scdn.co/image/ab67616d0000b273e9b6f26ff354f4d70847f02d,1
+idfc - Tarro Remix,blackbear,84,0.625,0.814,0,-5.181,1,0.0657,0.0172,0.0,0.158,0.535,144.991,205485,https://i.scdn.co/image/ab67616d0000b2739256a09a8085ca1d4fe2d338,2
+Ridiculous Thoughts,The Cranberries,54,0.649,0.758,10,-5.647,0,0.0581,0.0364,4.12e-05,0.36,0.737,120.001,167811,https://i.scdn.co/image/ab67616d0000b27372d481a5999197ef5f42f796,2
+When We Were Young,Dolores O'Riordan,78,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14,2
+Human Spirit,Dolores O'Riordan,69,0.836,0.51,1,-10.091,0,0.371,0.713,3.35e-05,0.101,0.56,151.499,162772,https://i.scdn.co/image/ab67616d0000b2739bf57fa172f5be04c7e7ffc2,1
+Pain - Remastered,Blackfield,82,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,189323,https://i.scdn.co/image/ab67616d0000b273513d6513b16f9e27707730b7,1
+Send Me An Angel,Scorpions,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b273787674b6a114f98cad6f834b,0
+Under Your Spell,The Birthday Massacre,71,0.786,0.667,5,-8.272,1,0.054,0.0112,0.053,0.074,0.688,102.046,181176,https://i.scdn.co/image/ab67616d0000b273b046c342a6c11e3bb7c9724c,2
+Frozen,Madonna,61,0.389,0.148,3,-11.011,1,0.03,0.897,0.0,0.114,0.4,142.611,287324,https://i.scdn.co/image/ab67616d0000b2734cef50f6a5d84d46ad9a4af1,0
+Stay,Zedd,72,0.674,0.915,6,-3.999,0,0.0411,0.0282,0.00337,0.273,0.78,126.038,191293,https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5,2
+Bartholomew,The Silent Comedy,71,0.606,0.9,0,-4.504,1,0.119,0.0101,0.0,0.075,0.233,133.963,216504,https://i.scdn.co/image/ab67616d0000b273400bdacf8c028c8f769132d3,2
+Loki Green Theme,Natalie Holt,78,0.57,0.689,7,-6.242,1,0.147,0.358,0.0,0.0819,0.568,100.087,196844,https://i.scdn.co/image/ab67616d0000b27393c695e6fe6a29007bb51854,2
+Photograph,Ed Sheeran,53,0.7,0.33,4,-7.522,1,0.0706,0.797,0.0,0.122,0.766,119.103,226280,https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd,0
+SAD!,XXXTENTACION,90,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,215507,https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c,1
+Everybody Dies In Their Nightmares,XXXTENTACION,91,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,198082,https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5,1
+Losing Interest,itssvd,44,0.515,0.281,1,-7.845,1,0.0264,0.972,0.00949,0.108,0.105,98.251,219682,https://i.scdn.co/image/ab67616d0000b273f5fa99a449e4262f628f41a3,0
+Tory lanez freestyle ,Battieboyspodcast,48,0.663,0.341,0,-8.82,1,0.0326,0.896,0.503,0.118,0.192,127.974,148000,https://i.scdn.co/image/ab67616d0000b27399f24266c22e4e3b3b83fa58,0
+idfc,blackbear,42,0.714,0.404,9,-8.759,1,0.0439,0.196,1.04e-06,0.283,0.299,98.016,149821,https://i.scdn.co/image/ab67616d0000b2739bd9040e92f79ffb58eb9dbd,0
+bad vibes forever,XXXTENTACION,62,0.72,0.724,6,-7.219,0,0.0463,0.0418,0.0,0.0597,0.747,89.984,213804,https://i.scdn.co/image/ab67616d0000b273fa96fd3251629605bb59345d,2
+STILL CHOSE YOU (feat. Mustard),The Kid LAROI,69,0.673,0.637,5,-4.518,1,0.0429,0.137,0.0,0.184,0.678,123.98,201160,https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a,2
+Maniac,Conan Gray,0,0.65,0.613,9,-6.13,0,0.128,0.00336,0.0,0.267,0.0804,149.972,194621,https://i.scdn.co/image/ab67616d0000b273c23fc5c23c494a83d14908d2,1
+VIBEZ,DaBaby,86,0.662,0.413,0,-7.357,1,0.0299,0.213,0.0,0.134,0.467,93.005,161385,https://i.scdn.co/image/ab67616d0000b273f2b94b2fda4f08836d6371ba,2
+We're Good,Dua Lipa,76,0.783,0.435,7,-7.78,1,0.0588,0.282,0.0,0.0833,0.512,106.974,210220,https://i.scdn.co/image/ab67616d0000b273ccdddb2e5349ea0608c3e016,2
+Whistle,Flo Rida,66,0.272,0.281,10,-8.131,1,0.0307,0.618,0.0,0.111,0.152,138.856,305893,https://i.scdn.co/image/ab67616d0000b273ff4ec21d7817138cabcc19bc,0
+Manike Mage Hithe,Chamath Sangeeth,81,0.489,0.597,5,-6.633,0,0.0292,0.27,0.0,0.105,0.324,95.012,253520,https://i.scdn.co/image/ab67616d0000b27328079cbb812199a40c64d37a,0
+Liggi,Ritviz,75,0.349,0.348,3,-6.142,1,0.0316,0.726,0.0,0.12,0.0886,74.541,246587,https://i.scdn.co/image/ab67616d0000b273774767c26967fb25e7854305,0
+Riha,Anuv Jain,65,0.399,0.362,6,-8.37,1,0.0337,0.637,8.47e-06,0.0965,0.311,125.73,217427,https://i.scdn.co/image/ab67616d0000b2731a1e038a4fc09c537b0b97a5,0
+Someone You Like,The Girl and The Dreamcatcher,73,0.667,0.613,1,-5.353,1,0.0344,0.403,0.0,0.115,0.47,91.024,194453,https://i.scdn.co/image/ab67616d0000b273164feb363334f93b6458d2a9,2
+Hosanna,Hillsong Worship,0,0.615,0.28,0,-8.648,1,0.0433,0.932,0.0,0.0877,0.387,72.797,213827,https://i.scdn.co/image/ab67616d0000b273f8910d64a61c3e3dc970613c,0
+Hold On To Me,Lauren Daigle,88,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,182161,https://i.scdn.co/image/ab67616d0000b273343c8c4eba9913f62cf4d8c7,0
+Overdrive,Conan Gray,51,0.517,0.744,8,-4.826,0,0.0285,0.178,0.0,0.12,0.379,139.983,224493,https://i.scdn.co/image/ab67616d0000b27372694fed173af6d24d22eefb,2
+Strawberries & Cigarettes,Troye Sivan,0,0.635,0.843,5,-5.413,1,0.0432,0.0151,0.0,0.0876,0.434,109.014,220733,https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712,2
+Overwhelmed (Ryan Mack Remix),Ryan Mack,75,0.383,0.616,5,-7.118,1,0.0515,0.314,7.21e-06,0.11,0.48,147.625,208667,https://i.scdn.co/image/ab67616d0000b273406c79c19c702998ece57d7f,0
+I'm not Pretty,JESSIA,72,0.663,0.577,11,-7.518,0,0.0531,0.109,0.0,0.12,0.454,89.996,193200,https://i.scdn.co/image/ab67616d0000b273d698a39207c9cb499814f4a0,2
+overwhelmed,Royal & the Serpent,73,0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,207030,https://i.scdn.co/image/ab67616d0000b273406c79c19c702998ece57d7f,0
+Mad at Disney,salem ilese,55,0.728,0.794,1,-3.992,1,0.0635,0.148,0.0,0.0688,0.523,112.071,194360,https://i.scdn.co/image/ab67616d0000b273d593820d1884e330cf258727,2
+Fallin’ (Adrenaline),Why Don't We,56,0.701,0.789,6,-5.399,1,0.0395,0.0661,1.89e-05,0.222,0.375,109.99,136364,https://i.scdn.co/image/ab67616d0000b273a59fe305e5504a51fa413d29,2
+Welcome to Wonderland,Anson Seabra,50,0.741,0.855,7,-4.603,1,0.0372,0.00166,0.0042,0.285,0.756,123.988,146413,https://i.scdn.co/image/ab67616d0000b27346113e087787563c203a6f3e,2
+Freaks,Jordan Clarke,80,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,172762,https://i.scdn.co/image/ab67616d0000b2739efda673310de265a2c1cf1f,2
+Psycho,Maisie Peters,81,0.865,0.521,0,-6.932,1,0.0371,0.548,0.000115,0.0989,0.748,129.059,244885,https://i.scdn.co/image/ab67616d0000b273d492ab4a1950dcfe213ab8d2,2
+everything sucks,vaultboy,42,0.546,0.848,11,-2.577,1,0.052,0.0315,2.82e-06,0.252,0.873,165.964,169814,https://i.scdn.co/image/ab67616d0000b2730a47a8c37f83710d4ce75362,2
+The Way You Felt,Alec Benjamin,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b2730c8a0405b0035e48ab780eec,2
+Guess That's Love,Ryan Mack,59,0.751,0.857,1,-4.385,0,0.0752,0.31,0.0,0.0801,0.501,104.984,151999,https://i.scdn.co/image/ab67616d0000b273f84c003d22b410ed1d15e6d7,2
+Funny Story,Cate,73,0.674,0.568,1,-6.356,1,0.0408,0.116,0.0,0.165,0.64,166.107,174800,https://i.scdn.co/image/ab67616d0000b273c741c6992ec0892c7e3f35b5,2
+Don’t Give Up On Me,Andy Grammer,70,0.369,0.403,3,-7.996,1,0.0259,0.827,0.0541,0.106,0.177,154.899,241917,https://i.scdn.co/image/ab67616d0000b2736012829a32ed0e4c084e693b,0
+Broke,Ryan Mack,76,0.706,0.824,0,-7.959,1,0.0694,0.355,0.000133,0.111,0.86,94.98,132000,https://i.scdn.co/image/ab67616d0000b27343a17898d5a7a94e2277c4a0,2
+CHICKEN TENDIES,Clinton Kane,88,0.667,0.373,4,-9.389,1,0.05,0.785,0.0,0.0906,0.0823,124.148,169266,https://i.scdn.co/image/ab67616d0000b27358e57c68f015f1c31030e35e,0
+fairytales,Gabby Sophia,87,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,269560,https://i.scdn.co/image/ab67616d0000b27349a39e0e4102b862ccee0fb0,0
+Aadmi Chutiya Hai,Rahgir,77,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,229400,https://i.scdn.co/image/ab67616d0000b273305b9c872312e6fac4071d08,0
+Pran,Ritviz,73,0.691,0.795,1,-4.021,0,0.0355,0.000812,1.02e-06,0.156,0.876,133.971,227333,https://i.scdn.co/image/ab67616d0000b27380a4dfbc97f53484f02e2fbb,2
+WAP,Zane Hijazi,81,0.262,0.606,8,-6.646,1,0.0484,0.247,0.0,0.125,0.275,189.857,252534,https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c,0
+O.D.D.,Hey Violet,62,0.531,0.224,2,-10.878,1,0.0293,0.874,0.0,0.111,0.276,74.98,200563,https://i.scdn.co/image/ab67616d0000b273f543c5344074c07618c3340d,0
+Pal Behta Jaaye,Vismay Patel,80,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.68e-06,0.112,0.446,107.993,242974,https://i.scdn.co/image/ab67616d0000b2736b6090cf9a39d46df41fb121,2
+Hoodie,Hey Violet,79,0.574,0.329,1,-6.829,1,0.0274,0.22,0.0,0.0986,0.356,130.993,237933,https://i.scdn.co/image/ab67616d0000b27317137b399060d8644c4d16c2,0
+Sorry That I Do That,Anna Clendening,0,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,217867,https://i.scdn.co/image/ab67616d0000b27379022cd5c424b7c85fa51f99,0
+The Last Goodbye,The Kills,54,0.79,0.625,0,-6.691,1,0.068,0.00127,0.000807,0.0786,0.773,128.975,318052,https://i.scdn.co/image/ab67616d0000b273f08e77f631dfa98ca0a0a5a2,2
+I Need Some Sleep,Eels,0,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,217867,https://i.scdn.co/image/ab67616d0000b273869ccada309ed2ac9343742f,0
+Tohfa,Vayu,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b2739db81cbcd20382c800f70c9a,2
+If You’re Gonna Leave - Bvrnout Remix,PLVTINUM,59,0.751,0.857,1,-4.385,0,0.0752,0.31,0.0,0.0801,0.501,104.984,151999,https://i.scdn.co/image/ab67616d0000b273ae4bb9be984b833f0bf192f7,2
+Weak,AJR,76,0.706,0.824,0,-7.959,1,0.0694,0.355,0.000133,0.111,0.86,94.98,132000,https://i.scdn.co/image/ab67616d0000b2733727747677b081c7d8c126f2,2
+Fall With Me,Aaron Doh,88,0.357,0.425,5,-7.301,1,0.0333,0.584,0.0,0.322,0.27,102.078,198040,https://i.scdn.co/image/ab67616d0000b273c7fcfe8e0608dc29dadc0af1,0
+Bang!,AJR,84,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,210960,https://i.scdn.co/image/ab67616d0000b2730f0e7900a102aaa70ed30d3e,2
+Come My Way,PLVTINUM,81,0.504,0.788,3,-4.113,0,0.215,0.0134,0.0,0.363,0.228,170.039,186022,https://i.scdn.co/image/ab67616d0000b273a6296dd9f8acc8c90ecbdfc1,1
+Friendly Neighborhood Poltergeist,Rory Webley,86,0.662,0.413,0,-7.357,1,0.0299,0.213,0.0,0.134,0.467,93.005,161385,https://i.scdn.co/image/ab67616d0000b273b9fdc6904159a5ab7861a21f,2
+Boom,Zane Hijazi,79,0.758,0.712,7,-3.781,1,0.112,0.0185,0.0,0.0677,0.795,149.998,193387,https://i.scdn.co/image/ab67616d0000b273961f09591e3341727600006f,2
+Idk,Bruce Wiegner,76,0.728,0.431,6,-9.966,0,0.0622,0.749,0.0,0.0996,0.629,130.022,147800,https://i.scdn.co/image/ab67616d0000b273f9d66911f25fcb4b3b7d5cd3,0
+Spicy (feat. Post Malone),Ty Dolla $ign,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b2739b6cff14d6cdf4b6a2be3a4f,2
+emotions,iann dior,81,0.865,0.521,0,-6.932,1,0.0371,0.548,0.000115,0.0989,0.748,129.059,244885,https://i.scdn.co/image/ab67616d0000b273b79509ce58a7d556815059e0,2
+Hard Work Pays Off,Future,0,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,217867,https://i.scdn.co/image/ab67616d0000b273644c510e8d4c02ae69028297,0
+ROCKSTAR (feat. Roddy Ricch),DaBaby,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647,2
+Love Yourz,J. Cole,76,0.706,0.824,0,-7.959,1,0.0694,0.355,0.000133,0.111,0.86,94.98,132000,https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8,2
+Woah,Lil Baby,53,0.329,0.277,10,-13.111,0,0.0302,0.971,0.024,0.0971,0.121,159.719,289560,https://i.scdn.co/image/ab67616d0000b273a2bd351ce3447cd550372168,0
+Let Me Down Slowly / Main Dhoondne Ko Zamaane (Medley),Abstract Cartoons,91,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,198082,https://i.scdn.co/image/ab67616d0000b2739bb2d30b01ac2cada8a8ad03,1
+Habits of My Heart - EP Version,Jaymes Young,0,0.471,0.335,4,-8.767,0,0.0273,0.593,2.11e-05,0.297,0.111,145.252,243907,https://i.scdn.co/image/ab67616d0000b273305bc2b4f6eab97a390a21b3,0
+All Good Things (Come To An End),Nelly Furtado,0,0.552,0.783,7,-4.138,0,0.0504,0.00887,0.00026,0.0954,0.575,79.984,231413,https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2,2
+Each Coming Night,Iron & Wine,68,0.838,0.545,5,-6.713,1,0.0706,0.208,8.01e-05,0.103,0.631,114.998,220590,https://i.scdn.co/image/ab67616d0000b273031c73667e732e3e208a6328,2
+Beige,Yoke Lore,54,0.695,0.62,8,-8.082,0,0.0521,0.0881,5.43e-05,0.111,0.62,150.032,194900,https://i.scdn.co/image/ab67616d0000b273f471411c4c4cc6e17d0bb759,2
+Rosyln,Bon Iver,57,0.545,0.686,10,-4.081,1,0.0665,0.00265,0.0,0.477,0.486,127.996,186493,https://i.scdn.co/image/ab67616d0000b273c1399042ffe4156cc27dccbb,1
+Unconditionally,Katy Perry,82,0.724,0.804,11,-4.614,0,0.0448,0.124,0.0,0.204,0.306,124.987,197993,https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22,2
+You Are The Reason,Calum Scott,50,0.467,0.506,9,-9.271,1,0.029,0.648,3.21e-05,0.128,0.218,97.132,184853,https://i.scdn.co/image/ab67616d0000b273f2d671c22b70e01b78a618a8,0
+Sad Song (feat. Elena Coats),We The Kings,0,0.811,0.507,5,-7.161,0,0.117,0.0146,2.14e-06,0.342,0.438,111.016,200680,https://i.scdn.co/image/ab67616d0000b273734dbf67d585a457a8d2b676,1
+Run to You,Lea Michele,78,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,212500,https://i.scdn.co/image/ab67616d0000b2731dee97ba6f2264197cfd7657,2
+One Call Away,Charlie Puth,78,0.64,0.533,0,-6.596,1,0.0706,0.119,0.0,0.0864,0.515,99.968,220781,https://i.scdn.co/image/ab67616d0000b27315145482a542a9adb282250b,2
+When I Was Your Man,Bruno Mars,58,0.724,0.71,0,-7.383,0,0.0462,0.0126,0.00163,0.0857,0.212,122.056,153443,https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46,2
+Little Do You Know,Alex & Sierra,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b273e43c5c123c01326fd8bb840a,2
+Someone You Loved,Lewis Capaldi,76,0.615,0.774,4,-5.152,0,0.0551,0.0173,0.0,0.15,0.336,136.887,191364,https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2,2
+the words,Christina Perri,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273891b5348358ee43343077db2,2
+"Gone, Gone, Gone",Phillip Phillips,71,0.715,0.778,6,-6.546,0,0.0365,0.0152,0.0,0.121,0.756,123.954,166925,https://i.scdn.co/image/ab67616d0000b2735c75f5e02580f4c0c3e80e8e,2
+We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,82,0.68,0.553,0,-7.116,1,0.042,0.409,0.0,0.0847,0.352,99.999,198221,https://i.scdn.co/image/ab67616d0000b273633a2d775747bccfbcb17a45,2
+Heart By Heart,Demi Lovato,74,0.528,0.627,11,-3.719,1,0.0373,0.0107,0.0,0.529,0.295,139.988,180371,https://i.scdn.co/image/ab67616d0000b2734cae063f4a4cd704c3d8d9e6,1
+Just the Way You Are,Bruno Mars,56,0.551,0.381,2,-8.919,1,0.203,0.748,0.0,0.135,0.271,97.216,176372,https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b,0
+"Flashlight - From ""Pitch Perfect 2"" Soundtrack",Jessie J,70,0.647,0.642,9,-7.306,0,0.0743,0.262,0.0,0.134,0.48,90.045,164167,https://i.scdn.co/image/ab67616d0000b273b5cd57e4ee19e4f85f6af5dd,2
+The Music,Kideko,59,0.894,0.492,1,-4.692,1,0.104,0.0295,1.22e-06,0.14,0.397,100.041,152532,https://i.scdn.co/image/ab67616d0000b273c4f557b55f2c572a3ff39e23,2
+All of Me,John Legend,83,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,263373,https://i.scdn.co/image/ab67616d0000b27394c9217a398f5174757c0c78,1
+human,Christina Perri,96,0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,212000,https://i.scdn.co/image/ab67616d0000b27390a788beadaad34ff684d3ec,2
+Say Something,A Great Big World,95,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,230747,https://i.scdn.co/image/ab67616d0000b2739e2acbb00244d6da17edb0cf,2
+The One That Got Away,Katy Perry,67,0.698,0.769,8,-7.154,1,0.0368,0.0128,0.00166,0.238,0.354,121.02,339023,https://i.scdn.co/image/ab67616d0000b273f619042d5f6b2149a4f5e0ca,2
+"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,93,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,211560,https://i.scdn.co/image/ab67616d0000b2736bdee14242f244d9d6ddf2fd,2
+Everything I Need,Skylar Grey,93,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,0.589,134.002,211560,https://i.scdn.co/image/ab67616d0000b2736bf004415057be1e79a22ec1,2
+Set Fire to the Rain,Adele,95,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,178147,https://i.scdn.co/image/ab67616d0000b273164feb363334f93b6458d2a9,2
+Say You Won't Let Go,James Arthur,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab,1
+You & I,One Direction,89,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064,https://i.scdn.co/image/ab67616d0000b2731f61c5b9c469a9050438d249,2
+Surrender,Natalie Taylor,90,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,208867,https://i.scdn.co/image/ab67616d0000b273f0b277bc5565bf503759cfbe,2
+Not About Angels,Birdy,87,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,0.719,148.088,242096,https://i.scdn.co/image/ab67616d0000b273a7a7f6236a9219ffc8e9054c,2
+Little Talks,Of Monsters and Men,90,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,238805,https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262,2
+We Are Young (feat. Janelle Monáe),fun.,92,0.38,0.339,3,-7.885,1,0.0338,0.691,0.0,0.12,0.0849,100.607,229227,https://i.scdn.co/image/ab67616d0000b273a036e1724bc7f2bab15cfda8,0
+Somebody That I Used To Know - 4FRNT Remix,Gotye,0,0.659,0.667,11,-4.668,0,0.0339,0.00173,2.85e-05,0.1,0.468,115.982,258004,https://i.scdn.co/image/ab67616d0000b273e72715688f633bf309ce1142,2
+Sweet but Psycho,Ava Max,67,0.404,0.806,2,-4.75,1,0.0496,0.198,0.0,0.114,0.112,148.036,220730,https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7,0
+wannabe,renforshort,83,0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602,285634,https://i.scdn.co/image/ab67616d0000b27378d4822ea994760c931fb4e0,0
+Dandelion,Gabbie Hanna,76,0.783,0.435,7,-7.78,1,0.0588,0.282,0.0,0.0833,0.512,106.974,210220,https://i.scdn.co/image/ab67616d0000b27397e971f3e53475091dc8d707,2
+do re mi,blackbear,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b2736c112ab47442b526755ffe36,2
+Selfish Love (with Selena Gomez) - Tiësto Remix,DJ Snake,84,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,210960,https://i.scdn.co/image/ab67616d0000b273f3fe13f56ce3ee27747c44ad,2
+Come & Get It,Selena Gomez,54,0.79,0.625,0,-6.691,1,0.068,0.00127,0.000807,0.0786,0.773,128.975,318052,https://i.scdn.co/image/ab67616d0000b2730e36690135fa1a30d048e604,2
+Vulnerable,Selena Gomez,80,0.706,0.625,0,-7.426,1,0.0314,0.0417,0.0,0.129,0.225,142.948,242181,https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666,2
+Boyfriend,Selena Gomez,79,0.669,0.629,1,-6.032,0,0.0657,0.0485,0.0,0.346,0.683,125.935,139729,https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e,2
+Rare,Selena Gomez,82,0.833,0.434,2,-8.795,1,0.431,0.0102,0.0219,0.165,0.281,150.062,204600,https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666,1
+People You Know,Selena Gomez,72,0.606,0.784,7,-6.293,1,0.268,0.435,0.0,0.689,0.48,80.985,278573,https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666,1
+Round & Round,Selena Gomez & The Scene,84,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,210960,https://i.scdn.co/image/ab67616d0000b27352cf4aae10ce89b592de6960,2
+"I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",benny blanco,86,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,166606,https://i.scdn.co/image/ab67616d0000b2736680b3854ec9cd3db9a94cc2,2
+She,Selena Gomez,57,0.443,0.579,6,-6.517,0,0.187,0.125,0.0,0.284,0.256,83.827,240437,https://i.scdn.co/image/ab67616d0000b273e161b7d9548d5cb40af46639,1
+Love Will Remember,Selena Gomez,82,0.474,0.631,5,-5.884,0,0.343,0.0687,0.0,0.132,0.425,180.051,189323,https://i.scdn.co/image/ab67616d0000b2730e36690135fa1a30d048e604,1
+Wolves,Selena Gomez,86,0.662,0.413,0,-7.357,1,0.0299,0.213,0.0,0.134,0.467,93.005,161385,https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955,2
+Only You,Selena Gomez,79,0.758,0.712,7,-3.781,1,0.112,0.0185,0.0,0.0677,0.795,149.998,193387,https://i.scdn.co/image/ab67616d0000b273890f59e64d3eb72310ae9977,2
+Hands To Myself,Selena Gomez,73,0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,207030,https://i.scdn.co/image/ab67616d0000b2736bc7473df6c9d1fd90972e84,0
+Fetish (feat. Gucci Mane),Selena Gomez,78,0.67,0.668,3,-4.306,0,0.0422,0.536,0.0,0.133,0.608,88.033,179053,https://i.scdn.co/image/ab67616d0000b2736a958ff9ae0c40b9771c19c4,2
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,80,0.749,0.535,4,-6.785,1,0.0336,0.0131,3.65e-05,0.0982,0.601,123.042,196607,https://i.scdn.co/image/ab67616d0000b273e105c410a7b390c61a58cbf8,2
+@ my worst,blackbear,78,0.782,0.685,4,-6.237,1,0.0309,0.166,1.18e-05,0.16,0.603,118.016,180566,https://i.scdn.co/image/ab67616d0000b27360abdbdec59611ee3c18fb95,2
+Stupid Feelings,220 KID,59,0.636,0.335,11,-13.327,1,0.966,0.993,0.0,0.342,0.561,161.68,35240,https://i.scdn.co/image/ab67616d0000b27346a21b1bbc9ca95aa566d759,1
+Better Days,Dermot Kennedy,67,0.809,0.737,1,-5.186,1,0.108,0.0441,0.0,0.341,0.367,80.025,226938,https://i.scdn.co/image/ab67616d0000b27359a3d5c459ba5c91486f6157,2
+papercuts,Machine Gun Kelly,67,0.809,0.737,1,-5.186,1,0.108,0.0441,0.0,0.341,0.367,80.025,226938,https://i.scdn.co/image/ab67616d0000b273a6afaa2b177a38c68451b0be,2
+Walking Away,Chelsea Cutler,76,0.876,0.786,10,-4.884,0,0.306,0.0627,0.0,0.127,0.575,153.068,244679,https://i.scdn.co/image/ab67616d0000b2737c2e92fb2302f8e8fcd9b389,1
+Love Runs Out (feat. G-Eazy & Sasha Alex Sloan),Martin Garrix,80,0.75,0.789,0,-5.058,1,0.0647,0.0148,0.0,0.501,0.467,135.954,269573,https://i.scdn.co/image/ab67616d0000b27356c47605c954e4733893416d,1
+INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,32,0.713,0.597,7,-6.746,1,0.0322,0.61,0.0,0.0992,0.62,120.069,554000,https://i.scdn.co/image/ab67616d0000b273ba26678947112dff3c3158bf,2
+SHUM,Go_A,50,0.507,0.387,0,-7.391,1,0.0272,0.844,0.0,0.0868,0.292,139.876,541675,https://i.scdn.co/image/ab67616d0000b2730cef476af39956e71ff4ae2c,0
+Pure Water (with Migos),Mustard,55,0.531,0.811,2,-5.474,1,0.0418,0.44,0.0,0.195,0.451,149.897,553430,https://i.scdn.co/image/ab67616d0000b27393b1e96fad758869d0974162,2
+Legendary (feat. Gunna),Tyga,53,0.28,0.745,2,-4.523,1,0.0929,0.326,0.0,0.0933,0.186,80.687,223399,https://i.scdn.co/image/ab67616d0000b273d38a9c6e4fcfeb128f111f6b,0
+"Gang Up (with Young Thug, 2 Chainz & Wiz Khalifa feat. PnB Rock)",Young Thug,60,0.762,0.718,1,-5.039,1,0.12,0.105,1.93e-06,0.118,0.718,98.019,207781,https://i.scdn.co/image/ab67616d0000b273c2cb76ace3066d4c069b1102,2
+I Know You so Well,Sarah Meow,78,0.637,0.678,0,-3.798,1,0.266,0.209,0.0,0.156,0.254,84.039,250760,https://i.scdn.co/image/ab67616d0000b2739003c50016525b4bc013e8e8,1
+Rumors (feat. Cardi B),Lizzo,78,0.502,0.786,9,-4.378,0,0.317,0.255,0.0,0.65,0.739,169.021,243491,https://i.scdn.co/image/ab67616d0000b273324290e5b99a797b99e247bb,1
+Take My Breath,The Weeknd,84,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,183624,https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d,0
+Beggin',Måneskin,81,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,222091,https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045,2
+Happier Than Ever,Billie Eilish,85,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,247160,https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e,2
+2055,Sleepy Hallow,72,0.674,0.915,6,-3.999,0,0.0411,0.0282,0.00337,0.273,0.78,126.038,191293,https://i.scdn.co/image/ab67616d0000b27378376f650afd63698b82e4b1,2
+Don't Go Yet,Camila Cabello,80,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,172762,https://i.scdn.co/image/ab67616d0000b273d24bb6aa36842e45bdd3d1cc,2
+Pepas,Farruko,53,0.28,0.745,2,-4.523,1,0.0929,0.326,0.0,0.0933,0.186,80.687,223399,https://i.scdn.co/image/ab67616d0000b2734239a6aa89738d8f798168ad,0
+traitor,Olivia Rodrigo,55,0.531,0.811,2,-5.474,1,0.0418,0.44,0.0,0.195,0.451,149.897,553430,https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a,2
+I WANNA BE YOUR SLAVE,Måneskin,72,0.686,0.73,6,-5.077,0,0.374,0.278,4.76e-05,0.106,0.474,128.943,191600,https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21,1
+Skate,Bruno Mars,72,0.701,0.554,1,-5.909,1,0.187,0.217,1.45e-06,0.419,0.0634,97.129,235187,https://i.scdn.co/image/ab67616d0000b273713edf92606d0ed09b2f1905,1
+Woman,Doja Cat,86,0.808,0.745,10,-5.26,0,0.342,0.145,0.0,0.292,0.829,165.995,210800,https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a,1
+Volví,Aventura,92,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,191014,https://i.scdn.co/image/ab67616d0000b27312bcec4f18ee130369ce170c,2
+Love Tonight - Edit,Shouse,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b27381376e47003d45f6513b5657,1
+Motley Crew,Post Malone,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b2733520e90ee2daf6000ab507cb,1
+Permission to Dance,BTS,73,0.365,0.443,7,-10.11,1,0.0235,0.0472,1.44e-06,0.344,0.149,93.953,271533,https://i.scdn.co/image/ab67616d0000b273a7e481899b7e0396f93d10b8,0
+Todo De Ti,Rauw Alejandro,79,0.766,0.706,7,-6.553,0,0.16,0.223,0.00028,0.064,0.766,142.989,172598,https://i.scdn.co/image/ab67616d0000b273d9525f27b0a9e25b1fa21230,2
+Chosen (feat. Ty Dolla $ign),Blxst,0,0.461,0.803,9,-3.518,1,0.0564,0.114,7.47e-05,0.225,0.237,136.18,188000,https://i.scdn.co/image/ab67616d0000b2734dd2991fe759c7205f31eabb,2
+Just for me,PinkPantheress,73,0.664,0.642,6,-5.961,1,0.038,0.129,0.0,0.114,0.501,118.002,209693,https://i.scdn.co/image/ab67616d0000b27312c2eefb1d28509c632d915d,2
+HALF HEARTED,We Three,67,0.698,0.769,8,-7.154,1,0.0368,0.0128,0.00166,0.238,0.354,121.02,339023,https://i.scdn.co/image/ab67616d0000b273be0b963f64525f4efbd9e704,2
+Fall,Eminem,79,0.708,0.843,7,-2.66,1,0.314,0.397,0.0,0.799,0.625,148.14,363521,https://i.scdn.co/image/ab67616d0000b273f3508855e1fd44d447a3413b,1
+Darkness,Eminem,70,0.939,0.551,1,-9.126,1,0.291,0.0311,0.0,0.192,0.42,118.552,337941,https://i.scdn.co/image/ab67616d0000b273a50c0640db29b4e4d3a5927a,1
+Lucky You (feat. Joyner Lucas),Eminem,77,0.781,0.853,1,-3.68,0,0.0715,0.0525,0.0,0.12,0.624,110.049,250189,https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73,2
+Paul - Skit,Paul Rosenberg,61,0.329,0.45,2,-6.312,0,0.0405,0.594,0.0,0.13,0.284,80.095,262987,https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73,0
+Greatest,Eminem,81,0.504,0.788,3,-4.113,0,0.215,0.0134,0.0,0.363,0.228,170.039,186022,https://i.scdn.co/image/ab67616d0000b27309c9bf421422262c368009d6,1
+Venom - Music From The Motion Picture,Eminem,84,0.789,0.536,6,-6.862,1,0.242,0.41,0.0,0.129,0.437,81.039,165926,https://i.scdn.co/image/ab67616d0000b2731b95097dd6e47dfb02b315c8,1
+Hanuman Chalisa,Shankar Mahadevan,79,0.669,0.629,1,-6.032,0,0.0657,0.0485,0.0,0.346,0.683,125.935,139729,https://i.scdn.co/image/ab67616d0000b2736d9a2050e82ce05424dca5aa,2
+Shree Hanuman Chalisa,Hariharan,79,0.669,0.629,1,-6.032,0,0.0657,0.0485,0.0,0.346,0.683,125.935,139729,https://i.scdn.co/image/ab67616d0000b2736d9a2050e82ce05424dca5aa,2
+Shekhar Ravjiani's Hanuman Chalisa,Shekhar Ravjiani,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b2737c5998c431928761be05496c,2
+Shiv Tandav Stotram,Shankar Mahadevan,0,0.523,0.607,1,-4.754,0,0.03,0.512,0.0,0.106,0.0651,145.837,217867,https://i.scdn.co/image/ab67616d0000b27363521cf4f0ca24a244f26e8b,0
+Ae Watan (Male),Arijit Singh,55,0.531,0.811,2,-5.474,1,0.0418,0.44,0.0,0.195,0.451,149.897,553430,https://i.scdn.co/image/ab67616d0000b2734dc01050da65c24dba61d808,2
+Challa,Romy,79,0.669,0.629,1,-6.032,0,0.0657,0.0485,0.0,0.346,0.683,125.935,139729,https://i.scdn.co/image/ab67616d0000b2731efbf8b77e571388b3520f72,2
+"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,91,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,0.71,178.781,137704,https://i.scdn.co/image/ab67616d0000b2734f93d444eec1ee40f3884fa6,1
+Gnat,Eminem,96,0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,212000,https://i.scdn.co/image/ab67616d0000b273622ff7c32a1a506bf42aedd3,2
+Rap God,Eminem,81,0.802,0.591,8,-4.895,1,0.225,0.0104,0.0,0.196,0.309,139.864,157712,https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533,1
+Godzilla (feat. Juice WRLD),Eminem,79,0.513,0.661,5,-6.419,1,0.24,0.161,0.0,0.246,0.179,94.791,209213,https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c,1
+River (feat. Ed Sheeran),Eminem,85,0.746,0.69,11,-7.956,1,0.164,0.247,0.0,0.101,0.497,89.977,181733,https://i.scdn.co/image/ab67616d0000b273dee6b58d35215322626b5701,2
+The Ringer,Eminem,78,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,https://i.scdn.co/image/ab67616d0000b273e4073def0c03a91e3fceaf73,2
+Mockingbird,Eminem,82,0.646,0.741,5,-4.973,0,0.034,0.0275,0.0,0.312,0.571,123.077,203000,https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023,2
+Killshot,Eminem,87,0.721,0.738,7,-4.77,1,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,154983,https://i.scdn.co/image/ab67616d0000b27368b647e4976494925778007f,2
+The Monster,Eminem,77,0.707,0.629,0,-4.581,0,0.0563,0.259,1.6e-05,0.138,0.457,122.863,212459,https://i.scdn.co/image/ab67616d0000b273b3bd9398bd8cd68f74d9b985,2
+Soldier,NEFFEX,76,0.58,0.586,1,-6.883,1,0.0357,0.344,0.0,0.0755,0.507,147.988,199549,https://i.scdn.co/image/ab67616d0000b27335916c71f8e65d0497927111,2
+Ghost Of You,5 Seconds of Summer,48,0.489,0.739,8,-5.049,1,0.0397,0.0573,9.76e-06,0.105,0.472,125.003,257400,https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557,2
+One More Dance (with Alida),R3HAB,55,0.651,0.939,11,-3.606,1,0.0774,0.00604,0.0,0.139,0.733,133.05,214453,https://i.scdn.co/image/ab67616d0000b2733bcb5f3652c87b48fe72fdf4,2
+Feelin' U,Kelli-Leigh,69,0.773,0.699,1,-5.982,0,0.0958,0.488,3.6e-06,0.0814,0.513,104.941,180120,https://i.scdn.co/image/ab67616d0000b273d69b00442bb699cd0099f515,2
+Chun-Li,Nicki Minaj,92,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,242013,https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4,0
+Bummerland,AJR,0,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,190800,https://i.scdn.co/image/ab67616d0000b2730f0e7900a102aaa70ed30d3e,2
+All Time Low,Jon Bellion,81,0.468,0.627,6,-5.085,1,0.0476,0.0281,7.97e-06,0.11,0.159,179.642,212107,https://i.scdn.co/image/ab67616d0000b2738519af1fdbf5ea0e702a8bd2,2
+Keep You Safe,SHRK,68,0.695,0.743,6,-3.85,1,0.0329,0.0786,0.0,0.0587,0.634,123.007,201254,https://i.scdn.co/image/ab67616d0000b27315b442486098c96ddbd09e7f,2
+Roses,SAINt JHN,78,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,195853,https://i.scdn.co/image/ab67616d0000b273b340b496cb7c38d727ff40be,2
+Alright (feat. Trippie Redd & Preme),Wiz Khalifa,84,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,187973,https://i.scdn.co/image/ab67616d0000b2737ebe1f550feb0efec0092a8a,1
+Way Out (feat. Big Sean),Jack Harlow,0,0.658,0.634,1,-5.797,0,0.0413,0.0106,0.0,0.132,0.29,139.98,170813,https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63,2
+THINK ABOUT ME,jxdn,0,0.507,0.828,10,-6.023,1,0.0449,0.00711,2.44e-05,0.261,0.489,178.032,211295,https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d,2
+Girls Have Fun (feat. G-Eazy & Rich The Kid),Tyga,56,0.552,0.76,11,-6.861,0,0.0367,0.00713,0.0113,0.313,0.338,104.957,232333,https://i.scdn.co/image/ab67616d0000b2736a03e51cf2d8c29dcac67ebb,2
+What You Know Bout Love,Pop Smoke,81,0.421,0.873,10,-4.343,1,0.0564,0.0654,0.0,0.123,0.629,84.786,202533,https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369,2
+for mah girl,LUUV.,83,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,229526,https://i.scdn.co/image/ab67616d0000b2736278c636e6abba33cedef147,0
+By Your Side (feat. Tom Grennan) - Oliver Heldens Remix,Calvin Harris,88,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,260173,https://i.scdn.co/image/ab67616d0000b273063d58cbeab5e1dc5d84bd03,2
+'Till I Collapse,Eminem,72,0.611,0.39,2,-5.861,0,0.116,0.625,0.0,0.118,0.617,163.897,159512,https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4,0
+"Main Dhoondne Ko Zamaane Mein (From ""Heartless"")",Arijit Singh,54,0.79,0.625,0,-6.691,1,0.068,0.00127,0.000807,0.0786,0.773,128.975,318052,https://i.scdn.co/image/ab67616d0000b273c486f7fc6299f158d632e613,2
+The Imitation Game,Alexandre Desplat,87,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,221176,https://i.scdn.co/image/ab67616d0000b273d0afb968045b025559de900c,2
+Time,Hans Zimmer,96,0.736,0.704,3,-7.409,0,0.0615,0.0203,0.0,0.0501,0.894,149.995,212000,https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61,2
+Light of the Seven,Ramin Djawadi,85,0.778,0.695,4,-6.865,0,0.0913,0.175,0.0,0.15,0.472,149.996,132780,https://i.scdn.co/image/ab67616d0000b273b8f0101e1dbcbb4d78b325a8,2
+Astronaut In The Ocean,Masked Wolf,62,0.273,0.102,0,-16.843,0,0.0494,0.903,0.721,0.268,0.0583,120.378,589095,https://i.scdn.co/image/ab67616d0000b27397fdd7cf1b14d78c6a7fb17f,3
+24 (feat. Lil Baby),Money Man,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b273d9cbe9b9bec4732330a17c7e,2
+OUT WEST (feat. Young Thug),JACKBOYS,0,0.878,0.64,0,-5.641,1,0.0591,0.142,0.0,0.0981,0.658,124.069,200524,https://i.scdn.co/image/ab67616d0000b273dfc2f59568272de50a257f2f,2
+Lie,NF,82,0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042,228360,https://i.scdn.co/image/ab67616d0000b2738bd5d941f9ced8e7f9c60dd4,2
+Dirty Dancer,Enrique Iglesias,86,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,166606,https://i.scdn.co/image/ab67616d0000b273f6fa4a75fccc308f26c726c6,2
+Sometimes,DallasK,79,0.669,0.629,1,-6.032,0,0.0657,0.0485,0.0,0.346,0.683,125.935,139729,https://i.scdn.co/image/ab67616d0000b273d888f2eef159a1ed846c2870,2
+Push & Pull,Georgia Webster,67,0.614,0.605,0,-5.63,1,0.0319,0.21,0.0,0.162,0.333,127.099,217867,https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82,2
+She Gets the Flowers,Beth McCarthy,90,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,215507,https://i.scdn.co/image/ab67616d0000b27325f8405885a31bc4bf685edf,1
+Never Be Lonely,Gigi D'Agostino,61,0.702,0.0474,3,-15.198,0,0.526,0.00516,1.22e-06,0.147,0.175,102.983,52062,https://i.scdn.co/image/ab67616d0000b273a1d3ca82b712927a48774655,1
+Through The Storm,Don Diablo,74,0.446,0.395,0,-9.328,1,0.0365,0.815,0.00216,0.128,0.267,71.944,187453,https://i.scdn.co/image/ab67616d0000b2738cfc9480119727192bde23af,0
+Sweater Weather,The Neighbourhood,52,0.9,0.649,2,-6.365,1,0.197,0.00378,2.06e-06,0.0873,0.658,93.99,173640,https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921,2
+See You Again (feat. Charlie Puth),Wiz Khalifa,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8,1
+Daddy Issues,The Neighbourhood,71,0.741,0.667,10,-5.445,1,0.134,0.0575,0.0,0.106,0.595,112.956,223504,https://i.scdn.co/image/ab67616d0000b2733066581d697fbdee4303d685,2
+XO,EDEN,84,0.785,0.431,10,-8.756,0,0.0364,0.123,0.0,0.0887,0.236,127.085,159382,https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10,2
+Chandelier,Sia,75,0.931,0.387,1,-9.127,1,0.412,0.088,0.0,0.136,0.376,125.978,179405,https://i.scdn.co/image/ab67616d0000b2735d199c9f6e6562aafa5aa357,1
+I Want You To Know,Zedd,87,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040,https://i.scdn.co/image/ab67616d0000b273d040bc5b46915b49a64d7b1d,2
+Tick Tock (feat. 24kGoldn),Clean Bandit,83,0.63,0.804,6,-4.183,1,0.0363,0.215,0.0,0.253,0.492,123.146,220293,https://i.scdn.co/image/ab67616d0000b2733ec9036a9f7289e924194bec,2
+Life's A Mess (feat. Halsey),Juice WRLD,91,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,198082,https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb,1
+Legends,Juice WRLD,91,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,0.464,90.03,198082,https://i.scdn.co/image/ab67616d0000b27365233dedc44bbc41ca434c49,1
+Hollywood's Bleeding,Post Malone,74,0.677,0.688,0,-4.058,0,0.0633,0.138,0.0,0.114,0.198,98.049,240429,https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02,2
+Change My Clothes,Dream,82,0.796,0.572,8,-7.03,0,0.0545,0.416,2.55e-05,0.0975,0.304,98.967,206061,https://i.scdn.co/image/ab67616d0000b27362203a8dd802c65103193dbe,2
+Hurricane,Kanye West,62,0.442,0.412,10,-10.675,1,0.0377,0.781,0.0237,0.15,0.235,176.019,246136,https://i.scdn.co/image/ab67616d0000b2738060365b213bcfb606c521a6,0
+Donda Chant,Kanye West,69,0.475,0.124,2,-9.463,1,0.0444,0.926,0.0,0.0972,0.19,94.42,207310,https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd,0
+Jail,Kanye West,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b2737bb8a221711b74ed25b787b7,0
+Donda,Kanye West,74,0.617,0.684,0,-3.618,1,0.0439,0.0545,0.0,0.104,0.295,132.113,150867,https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd,2
+Close Your Eyes - Spotify Singles,LP Giobbi,64,0.652,0.715,0,-5.919,1,0.0388,0.0291,0.0,0.156,0.617,97.981,191036,https://i.scdn.co/image/ab67616d0000b27390e3aa56d61bb1b022fcda6e,2
+Stay A Little Longer,Anushka Shahaney,64,0.652,0.715,0,-5.919,1,0.0388,0.0291,0.0,0.156,0.617,97.981,191036,https://i.scdn.co/image/ab67616d0000b2735074bd0894cb1340b8d8a678,2
+older,Nightly,71,0.668,0.886,0,-3.474,1,0.117,0.0417,0.0,0.459,0.503,142.002,278640,https://i.scdn.co/image/ab67616d0000b273352b3ced3f510b351e02b058,1
+Jesus Lord pt 2,Kanye West,72,0.563,0.902,1,-4.586,0,0.402,0.0545,0.0,0.0524,0.559,171.999,227907,https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd,1
+Believe What I Say,Kanye West,70,0.457,0.899,10,-2.591,0,0.132,0.0019,0.0,0.831,0.298,147.268,215510,https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd,1
+Butterflies,GASHI,0,0.461,0.803,9,-3.518,1,0.0564,0.114,7.47e-05,0.225,0.237,136.18,188000,https://i.scdn.co/image/ab67616d0000b2737d754c028dfe344882a2f3e8,2
+Roses,GASHI,64,0.652,0.715,0,-5.919,1,0.0388,0.0291,0.0,0.156,0.617,97.981,191036,https://i.scdn.co/image/ab67616d0000b273b340b496cb7c38d727ff40be,2
+Better Days,Arman Cekin,66,0.584,0.607,11,-6.605,1,0.0356,0.426,0.0,0.101,0.374,117.817,194827,https://i.scdn.co/image/ab67616d0000b27359a3d5c459ba5c91486f6157,0
+Reasons,COTIS,65,0.651,0.7,1,-4.264,0,0.0318,0.352,0.0,0.061,0.214,104.964,205714,https://i.scdn.co/image/ab67616d0000b27345961774a8db73a1b5f77d84,2
+NIGHTRIDER,Arizona Zervas,55,0.249,0.732,1,-6.455,1,0.104,0.182,0.0,0.117,0.328,169.896,225882,https://i.scdn.co/image/ab67616d0000b27368f04df4bfa3212b88843710,0
+TLC,Sy Ari Da Kid,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b27361ffafd5e31a37336531cf95,0
+No Promises (feat. Demi Lovato),Cheat Codes,72,0.349,0.446,1,-11.327,1,0.0522,0.827,0.00722,0.0808,0.141,79.338,237794,https://i.scdn.co/image/ab67616d0000b273e74ecdb2f1316c8f026970a8,0
+rockstar (feat. 21 Savage),Post Malone,84,0.45,0.329,9,-12.603,0,0.0441,0.818,0.00109,0.135,0.266,71.884,183624,https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268,0
+Congratulations,Post Malone,79,0.647,0.823,2,-5.231,1,0.0762,0.0598,0.0,0.119,0.396,99.933,230333,https://i.scdn.co/image/ab67616d0000b273a3f1d0826bd2632ab8ec0860,2
+Better Now,Post Malone,89,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,0.436,128.986,186173,https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268,2
+Only Wanna Be With You - Pokémon 25 Version,Post Malone,88,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280,https://i.scdn.co/image/ab67616d0000b273d06b152b24e9357e81c460fe,2
+Hold On,Chord Overstreet,87,0.76,0.479,2,-5.574,1,0.0466,0.556,0.0,0.0703,0.913,89.911,158040,https://i.scdn.co/image/ab67616d0000b273c60473419a4ce96822541181,2
+Tattoo,Jordin Sparks,83,0.68,0.578,10,-5.804,1,0.04,0.331,0.0,0.135,0.341,145.038,231267,https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6,2
+Bad Habits - Acoustic Version,Ed Sheeran,63,0.71,0.415,8,-9.561,1,0.0908,0.902,0.00236,0.149,0.418,92.016,86749,https://i.scdn.co/image/ab67616d0000b273006d456ac41a8dc73a0b67cc,0
+Addict Of Magic,Picture This,51,0.711,0.721,11,-7.243,1,0.161,0.0619,0.0,0.112,0.68,82.5,165859,https://i.scdn.co/image/ab67616d0000b27331bb54a39c7681c8db1a06f0,2
+You should be sad,Halsey,75,0.748,0.749,8,-5.916,0,0.516,0.142,0.0,0.0713,0.659,90.09,221013,https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd,1
+Psycho (feat. Ty Dolla $ign),Post Malone,80,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,172762,https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268,2
+Not Afraid,Eminem,0,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,190800,https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100,2
+exile,Taylor Swift,55,0.579,0.402,2,-9.687,1,0.0392,0.777,0.0,0.316,0.516,152.067,189628,https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc,0
+my ex's best friend (with blackbear),Machine Gun Kelly,67,0.614,0.605,0,-5.63,1,0.0319,0.21,0.0,0.162,0.333,127.099,217867,https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42,2
+exile (feat. Bon Iver) - the long pond studio sessions,Taylor Swift,85,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,226600,https://i.scdn.co/image/ab67616d0000b2734e265291f29fd8686d3dc3b4,0
+Is It Just Me? (feat. Charlie Puth),Sasha Alex Sloan,90,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,208867,https://i.scdn.co/image/ab67616d0000b2733d959a929b52a36362378ae3,2
+Getaway Car,Taylor Swift,78,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,225147,https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b,2
+Feel,FLETCHER,62,0.78,0.684,0,-5.758,1,0.0636,0.17,0.0,0.105,0.732,149.916,173467,https://i.scdn.co/image/ab67616d0000b27389b0f194917aa7ec139a15f3,2
+Dancing With Your Ghost,Sasha Alex Sloan,0,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,194088,https://i.scdn.co/image/ab67616d0000b273141cf717cd3993690358a60c,1
+Tightrope,ZAYN,82,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,192120,https://i.scdn.co/image/ab67616d0000b273f160ff1c91caffd9e24cc736,2
+Liability,Lorde,36,0.613,0.731,8,-3.993,1,0.0625,0.177,0.0,0.107,0.322,107.071,226542,https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336,2
+willow,Taylor Swift,80,0.827,0.731,4,-5.524,0,0.088,0.13,0.0,0.418,0.607,118.992,172833,https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be,2
+Walked Through Hell,Anson Seabra,81,0.689,0.694,6,-5.83,0,0.027,0.257,0.0,0.148,0.482,99.039,213307,https://i.scdn.co/image/ab67616d0000b2735afa16bad57ffdf82f4b8a2e,2
+could cry just thinkin about you - Full Version,Troye Sivan,0,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,190800,https://i.scdn.co/image/ab67616d0000b273fe27857e49e994ad7f4b8b8e,2
+Toxic,AP Dhillon,61,0.703,0.628,0,-5.914,1,0.203,0.364,0.0,0.384,0.471,138.032,205217,https://i.scdn.co/image/ab67616d0000b273ee07023115f822012390d2a0,1
+Insane,AP Dhillon,54,0.649,0.758,10,-5.647,0,0.0581,0.0364,4.12e-05,0.36,0.737,120.001,167811,https://i.scdn.co/image/ab67616d0000b273f26219080879cd317b98ece8,2
+Nit Nit,Jasleen Royal,87,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,221176,https://i.scdn.co/image/ab67616d0000b273056a62b48a090d88c1d762fd,2
+Saint-Tropez,Post Malone,58,0.692,0.461,9,-8.847,1,0.0984,0.0437,0.0,0.0876,0.771,180.036,195213,https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02,2
+Can't Be Touched (feat. Mr. Magic & Trouble),Roy Jones Jr.,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b273582f703c73240fe327aa05d6,0
+Superman,Eminem,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4,0
+RAP DEVIL,Machine Gun Kelly,80,0.805,0.33,1,-8.712,0,0.1,0.22,0.0,0.105,0.211,121.97,242983,https://i.scdn.co/image/ab67616d0000b273ed882d7c9151009310f0613a,0
+Warm Up,NF,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b273df20e92b01eaa7559e1f38a7,2
+Numb / Encore,JAY-Z,57,0.443,0.579,6,-6.517,0,0.187,0.125,0.0,0.284,0.256,83.827,240437,https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516,1
+Remember the Name (feat. Styles of Beyond),Fort Minor,0,0.69,0.809,2,-4.198,1,0.0603,0.524,0.0,0.147,0.864,123.912,190800,https://i.scdn.co/image/ab67616d0000b273100fb4649eae80922bf1acbf,2
+Remember The Name (feat. Eminem & 50 Cent),Ed Sheeran,81,0.746,0.754,1,-6.684,1,0.0676,0.0152,0.0,0.0486,0.746,149.882,206880,https://i.scdn.co/image/ab67616d0000b27373304ce0653c7758dd94b259,2
+Space Bound,Eminem,81,0.654,0.63,10,-4.644,1,0.0259,0.153,0.0,0.111,0.43,89.991,167693,https://i.scdn.co/image/ab67616d0000b273c08d5fa5c0f1a834acef5100,2
+We Own It (Fast & Furious),2 Chainz,76,0.798,0.676,6,-5.041,1,0.0442,0.0902,0.0,0.0894,0.843,101.956,219947,https://i.scdn.co/image/ab67616d0000b2733f04ce56f3786307572fc944,2
+Purple Lamborghini (with Rick Ross),Skrillex,81,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,201661,https://i.scdn.co/image/ab67616d0000b273602b6507f5289db71603c2f4,2
+Broken,Lund,78,0.622,0.712,5,-7.321,1,0.066,0.0573,0.0,0.13,0.487,140.025,211360,https://i.scdn.co/image/ab67616d0000b27343a17898d5a7a94e2277c4a0,2
+Waiting,Vicetone,75,0.791,0.565,5,-3.933,0,0.0439,0.0623,0.0,0.156,0.181,99.961,156347,https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468,2
+Hurts Sometimes (with Jonathan Mendelsohn),SLANDER,83,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,184732,https://i.scdn.co/image/ab67616d0000b2734307a6e5f992a031b7fb00bf,2
+Didn't I,OneRepublic,77,0.585,0.696,4,-5.6,0,0.0307,0.204,0.0,0.344,0.522,104.01,217640,https://i.scdn.co/image/ab67616d0000b2733d0128eee321aae2467aec37,2
+Youngblood,5 Seconds of Summer,72,0.611,0.462,0,-7.054,1,0.0646,0.558,1.01e-06,0.131,0.377,59.635,215230,https://i.scdn.co/image/ab67616d0000b27341aa6776dc15fbd71a2b4557,0
+don't say you love me,joan,74,0.759,0.605,7,-7.737,1,0.0433,0.156,0.0,0.694,0.64,121.049,158900,https://i.scdn.co/image/ab67616d0000b273b0028789aef74d8a0a0e21a7,1
+Just For Me (with SZA) - Space Jam: A New Legacy,SAINt JHN,87,0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-06,0.297,0.437,134.021,119133,https://i.scdn.co/image/ab67616d0000b273d0126e53352bb15e3e232643,1
+"Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix",Ty Dolla $ign,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b2731c04efd2804b16cf689de7f0,0
+Violent,carolesdaughter,77,0.745,0.5,8,-6.184,1,0.135,0.439,0.0,0.0943,0.433,76.968,168685,https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2,2
+don't fall,44phantom,64,0.74,0.592,1,-5.003,0,0.0879,0.0173,0.0,0.276,0.379,140.093,181714,https://i.scdn.co/image/ab67616d0000b273c2c6258f39708c584c511895,2
+the way that you see me (feat. Ayleen Valentine),Powfu,64,0.757,0.673,1,-8.513,1,0.141,0.095,0.0,0.338,0.574,92.958,185806,https://i.scdn.co/image/ab67616d0000b273bc506cb190ca405fa7d66adb,1
+say goodbye,Sarcastic Sounds,67,0.698,0.769,8,-7.154,1,0.0368,0.0128,0.00166,0.238,0.354,121.02,339023,https://i.scdn.co/image/ab67616d0000b27308d67d4c249bcf953b7b4060,2
+Can't Trust A Soul,7ru7h,72,0.835,0.869,10,-4.582,0,0.27,0.248,0.0,0.462,0.82,140.945,224656,https://i.scdn.co/image/ab67616d0000b273f02d157c654460b50c1f1b69,1
+Me and You,Cold Hart,97,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,0.478,169.928,141806,https://i.scdn.co/image/ab67616d0000b273b38dd929c23e733d0d56d016,2
+Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Shakira,84,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,0.679,123.95,183290,https://i.scdn.co/image/ab67616d0000b273d6da56e427f7f87f0e544c6f,2
+Secrets,LUM!X,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452,2
+Girls Want Girls (with Lil Baby),Drake,75,0.587,0.583,5,-5.284,0,0.0313,0.248,0.0,0.124,0.15,139.92,219493,https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f,0
+Apricots,MAY-A,65,0.269,0.58,0,-5.958,1,0.0352,0.474,0.0,0.116,0.281,155.625,283520,https://i.scdn.co/image/ab67616d0000b2737002b491db4917f96f10283a,0
+the long way home (feat. Sara Kays & Sarcastic Sounds),Powfu,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b273709983bba4a1938bea2f2d0d,2
+Thot Shit,Megan Thee Stallion,73,0.53,0.37,6,-9.989,1,0.0279,0.806,0.0,0.112,0.701,140.061,206734,https://i.scdn.co/image/ab67616d0000b27345fd9c645c76bd5b11bd7f3e,0
+Old Friends,Scott Helman,79,0.8,0.56,5,-4.818,0,0.261,0.057,0.0,0.134,0.45,163.071,200221,https://i.scdn.co/image/ab67616d0000b273733913465adb99353020b805,1
+What If I Told You That I Love You,Ali Gatie,58,0.808,0.676,4,-4.902,1,0.223,0.0618,2.68e-06,0.11,0.0763,144.018,144973,https://i.scdn.co/image/ab67616d0000b2732a0e84f7f86349253277349b,1
+Hide and Seek,Lizz Robinett,0,0.832,0.549,1,-8.259,0,0.0602,0.168,0.0,0.11,0.384,140.045,181496,https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57,2
+Rockstar,Josh Golden,70,0.731,0.725,2,-5.21,1,0.249,0.00432,0.0,0.0556,0.351,149.963,179200,https://i.scdn.co/image/ab67616d0000b27397265410628ab7f94a380c9d,1
+"10,000 Hours (with Justin Bieber)",Dan + Shay,76,0.63,0.446,1,-8.9,1,0.0351,0.337,0.0,0.166,0.177,143.078,202193,https://i.scdn.co/image/ab67616d0000b27386953b1cbaa29e477db0b479,0
+I Don't Care (with Justin Bieber),Ed Sheeran,80,0.805,0.33,1,-8.712,0,0.1,0.22,0.0,0.105,0.211,121.97,242983,https://i.scdn.co/image/ab67616d0000b27373304ce0653c7758dd94b259,0
+Lose You To Love Me,Selena Gomez,0,0.392,0.579,7,-9.195,1,0.164,0.835,0.00179,0.145,0.549,80.961,214707,https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666,0
+Here With Me,Marshmello,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7,0
+The Middle,Zedd,87,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,297787,https://i.scdn.co/image/ab67616d0000b273fbe22d168a743b782a5e856a,1
+Girls Like You,Maroon 5,83,0.732,0.396,4,-9.348,0,0.0286,0.0841,3.58e-05,0.105,0.548,90.024,195920,https://i.scdn.co/image/ab67616d0000b273deae7d931928fc1543e70203,2
+Unbelievable,Why Don't We,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b273e70279cb2c329286f7e95af1,0
+Easier,5 Seconds of Summer,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b273726005f0f81903e157d9dbc7,0
+Blank Space,Taylor Swift,73,0.53,0.37,6,-9.989,1,0.0279,0.806,0.0,0.112,0.701,140.061,206734,https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a,0
+Post Malone (feat. RANI),Sam Feldt,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b27354de16ac6dc5346bfc1187f5,2
+Million Ways,HRVY,0,0.392,0.579,7,-9.195,1,0.164,0.835,0.00179,0.145,0.549,80.961,214707,https://i.scdn.co/image/ab67616d0000b273f460dcdffa04e30a8a3d68eb,0
+Fallin' All In You,Shawn Mendes,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b273269423eb6467e308c0fbce24,2
+Lie To Me (feat. Julia Michaels),5 Seconds of Summer,76,0.63,0.446,1,-8.9,1,0.0351,0.337,0.0,0.166,0.177,143.078,202193,https://i.scdn.co/image/ab67616d0000b2734be7119afe5f4282eb8d24c7,0
+"fuck, i'm lonely (with Anne-Marie)",Lauv,57,0.443,0.579,6,-6.517,0,0.187,0.125,0.0,0.284,0.256,83.827,240437,https://i.scdn.co/image/ab67616d0000b27325a1320532b730a8d42a9915,1
+Jocelyn Flores,XXXTENTACION,61,0.703,0.628,0,-5.914,1,0.203,0.364,0.0,0.384,0.471,138.032,205217,https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5,1
+XO Tour Llif3,Lil Uzi Vert,86,0.662,0.413,0,-7.357,1,0.0299,0.213,0.0,0.134,0.467,93.005,161385,https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352,2
+4 Da Gang (with Roddy Ricch),42 Dugg,76,0.728,0.431,6,-9.966,0,0.0622,0.749,0.0,0.0996,0.629,130.022,147800,https://i.scdn.co/image/ab67616d0000b2735cc589330e3596c853863484,0
+Walk Down,FNF Chop,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b27309cba0071787b8ef13780163,1
+They Ain't You,Tyla Yaweh,51,0.817,0.608,2,-8.45,1,0.273,0.0739,0.0,0.0977,0.611,119.986,157369,https://i.scdn.co/image/ab67616d0000b2736a59c3251231317dfdb9cd9c,1
+No I in Team,Arizona Zervas,81,0.889,0.496,4,-6.365,0,0.0905,0.259,0.0,0.252,0.544,86.003,180522,https://i.scdn.co/image/ab67616d0000b273ccf06a997c6c04296dc0c452,2
+Tip Toe (feat. A Boogie Wit da Hoodie),Roddy Ricch,78,0.926,0.454,6,-9.932,1,0.0732,0.036,0.000422,0.0896,0.34,119.969,224002,https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f,2
+Tyler Herro,Jack Harlow,83,0.298,0.38,6,-8.426,1,0.0287,0.778,5.62e-05,0.11,0.152,75.602,285634,https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63,0
+The Scientist,Tyler Ward,62,0.393,0.609,4,-5.954,1,0.0415,0.0558,2.22e-06,0.107,0.347,71.377,264963,https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82,0
+The Scientist,Corinne Bailey Rae,50,0.621,0.624,10,-6.745,0,0.0374,0.226,0.0,0.11,0.231,128.045,225000,https://i.scdn.co/image/ab67616d0000b273de09e02aa7febf30b7c02d82,2
+Iris,Kina Grannis,87,0.592,0.457,9,-6.081,0,0.0603,0.661,0.000331,0.146,0.225,146.04,110886,https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca,0
+Ugly,Sugababes,73,0.53,0.37,6,-9.989,1,0.0279,0.806,0.0,0.112,0.701,140.061,206734,https://i.scdn.co/image/ab67616d0000b273526e961fa7e7a891d23b31ea,0
+Try,P!nk,80,0.75,0.56,8,-8.094,1,0.105,0.546,0.0,0.111,0.459,140.06,221440,https://i.scdn.co/image/ab67616d0000b273bb25239324c4e16ae01fda36,2
+Apologize,Timbaland,74,0.893,0.651,0,-8.647,0,0.367,0.0995,0.0,0.371,0.6,105.835,253580,https://i.scdn.co/image/ab67616d0000b273755a9f1e89ad8e8cf91d4956,1
+She Doesn't Mind,Sean Paul,80,0.805,0.33,1,-8.712,0,0.1,0.22,0.0,0.105,0.211,121.97,242983,https://i.scdn.co/image/ab67616d0000b273c1d44fad7488d51d8e86de16,0
+Got 2 Luv U (feat. Alexis Jordan),Sean Paul,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b273c1d44fad7488d51d8e86de16,0
+White Flag,Dido,81,0.504,0.788,3,-4.113,0,0.215,0.0134,0.0,0.363,0.228,170.039,186022,https://i.scdn.co/image/ab67616d0000b273d41b79f27ef8d8df5a191219,1
+Underwater,MIKA,73,0.53,0.37,6,-9.989,1,0.0279,0.806,0.0,0.112,0.701,140.061,206734,https://i.scdn.co/image/ab67616d0000b2739801052cc11d95176a551e1b,0
+Everytime,Britney Spears,80,0.805,0.33,1,-8.712,0,0.1,0.22,0.0,0.105,0.211,121.97,242983,https://i.scdn.co/image/ab67616d0000b273e0c8b75abb6704283aa645aa,0
+Because of You,Kelly Clarkson,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b273ec4f8c81eb9ddee00e01798d,2
+"Relax, Take It Easy",MIKA,72,0.635,0.554,2,-3.975,0,0.0343,0.134,0.0,0.116,0.315,156.822,196147,https://i.scdn.co/image/ab67616d0000b2733408a925e0bcb7940f864a0e,2
+All Good Things (Come To An End) - Spanish Version,Nelly Furtado,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b273bc3bf94adf874815867bcbb6,0
+Bleeding Love - Radio Edit,Leona Lewis,80,0.749,0.535,4,-6.785,1,0.0336,0.0131,3.65e-05,0.0982,0.601,123.042,196607,https://i.scdn.co/image/ab67616d0000b2732bcf7efcbaeb49517aa2b03d,2
+Umbrella - Radio Edit,Rihanna,68,0.682,0.363,2,-10.837,1,0.0261,0.699,3e-05,0.363,0.203,94.978,154275,https://i.scdn.co/image/ab67616d0000b27314bd90935ed5a2ac6c662373,0
+Say It Right,Nelly Furtado,51,0.549,0.546,0,-6.61,0,0.0728,0.334,0.000536,0.0694,0.475,176.024,194640,https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2,2
+Torn,Natalie Imbruglia,81,0.686,0.538,2,-8.026,1,0.0345,0.181,3.13e-06,0.113,0.584,115.884,190779,https://i.scdn.co/image/ab67616d0000b273741a2c204ca18f2b2116d278,2
+POPSTAR (feat. Drake),DJ Khaled,48,0.338,0.777,2,-8.936,0,0.0946,0.0324,0.00374,0.193,0.514,77.567,191338,https://i.scdn.co/image/ab67616d0000b273efaecb4b9cbae7c120d14617,2
+GREECE (feat. Drake),DJ Khaled,39,0.698,0.599,0,-8.609,0,0.0262,0.474,0.269,0.28,0.656,90.762,359413,https://i.scdn.co/image/ab67616d0000b2737db0d21fc5696a3fcedfb933,2
+LET IT GO (feat. Justin Bieber & 21 Savage),DJ Khaled,61,0.68,0.64,1,-6.691,0,0.0336,0.29,0.00593,0.124,0.738,105.981,322267,https://i.scdn.co/image/ab67616d0000b273dcd4d70294f17175991ba1bb,2
+Lightskin Lil Wayne,Tyga,62,0.393,0.609,4,-5.954,1,0.0415,0.0558,2.22e-06,0.107,0.347,71.377,264963,https://i.scdn.co/image/ab67616d0000b273d38a9c6e4fcfeb128f111f6b,0
+Life Is Good (feat. Drake),Future,71,0.562,0.519,3,-8.744,1,0.0326,0.557,0.000268,0.172,0.415,122.925,341055,https://i.scdn.co/image/ab67616d0000b2738a01c7b77a34378a62f46402,0
+"Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",Jack Harlow,50,0.718,0.83,4,-5.488,0,0.0505,0.404,2.5e-05,0.124,0.771,105.012,220382,https://i.scdn.co/image/ab67616d0000b273aeb14ead136118a987246b63,2
+Roses - Imanbek Remix [Latino Gang],SAINt JHN,56,0.534,0.863,0,-4.616,1,0.0357,0.0152,0.0167,0.144,0.374,98.006,313163,https://i.scdn.co/image/ab67616d0000b2733874d55a76116a32be46d7c3,2
+I Won,Ty Dolla $ign,58,0.628,0.551,0,-6.841,0,0.0612,0.394,0.0,0.178,0.385,136.899,315213,https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a,0
+"His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",Internet Money,58,0.628,0.551,0,-6.841,0,0.0612,0.394,0.0,0.178,0.385,136.899,315213,https://i.scdn.co/image/ab67616d0000b273fa3f1f67c0504174097db970,0
+Move Ya Hips (feat. Nicki Minaj & MadeinTYO),A$AP Ferg,32,0.713,0.597,7,-6.746,1,0.0322,0.61,0.0,0.0992,0.62,120.069,554000,https://i.scdn.co/image/ab67616d0000b2739c7f5612dc2f284ef5c31764,2
+Thrusting (feat. Swae Lee & Future),Internet Money,53,0.626,0.79,3,-6.502,1,0.0397,0.0196,8.86e-05,0.106,0.539,127.039,297643,https://i.scdn.co/image/ab67616d0000b273a64752f7639c1220d56ea129,2
+Lemonade - Remix,Internet Money,48,0.386,0.824,11,-5.225,0,0.0317,0.000305,6.5e-06,0.269,0.362,163.989,239085,https://i.scdn.co/image/ab67616d0000b27394c0a1fd729e61f0f8216b51,2
+Goddamn (feat. A Boogie wit da Hoodie),Tyga,60,0.545,0.472,11,-8.259,0,0.0311,0.294,0.0,0.0871,0.195,129.988,292827,https://i.scdn.co/image/ab67616d0000b273d38a9c6e4fcfeb128f111f6b,0
+Moana,G-Eazy,63,0.512,0.695,4,-6.349,1,0.0271,0.0265,0.00815,0.146,0.351,145.957,233630,https://i.scdn.co/image/ab67616d0000b273b7e3147e73388bc3f3a44412,2
+Turks (with Gunna & ft. Travis Scott),NAV,61,0.655,0.473,8,-9.806,1,0.0267,0.842,0.0323,0.167,0.572,92.962,211290,https://i.scdn.co/image/ab67616d0000b27336f15d38804d5bdd29b9fc7a,0
+All the Smoke (feat. Gunna & Wiz Khalifa),Tyla Yaweh,45,0.535,0.701,1,-5.905,0,0.0297,0.00649,6.37e-06,0.403,0.334,138.05,263509,https://i.scdn.co/image/ab67616d0000b273a9978d85a1eaab72e5178867,2
+Baby (Lil Baby feat. DaBaby),Quality Control,52,0.731,0.909,4,-3.106,0,0.235,0.146,0.0,0.0408,0.663,133.01,199398,https://i.scdn.co/image/ab67616d0000b273f5c547a4335523f10a802f94,2
+Plain Jane REMIX (feat. Nicki Minaj),A$AP Ferg,62,0.468,0.737,8,-7.274,1,0.0765,0.726,0.00272,0.0655,0.572,79.448,365707,https://i.scdn.co/image/ab67616d0000b27378f6399d94fc2b026d376b66,0
+Tommy Lee (feat. SAINt JHN & Post Malone) - Remix,Tyla Yaweh,62,0.393,0.609,4,-5.954,1,0.0415,0.0558,2.22e-06,0.107,0.347,71.377,264963,https://i.scdn.co/image/ab67616d0000b273eca2e67b444d35b3ba00ca53,0
+"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",DJ Khaled,25,0.501,0.436,1,-8.666,1,0.0617,0.326,0.0,0.26,0.336,81.014,225926,https://i.scdn.co/image/ab67616d0000b273fa2741071b31bb94cb4232ae,0
+Ric Flair Drip (& Metro Boomin),Offset,55,0.531,0.811,2,-5.474,1,0.0418,0.44,0.0,0.195,0.451,149.897,553430,https://i.scdn.co/image/ab67616d0000b2730db43130a9aaa7bae56967ed,2
+Racks 2 Skinny,Migos,58,0.581,0.399,11,-9.322,0,0.0325,0.916,0.0,0.169,0.183,98.025,124997,https://i.scdn.co/image/ab67616d0000b2739325c863d9139cc2d507421b,0
+Still Wiz,Wiz Khalifa,53,0.833,0.193,2,-10.131,1,0.272,0.709,2.15e-05,0.0657,0.682,129.929,184670,https://i.scdn.co/image/ab67616d0000b273fb3dcedb1da63eb4be8c7433,1
+High Right Now (feat. Wiz Khalifa) - Remix,Tyla Yaweh,67,0.676,0.319,5,-9.201,1,0.0279,0.783,0.0,0.117,0.565,105.002,228969,https://i.scdn.co/image/ab67616d0000b2732dea10a6e67a8c1ab8b8566e,0
+"I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",DJ Khaled,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b273dcd4d70294f17175991ba1bb,2
+"Jealous (feat. Chris Brown, Lil Wayne & Big Sean)",DJ Khaled,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b273fa2741071b31bb94cb4232ae,0
+Used To Be - Rasster Remix,GASHI,80,0.805,0.33,1,-8.712,0,0.1,0.22,0.0,0.105,0.211,121.97,242983,https://i.scdn.co/image/ab67616d0000b273246f3e9ddfc2bfa5bae02721,0
+I WANNA SEE SOME ASS (feat. jetsonmade),Jack Harlow,73,0.53,0.37,6,-9.989,1,0.0279,0.806,0.0,0.112,0.701,140.061,206734,https://i.scdn.co/image/ab67616d0000b27305a448540b069450ccfba889,0
+Tryna F**k Me (feat. Post Malone),Lloyd Banks,77,0.405,0.646,4,-3.206,0,0.0476,0.331,0.0,0.103,0.17,130.218,156267,https://i.scdn.co/image/ab67616d0000b2731215fd2b58b20d15ff4265ea,0
+Way down We Go,KALEO,45,0.422,0.503,0,-9.074,1,0.0663,0.612,0.00078,0.335,0.476,157.555,180200,https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b,0
+Sorry,Matt Haughey,45,0.422,0.503,0,-9.074,1,0.0663,0.612,0.00078,0.335,0.476,157.555,180200,https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de,0
+Chanel Bag,KillBunk,77,0.567,0.303,7,-12.481,0,0.0351,0.862,0.00563,0.104,0.252,124.949,273000,https://i.scdn.co/image/ab67616d0000b2737f58098c22f0d5d521d3a465,0
+Lowkey,Ollie,40,0.57,0.256,6,-10.269,1,0.0368,0.535,0.000685,0.114,0.252,120.019,184079,https://i.scdn.co/image/ab67616d0000b27327d27aa0719f69df2c50f4dd,0
+"Runnin (with A$AP Rocky, A$AP Ferg & Nicki Minaj)",Mike WiLL Made-It,79,0.608,0.358,0,-10.018,0,0.0253,0.854,0.0186,0.113,0.365,103.94,202010,https://i.scdn.co/image/ab67616d0000b273e8230123dfe625c953eabae2,0
+Go Crazy,Chris Brown,0,0.517,0.762,11,-5.807,0,0.0453,0.162,0.0,0.0897,0.351,156.93,241292,https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc,2
+Going Bad (feat. Drake),Meek Mill,43,0.597,0.323,5,-11.992,1,0.039,0.613,0.828,0.0799,0.358,75.006,195080,https://i.scdn.co/image/ab67616d0000b273cd63c5962050729d260077d6,3
+Down Below,Roddy Ricch,61,0.68,0.64,1,-6.691,0,0.0336,0.29,0.00593,0.124,0.738,105.981,322267,https://i.scdn.co/image/ab67616d0000b273434f4eeb4231f6f4862cafd4,2
+Roses Remix (feat. Future),SAINt JHN,80,0.805,0.33,1,-8.712,0,0.1,0.22,0.0,0.105,0.211,121.97,242983,https://i.scdn.co/image/ab67616d0000b27358bdd2272afc23c77c74b443,0
+Dil Haare,Ankur Tewari,81,0.53,0.593,5,-7.286,1,0.0545,0.385,0.0,0.314,0.538,125.723,158537,https://i.scdn.co/image/ab67616d0000b273a24f426a3301ef2ad197f453,2
+Jiyein Kyun,Pritam,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b273e39388ba8eadf58476135087,0
+Roadtrip,Dream,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b2735737d500a8f8f365e895bcf3,0
+"Agar Tum Saath Ho (From ""Tamasha"")",Alka Yagnik,54,0.595,0.628,1,-9.449,0,0.317,0.183,0.315,0.122,0.17,102.029,230000,https://i.scdn.co/image/ab67616d0000b2737569cbe3695608074d9fd389,1
+"Jeena Jeena (From ""Badlapur"")",Atif Aslam,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b2730898b7768e930286db7aac98,0
+Valentine's Mashup 2019,Amrita Singh,51,0.636,0.379,11,-16.21,1,0.029,0.759,0.852,0.114,0.341,105.016,300278,https://i.scdn.co/image/ab67616d0000b273ac8ca51078a4640572463a8b,3
+Tere Sang Yaara,Atif Aslam,34,0.265,0.316,4,-13.888,0,0.0605,0.9,0.0607,0.1,0.176,169.741,297179,https://i.scdn.co/image/ab67616d0000b2733a2753349e18d67b45e5b24d,0
+Pehli Nazar Mein,Atif Aslam,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b273a0174ac9f29d0d48d76c3e00,0
+Pehli Dafa,Atif Aslam,48,0.569,0.667,2,-8.492,1,0.0408,0.747,0.762,0.275,0.645,87.372,201618,https://i.scdn.co/image/ab67616d0000b273afd2bc3f876235be94c0d36d,0
+Paris (feat. GASHI),DJ Snake,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b273caf82abb2338880577e472be,0
+Kindness,MØ,46,0.533,0.231,2,-14.538,1,0.0316,0.951,0.0994,0.107,0.337,111.025,169805,https://i.scdn.co/image/ab67616d0000b273220247f035d2aef153b25998,0
+Touch It,KiDi,45,0.422,0.503,0,-9.074,1,0.0663,0.612,0.00078,0.335,0.476,157.555,180200,https://i.scdn.co/image/ab67616d0000b273e2f0b004bac34682a3b45fdb,0
+In My Bed,Rotimi,67,0.278,0.494,7,-7.853,0,0.029,0.157,0.000407,0.173,0.527,169.661,427093,https://i.scdn.co/image/ab67616d0000b27388baf26d47f060273280edf5,0
+Vibration,Fireboy DML,42,0.614,0.278,0,-8.975,1,0.0333,0.416,0.000755,0.092,0.0598,144.218,213813,https://i.scdn.co/image/ab67616d0000b273aae14cf375b0a110cfeb37c0,0
+Dusty Blue,Charles Bradley,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b27364558c100755ffd78cb4f9d0,0
+Back To Black,Amy Winehouse,54,0.595,0.628,1,-9.449,0,0.317,0.183,0.315,0.122,0.17,102.029,230000,https://i.scdn.co/image/ab67616d0000b27376ffb5b5ab045d22c81235c1,1
+A Gentle Awakening,JD McPherson,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b273066c8ea7d414c9e56f95502d,0
+When I'm Small,Phantogram,58,0.619,0.223,8,-8.237,0,0.03,0.964,5.86e-05,0.0883,0.179,81.414,208213,https://i.scdn.co/image/ab67616d0000b27315f856c044360b26ac41f109,0
+Where Do We Go From Here,Charles Bradley,55,0.52,0.279,5,-10.739,0,0.0547,0.894,0.000105,0.103,0.0951,69.642,198627,https://i.scdn.co/image/ab67616d0000b273d0b11ad583e832a02f0bed8e,0
+The One I Love,Mirror Fury,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b273135322c78a93ff9b1f392c3a,0
+The Gentle Rain - RJD2 Remix,Astrud Gilberto,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b273c9d1df276e1e68be4a50dcec,0
+Sing Sing - The Bones of Jr. Jones RMX,Martin Hübner,54,0.595,0.628,1,-9.449,0,0.317,0.183,0.315,0.122,0.17,102.029,230000,https://i.scdn.co/image/ab67616d0000b273f6fe25a1431e8d032dd99740,1
+Short Change Hero,The Heavy,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b27387aa34532133fbd0ba267b16,0
+Thodu Vaanam,Harris Jayaraj,75,0.519,0.625,10,-5.909,1,0.0482,0.349,0.0,0.121,0.21,120.103,203187,https://i.scdn.co/image/ab67616d0000b2737f321a49a5fd18e4b2258118,0
+Kotha,Rahgir,77,0.567,0.303,7,-12.481,0,0.0351,0.862,0.00563,0.104,0.252,124.949,273000,https://i.scdn.co/image/ab67616d0000b273199e7c3d46fcd7d939237ce9,0
+"Bol Do Na Zara (From ""Azhar"")",Armaan Malik,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b273f4e88554baba207fc6878ab5,0
+"Dharala Prabhu Title Track (From ""Dharala Prabhu"")",Anirudh Ravichander,54,0.595,0.628,1,-9.449,0,0.317,0.183,0.315,0.122,0.17,102.029,230000,https://i.scdn.co/image/ab67616d0000b273f7021406e443394927e3da62,1
+Sajdaa,Shankar-Ehsaan-Loy,93,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,200040,https://i.scdn.co/image/ab67616d0000b2730b7a25dad85eb88ffb5f942d,2
+Bhai Re,Rahgir,76,0.615,0.774,4,-5.152,0,0.0551,0.0173,0.0,0.15,0.336,136.887,191364,https://i.scdn.co/image/ab67616d0000b2739b10e4f45fc6ca3cccf6ce37,2
+Kanave Nee Naan,Sooraj Santhosh,66,0.544,0.704,4,-5.678,0,0.0435,0.0156,0.0,0.164,0.265,80.029,189062,https://i.scdn.co/image/ab67616d0000b27319762c7fa8f79a21151bc4b5,2
+Asal Mein,Darshan Raval,76,0.615,0.774,4,-5.152,0,0.0551,0.0173,0.0,0.15,0.336,136.887,191364,https://i.scdn.co/image/ab67616d0000b2736597f07e711333210fa77b1c,2
+Vaseegara And Zara Zara Mashup,Jonita Gandhi,58,0.646,0.758,10,-4.34,1,0.0314,0.191,0.097,0.103,0.424,91.998,249067,https://i.scdn.co/image/ab67616d0000b273fa038b49bbb4a4df0fe27cde,2
+The Angel and the Fool,Broken Bells,44,0.475,0.939,1,-2.844,1,0.0456,0.00291,0.0464,0.182,0.0492,127.978,191250,https://i.scdn.co/image/ab67616d0000b2739c111e02e4ae7cc0d1caa91d,2
+Same For You,Lee DeWyze,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b2738b95295e3502c549fa044937,0
+Blackbird Song,Lee DeWyze,80,0.403,0.422,7,-13.964,0,0.0373,0.134,2.05e-05,0.0861,0.378,122.728,241293,https://i.scdn.co/image/ab67616d0000b2737c87318fe48c57e58440e8fa,0
+Let's Talk It Over,Lee Fields,44,0.541,0.512,1,-8.633,1,0.0292,0.551,0.12,0.151,0.264,120.011,229895,https://i.scdn.co/image/ab67616d0000b27387aee349839b91fe57da5a05,0
+How You Like Me Now? - Raffertie Remix,The Heavy,44,0.541,0.512,1,-8.633,1,0.0292,0.551,0.12,0.151,0.264,120.011,229895,https://i.scdn.co/image/ab67616d0000b27314bad9bc31d566296b2eadab,0
+Waves,Dean Lewis,48,0.338,0.777,2,-8.936,0,0.0946,0.0324,0.00374,0.193,0.514,77.567,191338,https://i.scdn.co/image/ab67616d0000b273a787f718fb485b66d6219247,2
+When I Go,Keaton Simons,48,0.338,0.777,2,-8.936,0,0.0946,0.0324,0.00374,0.193,0.514,77.567,191338,https://i.scdn.co/image/ab67616d0000b273a0f7f239974eefe88368c4df,2
+Take Me Higher,Old Man Canyon,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b273a80577bffb2537bb15118e7a,0
+In the Rain,Old Man Canyon,54,0.595,0.628,1,-9.449,0,0.317,0.183,0.315,0.122,0.17,102.029,230000,https://i.scdn.co/image/ab67616d0000b2739ed5fcf212f05d55b1e61eae,1
+Wiser,Old Man Canyon,58,0.619,0.223,8,-8.237,0,0.03,0.964,5.86e-05,0.0883,0.179,81.414,208213,https://i.scdn.co/image/ab67616d0000b273073da07ef5b663b6e135a5a0,0
+Phantoms and Friends,Old Man Canyon,75,0.77,0.882,8,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,223523,https://i.scdn.co/image/ab67616d0000b273073da07ef5b663b6e135a5a0,2
+Bare,WILDES,81,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,201661,https://i.scdn.co/image/ab67616d0000b27348488a8c3943b4183f4caaee,2
+The Road,Old Man Canyon,44,0.541,0.512,1,-8.633,1,0.0292,0.551,0.12,0.151,0.264,120.011,229895,https://i.scdn.co/image/ab67616d0000b273e5551dc0359b1ce82ef078f4,0
+Bloodstream,Stateless,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd,0
+Let Me Down Slowly,Alec Benjamin,48,0.338,0.777,2,-8.936,0,0.0946,0.0324,0.00374,0.193,0.514,77.567,191338,https://i.scdn.co/image/ab67616d0000b273459d675aa0b6f3b211357370,2
+Pieces (Hushed),Andrew Belle,58,0.619,0.223,8,-8.237,0,0.03,0.964,5.86e-05,0.0883,0.179,81.414,208213,https://i.scdn.co/image/ab67616d0000b273bb1bc6204596d67156338b77,0
+Half Light,BANNERS,39,0.698,0.599,0,-8.609,0,0.0262,0.474,0.269,0.28,0.656,90.762,359413,https://i.scdn.co/image/ab67616d0000b2738e0ee2f5b1187bf15516d40c,2
+Someone To Stay,Vancouver Sleep Clinic,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b273dabc6fe9dd3454884cf65071,0
+Weight,Lee DeWyze,42,0.41,0.433,0,-11.237,1,0.0358,0.35,0.00106,0.0676,0.605,188.079,206320,https://i.scdn.co/image/ab67616d0000b2734f9b5941cfd6cf5c95992772,0
+Bloom (Online Bonus Track),The Paper Kites,43,0.597,0.323,5,-11.992,1,0.039,0.613,0.828,0.0799,0.358,75.006,195080,https://i.scdn.co/image/ab67616d0000b2730c199cd60dfe661ff2773630,3
+I Found,Amber Run,42,0.635,0.433,11,-7.682,0,0.029,0.86,0.43,0.0877,0.489,130.111,217373,https://i.scdn.co/image/ab67616d0000b27307a1897752cd38db3e9e43f3,0
+Need Your Love,Curtis Harding,61,0.68,0.64,1,-6.691,0,0.0336,0.29,0.00593,0.124,0.738,105.981,322267,https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b,2
+Cruel World,Phantogram,67,0.278,0.494,7,-7.853,0,0.029,0.157,0.000407,0.173,0.527,169.661,427093,https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f,0
+Blinded,Emmit Fenn,67,0.788,0.605,1,-5.586,1,0.0578,0.00899,0.00275,0.318,0.427,103.94,173973,https://i.scdn.co/image/ab67616d0000b273f996112a93f587975046dc42,2
+Where's My Love,SYML,79,0.758,0.712,7,-3.781,1,0.112,0.0185,0.0,0.0677,0.795,149.998,193387,https://i.scdn.co/image/ab67616d0000b2730539a4e5168866136e416522,2
+Human,Rag'n'Bone Man,76,0.728,0.431,6,-9.966,0,0.0622,0.749,0.0,0.0996,0.629,130.022,147800,https://i.scdn.co/image/ab67616d0000b27390a788beadaad34ff684d3ec,0
+Ophelia,The Lumineers,83,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,263373,https://i.scdn.co/image/ab67616d0000b27321b550b66cf1391c6642088c,1
+Leave a Light On,Tom Walker,80,0.772,0.878,2,-4.22,1,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747,https://i.scdn.co/image/ab67616d0000b273bc1a09ac82f9aa9af62f2ca4,1
+Fire,Barns Courtney,86,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,166606,https://i.scdn.co/image/ab67616d0000b273c4644b52f09c1932f32f7e4d,2
+The Meetings of the Waters,Fionn Regan,60,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,313800,https://i.scdn.co/image/ab67616d0000b27357588318cff6238a1977868d,0
+And You Evade Him/Born in the Blood,Joshua Burnside,93,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,0.546,87.981,143901,https://i.scdn.co/image/ab67616d0000b273bf76431e722f665fc8332f20,2
+Beneath the Surface,Demons Of Ruby Mae,90,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,238805,https://i.scdn.co/image/ab67616d0000b273ace6e12cea26b7471bf5d5a1,2
+Whiskey Whiskey,Joshua Burnside,54,0.488,0.523,4,-8.55,0,0.0315,0.331,0.00028,0.149,0.0553,160.047,252059,https://i.scdn.co/image/ab67616d0000b27323f68790c67fdd51ecd87f2f,0
+Love & Hate,Michael Kiwanuka,61,0.68,0.64,1,-6.691,0,0.0336,0.29,0.00593,0.124,0.738,105.981,322267,https://i.scdn.co/image/ab67616d0000b2731070095e88dce90a090171b5,2
+Way down We Go - Stripped,KALEO,67,0.278,0.494,7,-7.853,0,0.029,0.157,0.000407,0.173,0.527,169.661,427093,https://i.scdn.co/image/ab67616d0000b273f3979edcd438012ac65d87a3,0
+Be Alright,Dean Lewis,54,0.595,0.628,1,-9.449,0,0.317,0.183,0.315,0.122,0.17,102.029,230000,https://i.scdn.co/image/ab67616d0000b27313480e8127119dcb882eb53d,1
+Brother,Kodaline,80,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,https://i.scdn.co/image/ab67616d0000b273b62efc8fa0cbf9bdd3331e49,0
+Unsteady - Erich Lee Gravity Remix,X Ambassadors,85,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,226600,https://i.scdn.co/image/ab67616d0000b27307143820b9a752eef7eb8643,0
+The Woods,Hollow Coves,62,0.78,0.684,0,-5.758,1,0.0636,0.17,0.0,0.105,0.732,149.916,173467,https://i.scdn.co/image/ab67616d0000b2732735fa941859fad0e5cc7460,2
+Want It Kept,Many Voices Speak,0,0.568,0.788,5,-6.28,1,0.0377,0.0101,0.0,0.141,0.46,104.959,183070,https://i.scdn.co/image/ab67616d0000b2738a44d6b1be0d88489fce62f8,2
+Electricity,Sam Pinkerton,53,0.883,0.728,0,-6.079,1,0.0506,0.228,0.0,0.173,0.489,104.037,174027,https://i.scdn.co/image/ab67616d0000b273a334001297c78a5da11d5b58,2
+Illuminate,The Kite String Tangle,54,0.649,0.758,10,-5.647,0,0.0581,0.0364,4.12e-05,0.36,0.737,120.001,167811,https://i.scdn.co/image/ab67616d0000b273b54cdfbfaa828674ffecd12c,2
+BE OK,Samoht,79,0.766,0.706,7,-6.553,0,0.16,0.223,0.00028,0.064,0.766,142.989,172598,https://i.scdn.co/image/ab67616d0000b273f0f2cd0c1076824b0c889187,2
+Dreams (feat. LUISAH),Blasterjaxx,50,0.55,0.234,0,-10.264,1,0.0358,0.941,2.96e-06,0.0996,0.233,72.799,341918,https://i.scdn.co/image/ab67616d0000b27311c497674d516a461eb63c89,0
+Never Really Over,Katy Perry,80,0.805,0.33,1,-8.712,0,0.1,0.22,0.0,0.105,0.211,121.97,242983,https://i.scdn.co/image/ab67616d0000b2739bea3b79b95f86d1b66ac960,0

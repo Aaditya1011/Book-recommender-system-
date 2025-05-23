@@ -18,6 +18,7 @@ pandas
 python-dateutil 
 pytz 
 six 
+scikit-learn
 tzdata 
 Werkzeug 
 zipp 
